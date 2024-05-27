@@ -5,9 +5,7 @@
 * [2023.12.16] The repository is started.
 
 ## Surveys 
-* **RGBT tracking: A comprehensive review**
-  
-  Mingzheng Feng, Jianbo Su. Information Fusion 2024. [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253524002707)]
+* **RGBT tracking: A comprehensive review** Mingzheng Feng, Jianbo Su. Information Fusion 2024. [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253524002707)]
 
 
 
