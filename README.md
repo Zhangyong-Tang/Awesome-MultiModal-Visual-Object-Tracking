@@ -27,7 +27,7 @@
 
 ## Regular Papers 
 
-# RGB-T Tracking
+### RGB-T Tracking
 
 # RGB-D Tracking
 
