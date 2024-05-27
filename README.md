@@ -1,4 +1,4 @@
-#  A Comprehensive Survey for MultiModal-Visual-Object-tracking
+#  A Comprehensive Survey for Multi-Modal Visual Object tracking
 
 
 ## :collision: Update Log 
@@ -6,6 +6,7 @@
 
 ## Surveys 
 * **RGBT tracking: A comprehensive review**
+  
   Mingzheng Feng, Jianbo Su. Information Fusion 2024. [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253524002707)]
 
 
