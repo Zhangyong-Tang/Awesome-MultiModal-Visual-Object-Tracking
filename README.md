@@ -1,5 +1,8 @@
 #  A Comprehensive Survey for Multi-Modal Visual Object tracking
 
+<p align="center">
+<img src="https://github.com/Zhangyong-Tang/MultiModal-Visual-Object-tracking/edit/main/logo.png" width="250">
+</p>
 
 ## :collision: Update Log 
 * [2023.12.16] The repository is started.
