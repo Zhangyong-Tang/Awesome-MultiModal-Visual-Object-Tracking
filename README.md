@@ -28,29 +28,20 @@
 ## Regular Papers 
 
 ### RGB-T Tracking
+2024
+* Review and Analysis of RGBT Single Object Tracking Methods: A Fusion Perspective. Zhihao Zhang, Jun Wang, Zhuli Zang, Lei Jin, Shengjie Li, Hao Wu*,Jian Zhao, Zhang Bo. ACM TOMM 2024. [[Paper](https://dl.acm.org/doi/10.1145/3651308)]
+
 
 ### RGB-D Tracking
 
+
 ### RGB-E Tracking
 
+
 ### RGB-L Tracking
+
 
 ### RGB-NIR Tracking
 
 
 
- ## Regular papers
-
- 1.RGBT Tracking
-
-（1）Please refer to this [rep](https://arxiv.org/abs/2201.09296)
-
- (2) Zhang X, Ye P, Leung H, et al. Object fusion tracking based on visible and infrared images: A comprehensive review[J]. Information Fusion, 2020, 63: 166-187. [paper](https://www.sciencedirect.com/science/article/pii/S1566253520302657)
-
- 2.RGBD Tracking
-
-（1）Zhu X F, Xu T, Wu X J. Visual object tracking on multi-modal RGB-D videos: a review[J]. arXiv preprint arXiv:2201.09207, 2022. [paper](https://arxiv.org/abs/2201.09207) 
-
- 3.RGBE Tracking
-
- 4.RGBL Tracking
