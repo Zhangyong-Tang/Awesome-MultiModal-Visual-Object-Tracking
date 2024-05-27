@@ -4,6 +4,9 @@
 <img src="https://github.com/Zhangyong-Tang/MultiModal-Visual-Object-tracking/blob/main/logo.png" width="500">
 </p>
 
+#### We appreciate any efforts committed to the development of Multi-Modal Visual Object Tracking. Please feel free to connect us (zhangyong_tang_jnu@163.com) for discussion or missed works.
+
+
 ## :collision: Update Log 
 * [2023.12.16] The repository is started.
 
