@@ -1,7 +1,7 @@
 #  A Comprehensive Survey for Multi-Modal Visual Object tracking
 
 <p align="center">
-<img src="https://github.com/Zhangyong-Tang/MultiModal-Visual-Object-tracking/logo.png" width="250">
+<img src="https://github.com/Zhangyong-Tang/MultiModal-Visual-Object-tracking/tree/main/logo.png" width="250">
 </p>
 
 ## :collision: Update Log 
