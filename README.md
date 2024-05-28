@@ -13,6 +13,7 @@
 ## Datasets and Benchmarks
 
 
+
 ## Surveys 
 * RGBT ---- RGBT tracking: A comprehensive review. Mingzheng Feng, Jianbo Su*. Information Fusion 2024. [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253524002707)]
 * RGBT ---- Review and Analysis of RGBT Single Object Tracking Methods: A Fusion Perspective. Zhihao Zhang, Jun Wang, Zhuli Zang, Lei Jin, Shengjie Li, Hao Wu*,Jian Zhao, Zhang Bo. ACM TOMM 2024. [[Paper](https://dl.acm.org/doi/10.1145/3651308)]
@@ -64,9 +65,24 @@
 * 
 
 ## Compeletations
+ 1. [AntiUAV 1st](https://anti-uav.github.io/)
+	The first AntiUAV challenge is a multi-modal challenge. It was held in 2020.  The website for the 1st AntiUAV is covered by the newest one. The winner is team *xiaobaibai*. One of its member is [Tianyang Xu](https://xu-tianyang.github.io/)
+ 2. [VOT-RGBT2019](https://votchallenge.net/vot2019/)
+ 	The first competition in the RGBT tracking community. It was held in 2019. The winner is *SiamDW*.
+ 3. [VOT-RGBT2020]
+    A competition in the RGBT tracking community. It was held in 2020. The winner is *DFAT*. One of its member is [Zhangyong Tang](https://github.com/Zhangyong-Tang/)
 
+-----
 
 ## Acknowledgements
+This work is supported by [PRCI-Lab](https://github.com/PRCI-Lab), which is an outstanding and also fast-developing group. Please feel free to find out more information through its home page.
+
+
+**Questions**
+
+If you have any questions, please contact zhangyong_tang_jnu@163.com, and wechat: Tzy18861871359  is also welcomed.
+
+
 
 ## Star History
 
