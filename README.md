@@ -72,7 +72,6 @@
  3. [VOT-RGBT2020]
     A competition in the RGBT tracking community. It was held in 2020. The winner is *DFAT*. One of its member is [Zhangyong Tang](https://github.com/Zhangyong-Tang/)
 
------
 
 ## Acknowledgements
 This work is supported by [PRCI-Lab](https://github.com/PRCI-Lab), which is an outstanding and also fast-developing group. Please feel free to find out more information through its home page.
@@ -80,7 +79,7 @@ This work is supported by [PRCI-Lab](https://github.com/PRCI-Lab), which is an o
 
 **Questions**
 
-If you have any questions, please contact zhangyong_tang_jnu@163.com, and wechat: Tzy18861871359  is also welcomed.
+If you have any questions, please feel free to start the issue, or contact me at zhangyong_tang_jnu@163.com (wechat: Tzy18861871359  is also welcomed).
 
 
 
