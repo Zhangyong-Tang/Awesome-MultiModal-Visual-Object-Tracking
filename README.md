@@ -81,7 +81,7 @@
 | Dataset | Publish  | GitHub| Introduction|
 |--|--|--| --|
 | UniMod1K| IJCV'2024 |[UniMod1K](https://github.com/xuefeng-zhu5/UniMod1K) |RGB+D+L|
-| WebUAV-3M| TPAMI'2023 | [WebUAV-3M](https://github.com/983632847/WebUAV-3M) | -|
+| WebUAV-3M| TPAMI'2023 | [WebUAV-3M](https://github.com/983632847/WebUAV-3M) | RGB+L+Audio|
 
 
 ## Surveys 
