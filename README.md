@@ -14,6 +14,13 @@
 
 ## Datasets and Benchmarks
 
+### RGB-Mutli Datasets
+
+| Dataset | Publish  | GitHub| Introduction|
+|--|--|--| --|
+| UniMod1K| IJCV'2024 |[UniMod1K](https://github.com/xuefeng-zhu5/UniMod1K) |RGB+D+L|
+| WebUAV-3M| TPAMI'2023 | [WebUAV-3M](https://github.com/983632847/WebUAV-3M) | RGB+L+Audio|
+
 ### RGBT Datasets
 
 | Dataset | Publish  | GitHub| Introduction|
@@ -75,13 +82,6 @@
 | CMOTB| TNNLS'2024 |[CMOTB](https://github.com/xfarawayx/CMOTB_Toolkit?tab=readme-ov-file) |-|
 
 
-
-### RGB-Mutli Datasets
-
-| Dataset | Publish  | GitHub| Introduction|
-|--|--|--| --|
-| UniMod1K| IJCV'2024 |[UniMod1K](https://github.com/xuefeng-zhu5/UniMod1K) |RGB+D+L|
-| WebUAV-3M| TPAMI'2023 | [WebUAV-3M](https://github.com/983632847/WebUAV-3M) | RGB+L+Audio|
 
 
 ## Surveys 
