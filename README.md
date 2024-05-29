@@ -116,7 +116,6 @@ Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu*, Yong Liu*. CVPR 2024. [[Pap
 * Temporal Adaptive RGBT Tracking with Modality Prompt. Hongyu Wang, Xiaotao Liu*, Yifan Li, Meng Sun, Dian Yuan, Jing Liu. AAAI 2024. [[Paper](https://arxiv.org/abs/2401.01244)].
 * QueryTrack: Joint-Modality Query Fusion Network for RGBT Tracking. Fan, Huijie and Yu, Zhencheng and Wang, Qiang and Fan, Baojie and Tang, Yandong. TIP 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10516307)]
 * RGBT Tracking via Challenge-Based Appearance Disentanglement and Interaction.  Liu, Lei and Li, Chenglong and Xiao, Yun and Ruan, Rui and Fan, Minghao. TIP 2024. CAT++.
-* 
 * RGBT Tracking via Progressive Fusion Transformer with Dynamically Guided Learning. Yabin Zhu, Chenglong Li, Xiao Wang, Jin Tang, Zhixiang Huang. TCSVT 2024. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10506555)]. 
 * A content-aware correlation filter with multi-feature fusion for RGB-T tracking. FENG Zihang, YAN Liping*, BAI Jinglan, XIA Yuanqing, and XIAO Bo. Journal of Systems Engineering and Electronics 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10530492)]
 * AMNet: Learning to Align Multi-modality for RGB-T Tracking. Zhang Tianlu, He Xiaoyi, Jiao Qiang, Zhang Qiang, Han Jungong. TCSVT 2024. AMNet.
@@ -143,6 +142,8 @@ Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu*, Yong Liu*. CVPR 2024. [[Pap
 * Differential Enhancement and Commonality Fusion for RGBT Tracking. Yang, Jianrong and Dong, Enzeng and Tong, Jigang and Yang, Sen and Zhang, Zufeng and Li, Wenyu. ICMA 2023. DECFNet
 * Drone Based RGBT Tracking with Dual-Feature Aggregation Network. Zhinan Gao, Dongdong Li, Gongjian Wen, Yangliu Kuai, Rui Chen. Drones 2023.
 * Dual-Modality Space-Time Memory Network for RGBT Tracking. Fan Zhang, Hanwei Peng, Lingli Yu, Yuqian Zhao, Baifan Chen. TIM 2023. DMSTM
+* Temporal Aggregation for Adaptive RGBT Tracking. Tang, Zhangyong and Xu, Tianyang and Wu, Xiao-Jun. Arxiv 2022. TAAT
+* Bayesian Dumbbell Diffusion Model for RGBT Object Tracking With Enriched Priors. Fan, Shenghua and He, Chu and Wei, Chenxia and Zheng, Yujin and Chen, Xi. SPL 2023. BD2Track
 * 
 
 2022
@@ -156,6 +157,7 @@ Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu*, Yong Liu*. CVPR 2024. [[Pap
 * RGBT Tracking by Trident Fusion Network. Zhu Yabin and Li, Chenglong and Tang, Jin and Luo, Bin and Wang, Liang. TCSVT 2022. TFNet.
 * Learning reliable modal weight with transformer for robust RGBT tracking. Mingzheng Feng, Jianbo Su. KBS 2022.
 * MIRNET: A ROBUST RGBT TRACKING JOINTLY WITH MULTI-MODAL INTERACTION AND REFINEMENT. Ruichao Hou, Tongwei Ren , Gangshan Wu. ICME 2022. MIRNet
+* Prompting for multi-modal tracking. Yang, Jinyu and Li, Zhe and Zheng, Feng and Leonardis, Ales and Song, Jingkuan. ACM MM 2022. ProTrack
 * 
 
 
@@ -208,10 +210,24 @@ Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu*, Yong Liu*. CVPR 2024. [[Pap
 * Weighted Low-Rank Decomposition for Robust Grayscale-Thermal Foreground Detection. Chenglong Li, Xiao Wang, Lei Zhang, Jin Tang, Hejun Wu, and Liang Lin. TCSVT 2017. WELD
 * 
 
+2016
+
+* Real-Time Grayscale-Thermal Tracking via Laplacian Sparse Representation. Chenglong Li, Shiyi Hu, Sihan Gao, and Jin Tang. MultiMedia Modeling 2016.
+
 2012
 
 * Fusion tracking in color and infrared images using joint sparse representation. LIU HuaPing, SUN FuChun. Science China Information Sciences 2012. JSR
-* 
+
+
+2011
+
+* Multiple Source Data Fusion via Sparse Representation for Robust Visual Tracking. Wu, Yi and Blasch, Erik and Chen, Genshe and Bai, Li and Ling, Haibin. ICIF 2011. L1-PF
+
+
+2008
+
+* Thermo-visual feature fusion for object tracking using multiple spatiogram trackers. Conaire C Ó, O’Connor N E, Smeaton A. Machine Vision and Applications 2008.
+
 
 2007
 
@@ -220,7 +236,8 @@ Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu*, Yong Liu*. CVPR 2024. [[Pap
 
 2006
 
-* The influence of multi-sensor video fusion on object tracking using a particle filter. Mihaylova L., Loza A., Nikolov S. G., Lewis J. J., Canga E. -F., Li, J., Dixon T., Canagarajah C. N., Bull D. R. INFORMATIK 2006 
+* The influence of multi-sensor video fusion on object tracking using a particle filter. Mihaylova L., Loza A., Nikolov S. G., Lewis J. J., Canga E. -F., Li, J., Dixon T., Canagarajah C. N., Bull D. R. INFORMATIK 2006
+* Comparison of fusion methods for thermo-visual surveillance tracking. Conaire, C.O. and O'Connor, N.E. and Cooke, E. and Smeaton, A.F. ICIF 2006.
 
 
 
