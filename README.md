@@ -25,16 +25,16 @@
 
 | Dataset | Publish  | GitHub| Introduction|
 |--|--|--| --|
-| MV-RGBT| Arxiv'2024 |[MV-RGBT]() |122 video pairs. The data in this benchmark mainly focus on the modality validity.|
-| VTUAV| CVPR'2022 |[VTUAV](https://zhang-pengyu.github.io/DUT-VTUAV/) | imaged in the top-down view by uav, long-term;176 videos in the test-st, which has around 3500 frames in average|
-| LasHeR| TIP'2021 | [LasHeR](https://github.com/BUGPLEASEOUT/LasHeR) | train/test split, imaged in the head-up view, above 70W image pairs in total; 245 videos in the test set|
-| VOT-RGBT20| VOT Community： 2020 | [VOT-RGBT2020](https://pan.baidu.com/s/1fNgAVk4siqP2p-b1M2ZGmg ) *CODE:TZYD*| 60 Video pairs, its data is the same with VOT-RGBT2019, but with different evaluation mechanism|
-| VOT-RGBT19| VOT Community：2019 |[VOT-RGBT2019](https://pan.baidu.com/s/1kYnTTWF9LIkrCH4NNsSlFQ) *CODE:TZYD* | 60 Video pairs, about 2W frame pairs, a sub-set of RGBT 234|
-| RGBT234| PR'2018 | [RGBT234](https://sites.google.com/view/ahutracking001/)| 234 Video pairs, the extension of RGBT210 |
-| RGBT210| ACM MM'2017 | [RGBT210](https://drive.google.com/file/d/0B3i2rdXLNbdUTkhsLVRwcTBTMlU/view?resourcekey=0-vytg_w3hqlQfLhoiS2J8Dg) | 210 Video pairs|
-| GTOT | TIP'2016 | [GTOT](https://pan.baidu.com/s/1QNidEo-HepRaS6OIZr7-Cw) | 50 Video pairs, about 1.5W frames|
-| LITIV | CVIU'2012 | [LITIV](https://www.polymtl.ca/litiv/en/codes-and-datasets) | 9 video pairs|
-| OTCBVS | CVIU'2007 | [OTCBVS](http://vcipl-okstate.org/pbvs/bench/) | 6 video pairs|
+| MV-RGBT| Arxiv'2024 |[MV-RGBT]() |Revisiting RGBT Tracking Benchmarks from the Perspective of Modality Validity: A New Benchmark, Problem, and Method|
+| VTUAV| CVPR'2022 |[VTUAV](https://zhang-pengyu.github.io/DUT-VTUAV/) |Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline|
+| LasHeR| TIP'2021 | [LasHeR](https://github.com/BUGPLEASEOUT/LasHeR) |LasHeR: A Large-scale High-diversity Benchmark for RGBT Tracking|
+| VOT-RGBT20| VOT Community： 2020 | [VOT-RGBT2020](https://www.votchallenge.net/publications.html) *CODE:TZYD*| 60 Video pairs, its data is the same with VOT-RGBT2019, but with different evaluation mechanism|
+| VOT-RGBT19| VOT Community：2019 |[VOT-RGBT2019](https://www.votchallenge.net/publications.html) *CODE:TZYD* | 60 Video pairs, about 2W frame pairs, a sub-set of RGBT 234|
+| RGBT234| PR'2018 | [RGBT234](https://sites.google.com/view/ahutracking001/)|RGB-T object tracking: Benchmark and baseline|
+| RGBT210| ACM MM'2017 | [RGBT210](https://drive.google.com/file/d/0B3i2rdXLNbdUTkhsLVRwcTBTMlU/view?resourcekey=0-vytg_w3hqlQfLhoiS2J8Dg) |Weighted Sparse Representation Regularized Graph Learning for RGB-T Object Tracking|
+| GTOT | TIP'2016 | [GTOT](https://pan.baidu.com/s/1QNidEo-HepRaS6OIZr7-Cw) |Learning Collaborative Sparse Representation for Grayscale-Thermal Tracking|
+| LITIV | CVIU'2012 | [LITIV](https://www.polymtl.ca/litiv/en/codes-and-datasets) |An iterative integrated framework for thermal–visible image registration, sensor fusion, and people tracking for video surveillance applications|
+| OTCBVS | CVIU'2007 | [OTCBVS](http://vcipl-okstate.org/pbvs/bench/) |Background-subtraction using contour-based fusionof thermal and visible imagery|
 | LSS-Dataset(from RGB) | TCSVT'2021 | [LSS-Dataset](https://pan.baidu.com/s/1x2hiqb2lSo54_4CI_L9YeQhttps://pan.baidu.com/s/1x2hiqb2lSo54_4CI_L9YeQ) ,code(Ye5Q)| Generated from VID|
 | LSS-Dataset(from TIR) | TCSVT'2021 | [LSS-Dataset](https://pan.baidu.com/s/1xD3Ox-9VbZnyRQSWOxQRNw),code(IHws) | Generated from TIR|
 
@@ -79,7 +79,8 @@
 
 | Dataset | Publish  | GitHub| Introduction|
 |--|--|--| --|
-| CMOTB| TNNLS'2024 |[CMOTB](https://github.com/xfarawayx/CMOTB_Toolkit?tab=readme-ov-file) |-|
+| CMOTB| TNNLS'2024 |[CMOTB]([https://github.com/xfarawayx/CMOTB_Toolkit?tab=readme-ov-file](https://github.com/mmic-lcl/Datasets-and-benchmark-code)) |Cross-Modal Object Tracking via Modality-Aware
+Fusion Network and A Large-Scale Dataset|
 
 
 
@@ -124,6 +125,8 @@ Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu*, Yong Liu*. CVPR 2024. [[Pap
 * Modality-missing RGBT Tracking: Invertible Prompt Learning and High-quality Benchmarks. Andong Lu, Jiacong Zhao, Chenglong Li, Jin Tang, Bin Luo. Arxiv 2024. IPL
 * Maximize Peak-to-Sidelobe Ratio for Real-Time RGB-T Tracking. Xu Zhu, Jun Liu, Xingzhong Xiong, and Zhongqiang Luo. TIM 2024. MPT
 * QueryTrack: Joint-Modality Query Fusion Network for RGBT Tracking. Fan, Huijie and Yu, Zhencheng and Wang, Qiang and Fan, Baojie and Tang, Yandong. TIP 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10516307)]
+* Revisiting RGBT Tracking Benchmarks from the Perspective of Modality Validity: A New Benchmark, Problem, and Method. Zhangyong Tang, Tianyang Xu, Zhenhua Feng, Xuefeng Zhu, He Wang, Pengcheng Shao, Chunyang Cheng,
+Xiao-Jun Wu∗, Muhammad Awais, Sara Atito, and Josef Kittler. Arxiv 2024. MV-RGBT
 * RGBT Tracking via Challenge-Based Appearance Disentanglement and Interaction.  Liu, Lei and Li, Chenglong and Xiao, Yun and Ruan, Rui and Fan, Minghao. TIP 2024. CAT++.
 * RGBT Tracking via Progressive Fusion Transformer with Dynamically Guided Learning. Yabin Zhu, Chenglong Li, Xiao Wang, Jin Tang, Zhixiang Huang. TCSVT 2024. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10506555)].
 * Robust RGB-T Tracking via Adaptive Modality Weight Correlation Filters and Cross-modality Learning. Mingliang Zhou, Xinwen Zhao, Futing Luo, Jun Luo, Huayan Pu, Tao Xiang. ACM TOMM 2024. AWCM
@@ -151,7 +154,8 @@ Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu*, Yong Liu*. CVPR 2024. [[Pap
 * Learning Modality Complementary Features with Mixed Attention Mechanism for RGB-T Tracking. Yang Luo, Xiqing Guo, Mingtao Dong, Jin Yu. Sensors 2023. MACFT
 * Learning cross-modal interaction for RGB-T tracking. Chunyan XU, Zhen CUI*, Chaoqun WANG, Chuanwei ZHOU & Jian YANG. SCIENCE CHINA Information Sciences 2023.
 * Learning modality feature fusion via transformer for RGBT-tracking. Yujue Cai, Xiubao Sui, Guohua Gu, Qian Chen. IPT 2023. MMMPT
-* Multiple frequency–spatial network for RGBT tracking in the presence of motion blur. Shenghua Fan, Xi Chen, Chu He, Lei Yu, Zhongjie Mao, Yujin Zheng. Neural Computing and Applications 2023. 
+* Multiple frequency–spatial network for RGBT tracking in the presence of motion blur. Shenghua Fan, Xi Chen, Chu He, Lei Yu, Zhongjie Mao, Yujin Zheng. Neural Computing and Applications 2023.
+* MTNet: Learning Modality-aware Representation with Transformer for RGBT Tracking. Ruichao Hou, Boyue Xu, Tongwei Ren, Gangshan Wu. ICME 2023. MTNet.
 * Online Learning Samples and Adaptive Recovery for Robust RGB-T Tracking. Jun Liu, Zhongqiang Luo, Xingzhong Xiong. TCSVT 2023. LSAR.
 * Object Fusion Tracking for RGB-T Images via Channel Swapping and Modal Mutual Attention. Luan, Tian and Zhang, Hui and Li, Jiafeng and Zhang, Jing and Zhuo, Li. IEEE Sensors Journal 2023.
 * Quality-Aware RGBT Tracking via Supervised Reliability Learning and Weighted Residual Guidance. Lei Liu, Chenglong Li, Yun Xiao, Jin Tang. ACM MM 2023. QAT.
@@ -208,6 +212,7 @@ Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu*, Yong Liu*. CVPR 2024. [[Pap
 * Enhanced Real-Time RGB-T Tracking by Complementary Learners. Qingyu Xu, Yangliu Kuai, Junggang Yang, and Xinpu Deng. Journal of Circuits, Systems and Computers 2021. EStaple
 * HDINet: Hierarchical Dual-Sensor Interaction Network for RGBT Tracking. Mei, Jiatian and Zhou, Dongming and Cao, Jinde and Nie, Rencan and Guo, Yanbu. IEEE Sensors Journal 2021. HDINet
 * Jointly Modeling Motion and Appearance Cues for Robust RGB-T Tracking. Zhang, Pengyu and Zhao, Jie and Bo, Chunjuan and Wang, Dong and Lu, Huchuan and Yang, Xiaoyun. TIP 2021. JMMAC.
+* LasHeR: A Large-scale High-diversity Benchmark for RGBT Tracking. Chenglong Li, Wanlin Xue, Yaqing Jia, Zhichen Qu, Bin Luo, Jin Tang, and Dengdi Sun. TIP 2021. LasHeR
 * Learning Adaptive Attribute-Driven Representation for Real-Time RGB-T Tracking. Pengyu Zhang, Dong Wang, Huchuan Lu, Xiaoyun Yang. IJCV 2021. ADRNet.
 * Learning a Twofold Siamese Network for RGB-T Object Tracking. Yangliu Kuai, Dongdong Li, and Que Qian. Journal of Circuits, Systems and Computers 2021. 
 * M5L: Multi-Modal Multi-Margin Metric Learning for RGBT Tracking. Zhengzheng Tu, Chun Lin, Chenglong Li, Jin Tang, Bin Luo. TIP 2021. M5L
@@ -241,6 +246,7 @@ Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu*, Yong Liu*. CVPR 2024. [[Pap
 * Learning Target-oriented Dual Attention for Robust RGB-T Tracking. Rui Yang, Yabin Zhu, Xiao Wang, Chenglong Li, Jin Tang. Arxiv 2019.
 * Multi-Modal Fusion for End-to-End RGB-T Tracking. Lichao Zhang, Martin Danelljan, Abel Gonzalez-Garcia, Joost van de Weijer, Fahad Shahbaz Khan. ICCVW 2019. mfDiMP
 * Multi-Adapter RGBT Tracking. Chenglong Li, Andong Lu, Aihua Zheng, Zhengzheng Tu, Jin Tang. ICCVW 2019. MANet
+* RGB-T object tracking: Benchmark and baseline. Chenglong Li, Xinyan Liang, Yijuan Lu, Nan Zhao, Jin Tang. PR 2019. RGBT234
 * SiamFT: An RGB-Infrared Fusion Tracking Method via Fully Convolutional Siamese Networks. XINGCHEN ZHANG, PING YE, SHENGYUN PENG, JUN LIU, KE GONG1, GANG XIAO. IEEE Access 2019. SiamFT
 * Thermal infrared and visible sequences fusion tracking based on a hybrid tracking framework with adaptive weighting scheme. Chengwei Luoa, Bin Suna, Ke Yanga, Taoran Lua, Wei-Chang Yeh. IPT 2019.
 
@@ -256,13 +262,18 @@ Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu*, Yong Liu*. CVPR 2024. [[Pap
 2017
 
 * Grayscale-Thermal Object Tracking via Multitask Laplacian Sparse Representation. Chenglong Li, Xiang Sun, Xiao Wang, Lei Zhang, and Jin Tang. TSMCS 2017.
+* Weighted Sparse Representation Regularized Graph Learning for RGB-T Object Tracking. Chenglong Li, Nan Zhao, Yijuan Lu, Chengli Zhu, Jin Tang. ACM MM 2017. RGBT210
+
+
 
 2016
 
+* Learning Collaborative Sparse Representation for Grayscale-Thermal Tracking. Chenglong Li, Hui Cheng, Shiyi Hu, Xiaobai Liu, Jin Tang, and Liang Lin. TIP 2016. GTOT
 * Real-Time Grayscale-Thermal Tracking via Laplacian Sparse Representation. Chenglong Li, Shiyi Hu, Sihan Gao, and Jin Tang. MultiMedia Modeling 2016.
 
 2012
 
+* An iterative integrated framework for thermal–visible image registration, sensor fusion, and people tracking for video surveillance applications. Atousa Torabi ⇑, Guillaume Massé, Guillaume-Alexandre Bilodeau. CVIU 2012. LITIV
 * Fusion tracking in color and infrared images using joint sparse representation. LIU HuaPing, SUN FuChun. Science China Information Sciences 2012. JSR
 
 
@@ -278,6 +289,7 @@ Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu*, Yong Liu*. CVPR 2024. [[Pap
 
 2007
 
+* Background-subtraction using contour-based fusion of thermal and visible imagery. James W. Davis *, Vinay Sharma. CVIU 2007. OTCBVS
 * The Effect of Pixel-Level Fusion on Object Tracking in Multi-Sensor Surveillance Video. N. Cvejic, S. G. Nikolov, H. D. Knowles, A. Łoza, A. Achim, D. R. Bull and C. N. Canagarajah. CVPR 2007.
 
 
@@ -304,14 +316,15 @@ Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu*, Yong Liu*. CVPR 2024. [[Pap
 * 
 
 ### RGB-NIR Tracking
-2024
-* Review and Analysis of RGBT Single Object Tracking Methods: A Fusion Perspective. Zhihao Zhang, Jun Wang, Zhuli Zang, Lei Jin, Shengjie Li, Hao Wu*,Jian Zhao, Zhang Bo. ACM TOMM 2024. [[Paper](https://dl.acm.org/doi/10.1145/3651308)]
-* 
+
+* Cross-Modal Object Tracking via Modality-Aware Fusion Network and A Large-Scale Dataset. Lei Liu, Mengya Zhang, Cheng Li, Chenglong Li, and Jin Tang. TNNLS 2024. CMOTB. [[Paper](https://github.com/mmic-lcl/Datasets-and-benchmark-code)]
+* Cross-Modal Object Tracking: Modality-Aware Representations and A Unified Benchmark. Chenglong Li, Tianhao Zhu, Lei Liu, Xiaonan Si, Zilin Fan, Sulan Zhai. AAAI 2022. CMOTB. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20016)] [[Code](https://github.com/xfarawayx/CMOTB_Toolkit)]
 
 ### RGB-Mutli Tracking
 
 * UniMod1K: Towards a More Universal Large-Scale Dataset and Benchmark for Multi-modal Learning. Xue-Feng Zhu, Tianyang Xu, Zongtao Liu, Zhangyong Tang, Xiao-Jun Wu & Josef Kittler. IJCV 2024. [[Paper](https://link.springer.com/article/10.1007/s11263-024-01999-8)]
 * WebUAV-3M: A Benchmark for Unveiling the Power of Million-Scale Deep UAV Tracking. Chunhui Zhang, Guanjie Huang, Li Liu, Shan Huang, Yinan Yang, Xiang Wan, Shiming Ge, and Dacheng Tao. TPAMI 2023. [[Paper](https://ieeexplore.ieee.org/document/10004511)]
+
 
 ## Compeletations
  1. [AntiUAV 1st](https://anti-uav.github.io/)
