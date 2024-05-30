@@ -79,8 +79,7 @@
 
 | Dataset | Publish  | GitHub| Introduction|
 |--|--|--| --|
-| CMOTB| TNNLS'2024 |[CMOTB]([https://github.com/xfarawayx/CMOTB_Toolkit?tab=readme-ov-file](https://github.com/mmic-lcl/Datasets-and-benchmark-code)) |Cross-Modal Object Tracking via Modality-Aware
-Fusion Network and A Large-Scale Dataset|
+| CMOTB| TNNLS'2024 |[CMOTB]([https://github.com/xfarawayx/CMOTB_Toolkit?tab=readme-ov-file](https://github.com/mmic-lcl/Datasets-and-benchmark-code)) |Cross-Modal Object Tracking via Modality-Aware Fusion Network and A Large-Scale Dataset|
 
 
 
