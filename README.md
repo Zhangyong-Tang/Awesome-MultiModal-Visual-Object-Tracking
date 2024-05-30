@@ -28,8 +28,8 @@
 | MV-RGBT| Arxiv'2024 |[MV-RGBT]() |Revisiting RGBT Tracking Benchmarks from the Perspective of Modality Validity: A New Benchmark, Problem, and Method|
 | VTUAV| CVPR'2022 |[VTUAV](https://zhang-pengyu.github.io/DUT-VTUAV/) |Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline|
 | LasHeR| TIP'2021 | [LasHeR](https://github.com/BUGPLEASEOUT/LasHeR) |LasHeR: A Large-scale High-diversity Benchmark for RGBT Tracking|
-| VOT-RGBT20| VOT Community： 2020 | [VOT-RGBT2020](https://www.votchallenge.net/publications.html) *CODE:TZYD*| 60 Video pairs, its data is the same with VOT-RGBT2019, but with different evaluation mechanism|
-| VOT-RGBT19| VOT Community：2019 |[VOT-RGBT2019](https://www.votchallenge.net/publications.html) *CODE:TZYD* | 60 Video pairs, about 2W frame pairs, a sub-set of RGBT 234|
+| VOT-RGBT20| VOT Community： 2020 | [VOT-RGBT2020](https://pan.baidu.com/s/1fNgAVk4siqP2p-b1M2ZGmg) *CODE:TZYD*| The Eighth Visual Object Tracking VOT2020 Challenge Results|
+| VOT-RGBT19| VOT Community：2019 |[VOT-RGBT2019](https://pan.baidu.com/s/1kYnTTWF9LIkrCH4NNsSlFQ) *CODE:TZYD* | The Seventh Visual Object Tracking VOT2019 Challenge Results|
 | RGBT234| PR'2018 | [RGBT234](https://sites.google.com/view/ahutracking001/)|RGB-T object tracking: Benchmark and baseline|
 | RGBT210| ACM MM'2017 | [RGBT210](https://drive.google.com/file/d/0B3i2rdXLNbdUTkhsLVRwcTBTMlU/view?resourcekey=0-vytg_w3hqlQfLhoiS2J8Dg) |Weighted Sparse Representation Regularized Graph Learning for RGB-T Object Tracking|
 | GTOT | TIP'2016 | [GTOT](https://pan.baidu.com/s/1QNidEo-HepRaS6OIZr7-Cw) |Learning Collaborative Sparse Representation for Grayscale-Thermal Tracking|
