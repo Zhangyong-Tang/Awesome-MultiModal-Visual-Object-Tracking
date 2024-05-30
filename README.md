@@ -329,7 +329,7 @@ Xiao-Jun Wu∗, Muhammad Awais, Sara Atito, and Josef Kittler. Arxiv 2024. MV-RG
 
 ### RGB-NIR Tracking
 
-* Cross-Modal Object Tracking via Modality-Aware Fusion Network and A Large-Scale Dataset. Lei Liu, Mengya Zhang, Cheng Li, Chenglong Li, and Jin Tang. TNNLS 2024. CMOTB. [[Paper](https://github.com/mmic-lcl/Datasets-and-benchmark-code)]
+* Cross-Modal Object Tracking via Modality-Aware Fusion Network and A Large-Scale Dataset. Lei Liu, Mengya Zhang, Cheng Li, Chenglong Li, and Jin Tang. TNNLS 2024. CMOTB. [[Paper](https://github.com/mmic-lcl/Datasets-and-benchmark-code)] [[Code](https://github.com/xfarawayx/CMOTB_Toolkit)]
 * Cross-Modal Object Tracking: Modality-Aware Representations and A Unified Benchmark. Chenglong Li, Tianhao Zhu, Lei Liu, Xiaonan Si, Zilin Fan, Sulan Zhai. AAAI 2022. CMOTB. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20016)] [[Code](https://github.com/xfarawayx/CMOTB_Toolkit)]
 
 ### RGB-Mutli Tracking
