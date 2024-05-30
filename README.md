@@ -43,23 +43,23 @@
 
 | Dataset | Publish  | GitHub| Introduction|
 |--|--|--| --|
-| ARKittrack| CVPR'2023 | [ARKittrack](https://github.com/lawrence-cj/ARKitTrack) | -|
-| RGBD1K | AAAI'2023 | [RGBD1K](https://github.com/xuefeng-zhu5/RGBD1K) | -|
-| DepthTrack | ICCV'2021 | [DepthTrack](https://github.com/xiaozai/DeT) | -|
-| CDTB | ICCV'2019 | [CDTB](https://www.votchallenge.net/vot2019/dataset.html) | -|
-| STC | ICCV'2019 | [STC](https://pan.baidu.com/s/1Y3z2JH-oR68-stWFVnHUVw) code:TZYD| -|
-| PTB | ICCV'2013 | [PTB](https://tracking.cs.princeton.edu/index.html) | -|
+| ARKittrack| CVPR'2023 | [ARKittrack](https://github.com/lawrence-cj/ARKitTrack) |ARKitTrack: A New Diverse Dataset for Tracking Using Mobile RGB-D Data|
+| RGBD1K | AAAI'2023 | [RGBD1K](https://github.com/xuefeng-zhu5/RGBD1K) |RGBD1K: A Large-Scale Dataset and Benchmark for RGB-D Object Tracking|
+| DepthTrack | ICCV'2021 | [DepthTrack](https://github.com/xiaozai/DeT) |DepthTrack: Unveiling the Power of RGBD Tracking|
+| CDTB | ICCV'2019 | [CDTB](https://www.votchallenge.net/vot2019/dataset.html) |CDTB: A Color and Depth Visual Object Tracking Dataset and Benchmark|
+| STC | ICCV'2019 | [STC](https://pan.baidu.com/s/1Y3z2JH-oR68-stWFVnHUVw) code:TZYD|Robust Fusion of Color and Depth Data for RGB-D Target Tracking Using Adaptive Range-Invariant Depth Models and Spatio-Temporal Consistency Constraints|
+| PTB | ICCV'2013 | [PTB](https://tracking.cs.princeton.edu/index.html) |Tracking Revisited using RGBD Camera: Unified Benchmark and Baselines|
 
 
 ### RGBE Datasets
 
 | Dataset | Publish  | GitHub| Introduction|
 |--|--|--| --|
-| CRSOT| Arxiv'2024 |[CRSOT](https://github.com/Event-AHU/Cross_Resolution_SOT) |-|
-| FELT| Arxiv'2024 |[FELT](https://github.com/Event-AHU/FELT_SOT_Benchmark) | -|
-| COESOT| Arxiv'2022 | [COESOT](https://github.com/Event-AHU/COESOT)| -|
-| VisEvent| TCYB'2023 |[VisEvent](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark?tab=readme-ov-file)| -|
-| FE108/FE240hz| ICCV'2021 | [FE108/FE240hz](https://github.com/Jee-King/ICCV2021_Event_Frame_Tracking)| -|
+| CRSOT| Arxiv'2024 |[CRSOT](https://github.com/Event-AHU/Cross_Resolution_SOT) |CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras|
+| FELT| Arxiv'2024 |[FELT](https://github.com/Event-AHU/FELT_SOT_Benchmark) |Long-term Frame-Event Visual Tracking: Benchmark Dataset and Baseline|
+| COESOT| Arxiv'2022 | [COESOT](https://github.com/Event-AHU/COESOT)|Revisiting Color-Event based Tracking: A Unified Network, Dataset, and Metric|
+| VisEvent| TCYB'2023 |[VisEvent](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark?tab=readme-ov-file)|VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows|
+| FE108/FE240hz| ICCV'2021 | [FE108/FE240hz](https://github.com/Jee-King/ICCV2021_Event_Frame_Tracking)|Object Tracking by Jointly Exploiting Frame and Event Domain|
 
 
 
@@ -108,6 +108,7 @@ Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu*, Yong Liu*. CVPR 2024. [[Pap
 * Knowledge Synergy Learning for Multi-Modal Tracking. He, Yuhang and Ma, Zhiheng and Wei, Xing and Gong, Yihong. TCSVT 2024. KSTrack.
 * MINet: Modality interaction network for unified multi-modal tracking. Shuang Gong, Zhu Teng1*, Rui Li, Jack Fan, Baopeng Zhang, Jianping Fan. IVC 2024. [[Paper](https://www.sciencedirect.com/science/article/pii/S0262885624001756)]
 * Visual Prompt Multi-Modal Tracking. Jiawen Zhu, Simiao Lai, Xin Chen, Dong Wang*, Huchuan Lu. CVPR 2023.  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Visual_Prompt_Multi-Modal_Tracking_CVPR_2023_paper.pdf)] [[Code](https://github.com/jiawen-zhu/ViPT)]
+* Feature Disentanglement and Adaptive Fusion for Improving Multi-modal Tracking. Zheng Li, Weibo Cai, Junhao Dong, Jianhuang Lai, and Xiaohua Xie. PRCV 2023.
 
 ### RGB-T Tracking
 2024
@@ -155,6 +156,7 @@ Xiao-Jun Wu∗, Muhammad Awais, Sara Atito, and Josef Kittler. Arxiv 2024. MV-RG
 * Learning modality feature fusion via transformer for RGBT-tracking. Yujue Cai, Xiubao Sui, Guohua Gu, Qian Chen. IPT 2023. MMMPT
 * Multiple frequency–spatial network for RGBT tracking in the presence of motion blur. Shenghua Fan, Xi Chen, Chu He, Lei Yu, Zhongjie Mao, Yujin Zheng. Neural Computing and Applications 2023.
 * MTNet: Learning Modality-aware Representation with Transformer for RGBT Tracking. Ruichao Hou, Boyue Xu, Tongwei Ren, Gangshan Wu. ICME 2023. MTNet.
+* Multi-Modal Fusion Object Tracking Based on Fully Convolutional Siamese Network. Ke Qi, Liji Chen, Yicong Zhou, Yutao Qi. CACML 2023. SiamMFF.
 * Online Learning Samples and Adaptive Recovery for Robust RGB-T Tracking. Jun Liu, Zhongqiang Luo, Xingzhong Xiong. TCSVT 2023. LSAR.
 * Object Fusion Tracking for RGB-T Images via Channel Swapping and Modal Mutual Attention. Luan, Tian and Zhang, Hui and Li, Jiafeng and Zhang, Jing and Zhuo, Li. IEEE Sensors Journal 2023.
 * Quality-Aware RGBT Tracking via Supervised Reliability Learning and Weighted Residual Guidance. Lei Liu, Chenglong Li, Yun Xiao, Jin Tang. ACM MM 2023. QAT.
@@ -301,23 +303,73 @@ Xiao-Jun Wu∗, Muhammad Awais, Sara Atito, and Josef Kittler. Arxiv 2024. MV-RG
 ### RGB-D Tracking
 
 2024
-* Review and Analysis of RGBT Single Object Tracking Methods: A Fusion Perspective. Zhihao Zhang, Jun Wang, Zhuli Zang, Lei Jin, Shengjie Li, Hao Wu*,Jian Zhao, Zhang Bo. ACM TOMM 2024. [[Paper](https://dl.acm.org/doi/10.1145/3651308)]
+* 
 * 
 
+2023 
+* ARKitTrack: A New Diverse Dataset for Tracking Using Mobile RGB-D Data. Haojie Zhao, Junsong Chen, Lijun Wang, Huchuan Lu. CVPR 2023. ARKitTrack.
+* RGBD1K: A Large-Scale Dataset and Benchmark for RGB-D Object Tracking. Xue-Feng Zhu, Tianyang Xu, Zhangyong Tang, ZuchengWu, Haodong Liu, Xiao Yang, Xiao-Jun Wu1*, Josef Kittler. AAAI 2023. RGBD1K
+
+
+2021
+* DepthTrack: Unveiling the Power of RGBD Tracking. Song Yan, Jinyu Yang, Jani K¨apyl¨a, Feng Zheng, Aleˇs Leonardis, Joni-Kristian K¨am¨ar¨ainen. ICCV 2021. DepthTrack.
+
+2019
+* CDTB: A Color and Depth Visual Object Tracking Dataset and Benchmark. Alan Lukeˇziˇc, Ugur Kart, Jani K¨apyl¨a, Ahmed Durmush, Joni-Kristian K¨am¨ar¨ainen, Jiˇr´ı Matas and Matej Kristan. ICCV 2019. CDTB.
+
+2018
+* Robust Fusion of Color and Depth Data for RGB-D Target Tracking Using Adaptive Range-Invariant Depth Models and Spatio-Temporal Consistency Constraints. Jingjing Xiao, Rustam Stolkin, Yuqing Gao, and Aleš Leonardis. TCYB 2018. STC.
+
+2013
+* Tracking Revisited using RGBD Camera: Unified Benchmark and Baselines. Shuran Song Jianxiong Xiao. ICCV 2013. PTB.
+
 ### RGB-E Tracking
+
 2024
-* Review and Analysis of RGBT Single Object Tracking Methods: A Fusion Perspective. Zhihao Zhang, Jun Wang, Zhuli Zang, Lei Jin, Shengjie Li, Hao Wu*,Jian Zhao, Zhang Bo. ACM TOMM 2024. [[Paper](https://dl.acm.org/doi/10.1145/3651308)]
+* CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras. Yabin Zhu, Xiao Wang, Chenglong Li, Bo Jiang, Lin Zhu, Zhixiang Huang, Yonghong Tian, Jin Tang. Arxiv 2024. CRSOT
+* Long-term Frame-Event Visual Tracking: Benchmark Dataset and Baseline. Xiao Wang, Ju Huang, Shiao Wang, Chuanming Tang, Bo Jiang, Yonghong Tian, Jin Tang, and Bin Luo. Arxiv 2024. FELT
+
+
+2023
+* VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows. Xiao Wang, Jianing Li, Lin Zhu, Zhipeng Zhang, Zhe Chen, Xin Li, Yaowei Wang, Yonghong Tian, and Feng Wu. TCYB 2023. VisEvent
+
+2022
+* Revisiting Color-Event based Tracking: A Unified Network, Dataset, and Metric. Chuanming Tang, Xiao Wang, Ju Huang, Bo Jiang, Lin Zhu, Jianlin Zhang, Yaowei Wang, Yonghong Tian. Arxiv 2022. COESOT
+
+2021
+* Object Tracking by Jointly Exploiting Frame and Event Domain. Jiqing Zhang, Xin Yang, Yingkai Fu, Xiaopeng Wei, Baocai Yin, Bo Dong. ICCV 2021. FE108
 * 
 
 ### RGB-L Tracking
 2024
+* Context-Aware Integration of Language and Visual References for Natural Language Tracking. Yanyan Shao, Shuting He, Qi Ye, Yuchao Feng, Wenhan Luo, Jiming Chen. CVPR 2024. QueryNLT.
+* DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM. Xuchen Li, Xiaokun Feng, Shiyu Hu, Meiqi Wu, Dailing Zhang, Jing Zhang, Kaiqi Huang. CVPRW 2024. DTLLM-VLT.
+* Multimodal Features Alignment for Vision–Language Object Tracking. Ping Ye, Gang Xiao, Jun Liu. Remote Sensing 2024.
+* One-Stream Stepwise Decreasing for Vision-Language Tracking. Guangtong Zhang, Bineng Zhong, Qihua Liang, Zhiyi Mo, Ning Li, Shuxiang Song. TCSVT 2024. OSDT
+* Textual Tokens Classification for Multi-Modal Alignment in Vision-Language Tracking. Zhongjie Mao; Yucheng Wang; Xi Chen; Jia Yan. ICASSP 2024. TTCTrack.
+* Toward Unified Token Learning for Vision-Language Tracking. Zheng, Yaozong and Zhong, Bineng and Liang, Qihua and Li, Guorong and Ji, Rongrong and Li, Xianxian. TCSVT 2024. MMTrack.
+* Unifying Visual and Vision-Language Tracking via Contrastive Learning. Yinchao Ma, Yuyang Tang, Wenfei Yang, Tianzhu Zhang, Jinpeng Zhang, Mengxue Kang. AAAI 2024. UVLTrack
 * VastTrack: Vast Category Visual Object Tracking. Liang Peng, Junyuan Gao, Xinran Liu, Weihong Li, Shaohua Dong, Zhipeng Zhang, Heng Fan, and Libo Zhang. Arxiv 2024. VastTrack.
 
 2023
 * A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship. Shiyu Hu, Dailing Zhang, Meiqi Wu, Xiaokun Feng, Xuchen Li, Xin Zhao, Kaiqi Huang. NIPS 2023. MGIT.
+* All in One: Exploring Unified Vision-Language Tracking with Multi-Modal Alignment. Chunhui Zhang, Xin Sun, Li Liu, Yiqian Yang, Qiong Liu, Xi Zhou, Yanfeng Wang. ICCV 2023. ALl in One
+* Beyond Visual Cues: Synchronously Exploring Target-Centric Semantics for Vision-Language Tracking. Jiawei Ge, Xiangmei Chen, Jiuxin Cao, Xuelin Zhu, Bo Liu. Arxiv 2023. SATracker
+* CiteTracker: Correlating Image and Text for Visual Tracking. Xin Li, Yuqing Huang, Zhenyu He, Yaowei Wang, Huchuan Lu, Ming-Hsuan Yang. ICCV 2023. CiteTracker.
+* Divert More Attention to Vision-Language Object Tracking. Mingzhe Guo, Zhipeng Zhang, Liping Jing, Haibin Ling, Heng Fan. Arxiv 2023. VLT_TT
+* Joint Visual Grounding and Tracking with Natural Language Specifcation. Li Zhou, Zikun Zhou, Kaige Mao, Zhenyu He. CVPR 2023. JointNLT.
+* Multi-Modal Object Tracking with Vision-Language Adaptive Fusion and Alignment. Zuo, Jixiang and Wu, Tao and Shi, Meiping and Liu, Xueyan and Zhao, Xijun. RICAI 2023. VLATrack.
+* One-Stream Vision-Language Memory Network for Object Tracking. Zhang, Huanlong and Wang, Jingchao and Zhang, Jianwei and Zhang, Tianzhu and Zhong, Bineng. TMM 2023. OVLM.
+* Tracking by Natural Language Specification with Long Short-term Context Decoupling. Ma, Ding and Wu, Xiangqian. ICCV 2023. DecoupleTNL
+* Transformer vision-language tracking via proxy token guided cross-modal fusion. Haojie Zhao, Xiao Wang, Dong Wang, Huchuan Lu, Xiang Ruan. PRL 2023.
+
+2022
+* Cross-modal Target Retrieval for Tracking by Natural Language. Li, Yihao and Yu, Jun and Cai, Zhongpeng and Pan, Yuwen. CVPRW 2022. AdaRS
+* Divert More Attention to Vision-Language Tracking. Mingzhe Guo, Zhipeng Zhang, Heng Fan, Liping Jing. NIPS 2022. VLT_TT
 
 2021
 * LaSOT: A High-quality Large-scale Single Object Tracking Benchmark. Heng Fan, Hexin Bai, Liting Lin, Fan Yang, Peng Chu, Ge Deng, Sijia Yu, Harshit, Mingzhen Huang, Juehuan Liu, Yong Xu, Chunyuan Liao, Lin Yuan, Haibin Ling. IJCV 2021. LaSOT_EXT.
+* Siamese Natural Language Tracker: Tracking by Natural Language Descriptions with Siamese Trackers. Qi Feng, Vitaly Ablavsky, Qinxun Bai, Stan Sclaroff. CVPR 2021. SNLT.
 * Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark. Xiao Wang, Xiujun Shu, Zhipeng Zhang, Bo Jiang, Yaowei Wang, Yonghong Tian, Feng Wu. CVPR 2021. TNL2K.
 
 2019
