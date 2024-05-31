@@ -67,6 +67,7 @@
 
 | Dataset | Publish  | GitHub| Introduction|
 |--|--|--| --|
+| WebUOT-1M| Arxiv'2024 |[WebUOT-1M](https://github.com/983632847/Awesome-Multimodal-Object-Tracking) |WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark|
 | VastTrack| Arxiv'2024 |[VastTrack](https://github.com/HengLan/VastTrack) |VastTrack: Vast Category Visual Object Tracking|
 | MGIT| NIPS'2023 |[MGIT](http://videocube.aitestunion.com/) |A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship|
 | TNL2K| CVPR'2021 | [TNL2K](https://github.com/wangxiao5791509/TNL2K_evaluation_toolkit)|Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark|
@@ -100,6 +101,7 @@
 
 ### Unified (Model or Architecture for) Multi-Modal Tracking
 
+* Towards a Generalist and Blind RGB-X Tracker. Yuedong Tan, Zongwei Wu, Yuqian Fu, Zhuyun Zhou, Guolei Sun, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte. Arxiv 2024. XTrack.
 * Unified Sequence-to-Sequence Learning for Single- and Multi-Modal Visual Object Tracking. Xin Chen, Ben Kang, Jiawen Zhu, Dong Wang*, Houwen Peng, and Huchuan Lu. Arxiv 2024. [[Paper](https://arxiv.org/pdf/2304.14394)] [[Code](https://github.com/chenxin-dlut/SeqTrackv2)] 
 * SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking. Xiaojun Hou, Jiazheng Xing, Yijie Qian, Yaowei Guo, Shuo Xin, Junhao Chen,
 Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu*, Yong Liu*. CVPR 2024. [[Paper](https://arxiv.org/pdf/2403.16002)] [[Code](https://github.com/hoqolo/SDSTrack)]
@@ -450,7 +452,7 @@ Xiao-Jun Wu∗, Muhammad Awais, Sara Atito, and Josef Kittler. Arxiv 2024. MV-RG
 
 ### RGB-Mutli Tracking
 
-* UniMod1K: Towards a More Universal Large-Scale Dataset and Benchmark for Multi-modal Learning. Xue-Feng Zhu, Tianyang Xu, Zongtao Liu, Zhangyong Tang, Xiao-Jun Wu & Josef Kittler. IJCV 2024. [[Paper](https://link.springer.com/article/10.1007/s11263-024-01999-8)]
+* UniMod1K: Towards a More Universal Large-Scale Dataset and Benchmark for Multi-modal Learning. Xue-Feng Zhu, Tianyang Xu, Zongtao Liu, Zhangyong Tang, Xiao-Jun Wu & Josef Kittler. IJCV 2024. [[Paper](https://link.springer.com/article/10.1007/s11263-024-01999-8)] [[Code](https://github.com/xuefeng-zhu5/UniMod1K)] 
 * WebUAV-3M: A Benchmark for Unveiling the Power of Million-Scale Deep UAV Tracking. Chunhui Zhang, Guanjie Huang, Li Liu, Shan Huang, Yinan Yang, Xiang Wan, Shiming Ge, and Dacheng Tao. TPAMI 2023. [[Paper](https://ieeexplore.ieee.org/document/10004511)]
 
 
