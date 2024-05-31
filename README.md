@@ -43,6 +43,7 @@
 
 | Dataset | Publish  | GitHub| Introduction|
 |--|--|--| --|
+| D2CUBE| CVRP'2023|[D2CUBE](https://github.com/yjybuaa/RGBDAerialTracking)|Resource-Efficient RGBD Aerial Tracking|
 | ARKittrack| CVPR'2023 | [ARKittrack](https://github.com/lawrence-cj/ARKitTrack) |ARKitTrack: A New Diverse Dataset for Tracking Using Mobile RGB-D Data|
 | RGBD1K | AAAI'2023 | [RGBD1K](https://github.com/xuefeng-zhu5/RGBD1K) |RGBD1K: A Large-Scale Dataset and Benchmark for RGB-D Object Tracking|
 | DepthTrack | ICCV'2021 | [DepthTrack](https://github.com/xiaozai/DeT) |DepthTrack: Unveiling the Power of RGBD Tracking|
@@ -316,7 +317,6 @@ Xiao-Jun Wu∗, Muhammad Awais, Sara Atito, and Josef Kittler. Arxiv 2024. MV-RG
 
 2022
 * Learning Dual-Fused Modality-Aware Representations for RGBD Tracking. Shang Gao, Jinyu Yang, Zhe Li, Feng Zheng, Aleš Leonardis, Jingkuan Song. ECCVW 2022. DMTracker
-* Towards Generic 3D Tracking in RGBD Videos: Benchmark and Baseline. Jinyu Yang, Zhongqun Zhang, Zhe Li, Hyung Jin Chang, Aleš Leonardis, Feng Zheng. ECCv 2022. Track-it-in-3D
 * 
 
 2021
@@ -335,7 +335,6 @@ Xiao-Jun Wu∗, Muhammad Awais, Sara Atito, and Josef Kittler. Arxiv 2024. MV-RG
 * CDTB: A Color and Depth Visual Object Tracking Dataset and Benchmark. Alan Lukeˇziˇc, Ugur Kart, Jani K¨apyl¨a, Ahmed Durmush, Joni-Kristian K¨am¨ar¨ainen, Jiˇr´ı Matas and Matej Kristan. ICCV 2019. CDTB.
 * Context-Aware Three-Dimensional Mean-Shift With Occlusion Handling for Robust Object Tracking in RGB-D Videos. Ye Liu, Xiao-Yuan Jing, Jianhui Nie, Hao Gao, Jun Liu, Guo-Ping Jiang. TMM 2019. CA3DMS
 * Depth Information Aided Constrained correlation Filter for Visual Tracking. Guanqun Li, Lei Huang, Peichang Zhang, Qiang Li, YongKai Huo. GSKI  2019. Depth-CCF
-* Exploiting Depth Information to Increase Object Tracking Robustness. Alexander Gutev, Carl James Debono. ICST 2019. 3DMS
 * Hierarchical multi-modal fusion FCN with attention model for RGB-D tracking. Ming-xin Jiang, Chao Deng, Jing-song Shan, Yuan-yuan Wang, Yin-jie Jia, Xing Sun. Information Fusion 2019. H-FCN
 * Object Tracking by Reconstruction with View-Specific Discriminative Correlation Filters. Ugur Kart, Alan Lukezic, Matej Kristan, Joni-Kristian Kamarainen, Jiri Matas. CVPR 20219. OTR
 * RGB-D Object Tracking with Occlusion Detection. Yujun Xie, Yao Lu, Shuang Gu. CIS 2019. RGBD-OD
@@ -345,13 +344,12 @@ Xiao-Jun Wu∗, Muhammad Awais, Sara Atito, and Josef Kittler. Arxiv 2024. MV-RG
 * A Real-time RGB-D tracker based on KCF. Han Zhang, Meng Cai, Jianxun Li. CCDC 2018. RT-KCF
 * Depth Masked Discriminative Correlation Filter. Uğur Kart, Joni-Kristian Kämäräinen, Jiří Matas, Lixin Fan, Francesco Cricri. ICPR 2018. DM-DCF
 * How to Make an RGBD Tracker ?. Kart, Uğur and Kämäräinen, Joni-Kristian and Matas, Jiří. ECCVW 2018.
-* Occlusion-Aware Correlation Particle FilterTarget Tracking Based on RGBD Data. Yayu Zhai, Ping Song, Zonglei Mou, Xiaoxiao Chen, Xiongjun Liu. Access 2018. OACPF
+* Occlusion-Aware Correlation Particle Filter Target Tracking Based on RGBD Data. Yayu Zhai, Ping Song, Zonglei Mou, Xiaoxiao Chen, Xiongjun Liu. Access 2018. OACPF
 * Robust Fusion of Color and Depth Data for RGB-D Target Tracking Using Adaptive Range-Invariant Depth Models and Spatio-Temporal Consistency Constraints. Jingjing Xiao, Rustam Stolkin, Yuqing Gao, and Aleš Leonardis. TCYB 2018. STC.
 * Real-Time RGB-D Visual Tracking With Scale Estimation and Occlusion Handling. Jiaxu Leng, Ying Liu. IEEE Access 2018.
 * 
 
 2017
-* Online Depth Image-Based Object Tracking with Sparse Representation and Object Detection. Wei-Long Zheng, Shan-Chun Shen, Bao-Liang Lu. Neural Process Letters 2017. ODIOT
 * Robust Object Tracking with RGBD-based Sparse Learning. Zi-ang Ma, Zhi-yu Xiang. ITEE 2017. ROTSL
 
 2016
@@ -361,11 +359,9 @@ Xiao-Jun Wu∗, Muhammad Awais, Sara Atito, and Josef Kittler. Arxiv 2024. MV-RG
 * 3D Part-Based Sparse Tracker with Automatic Synchronization and Registration. Adel Bibi, Tianzhu Zhang, Bernard Ghanem. CVPR 2016. 3D-T
 
 2015
-* Online Learning 3D Context for Robust Visual Tracking. Bineng Zhong, Yingju Shen, Yan Chen, Weibo Xie, Zhen Cui, Hongbo Zhang, Duansheng Chen ,Tian Wang, Xin Liu, Shujuan Peng, Jin Gou, Jixiang Du, Jing Wang, Wenming Zheng. Neurocomputing 2015. OL3DC
 * Real-time RGB-D Tracking with Depth Scaling Kernelised Correlation Filters and Occlusion Handling. Massimo Camplani, Sion Hannuna, Majid Mirmehdi, Dima Damen, Adeline Paiement, Lili Tao, Tilo Burghardt. BMVC 2015 DS-KCF
 * Robust Object Tracking Using Color and Depth Images with a Depth Based Occlusion Handling and Recovery. Ping Ding, Yan Song. FSKD 2015. DOHR
 * Using Consistency of Depth Gradient to Improve Visual Tracking in RGB-D sequences. Huizhang Shi, Changxin Gao, Nong Sang. CAC 2015. CDG
-* 3D Object Tracking via Image Sets and Depth-Based Occlusion Detection. Yan Chen, Yingju Shen, Xin Liu, Bineng Zhong. SP 2015. ISOD
 * 
 
 2014
@@ -376,7 +372,6 @@ Xiao-Jun Wu∗, Muhammad Awais, Sara Atito, and Josef Kittler. Arxiv 2024. MV-RG
 
 2012
 * Adaptive Multi-cue 3D Tracking of Arbitrary Objects. Germán Martín García, Dominik Alexander Klein, Jörg Stückler, Simone Frintrop, Armin B. Cremers. JDOS 2012. AMCT
-* Tracking people within groups with RGB-D data. Matteo Munaro, Filippo Basso and Emanuele Menegatti. IROS 2012.
 * 
 
 
@@ -385,11 +380,8 @@ Xiao-Jun Wu∗, Muhammad Awais, Sara Atito, and Josef Kittler. Arxiv 2024. MV-RG
 
 2024
 * CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras. Yabin Zhu, Xiao Wang, Chenglong Li, Bo Jiang, Lin Zhu, Zhixiang Huang, Yonghong Tian, Jin Tang. Arxiv 2024. CRSOT
-* Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline. Xiao Wang, Shiao Wang, Chuanming Tang, Lin Zhu, Bo Jiang, Yonghong Tian, Jin Tang. CVPR 2024. HDETrack
 * Long-term Frame-Event Visual Tracking: Benchmark Dataset and Baseline. Xiao Wang, Ju Huang, Shiao Wang, Chuanming Tang, Bo Jiang, Yonghong Tian, Jin Tang, and Bin Luo. Arxiv 2024. FELT
-* Long-term Frame-Event Visual Tracking: Benchmark Dataset and Baseline. Xiao Wang, Ju Huang, Shiao Wang, Chuanming Tang, Bo Jiang, Yonghong Tian, Jin Tang, Bin Luo. Arxiv 2024. AMTTrack
 * Mamba-FETrack: Frame-Event Tracking via State Space Model. Ju Huang, Shiao Wang, Shuai Wang, Zhe Wu, Xiao Wang, Bo Jiang. Arxiv 2024. Mamba-FETrack
-* Object Tracking by Jointly Exploiting Frame and Event Domain. Jiqing Zhang, Xin Yang, Yingkai Fu, Xiaopeng Wei, Baocai Yin, Bo Dong. Arxiv 2024. CDFI
 * Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion. Hongze Sun, Rui Liu, Wuque Cai, Jun Wang, Yue Wang, Huajin Tang, Yan Cui, Dezhong Yao, Daqing Guo. Arxiv 2024. MMHT.
 * TENet: Targetness Entanglement Incorporating with Multi-Scale Pooling and Mutually-Guided Fusion for RGB-E Object Tracking. Pengcheng Shao, Tianyang Xu, Zhangyong Tang, Linze Li, Xiao-Jun Wu, Josef Kittler. Arxiv 2024. TENet
 
@@ -417,6 +409,7 @@ Xiao-Jun Wu∗, Muhammad Awais, Sara Atito, and Josef Kittler. Arxiv 2024. MV-RG
 * Toward Unified Token Learning for Vision-Language Tracking. Zheng, Yaozong and Zhong, Bineng and Liang, Qihua and Li, Guorong and Ji, Rongrong and Li, Xianxian. TCSVT 2024. MMTrack.
 * Unifying Visual and Vision-Language Tracking via Contrastive Learning. Yinchao Ma, Yuyang Tang, Wenfei Yang, Tianzhu Zhang, Jinpeng Zhang, Mengxue Kang. AAAI 2024. UVLTrack
 * VastTrack: Vast Category Visual Object Tracking. Liang Peng, Junyuan Gao, Xinran Liu, Weihong Li, Shaohua Dong, Zhipeng Zhang, Heng Fan, and Libo Zhang. Arxiv 2024. VastTrack.
+* WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark. Chunhui Zhang, Li Liu, Guanjie Huang, Hao Wen, Xi Zhou, Yanfeng Wang. Arxiv 2024. [[Paper](https://arxiv.org/pdf/2405.19818)] [[Code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking?tab=readme-ov-file)]
 
 2023
 * A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship. Shiyu Hu, Dailing Zhang, Meiqi Wu, Xiaokun Feng, Xuchen Li, Xin Zhao, Kaiqi Huang. NIPS 2023. MGIT.
@@ -443,7 +436,7 @@ Xiao-Jun Wu∗, Muhammad Awais, Sara Atito, and Josef Kittler. Arxiv 2024. MV-RG
 * LaSOT: A High-quality Benchmark for Large-scale Single Object Tracking. Heng Fan, Liting Lin, Fan Yang, Peng Chu, Ge Deng, Sijia Yu, Hexin Bai, Yong Xu, Chunyuan Liao, Haibin Ling. CVPR 2019. LaSOT.
 
 2017
-* Tracking by Natural Language Specification. Zhenyang Li, Ran Tao, Efstratios Gavves, Cees G. M. Snoek, Arnold W.M. Smeulders. CVPR 2017. OTB99-L.
+* Tracking by Natural Language Specification. Zhenyang Li, Ran Tao, Efstratios Gavves, Cees G. M. Snoek, Arnold W.M. Smeulders. CVPR 2017. OTB99-L. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Tracking_by_Natural_CVPR_2017_paper.pdf)] [[Code](https://github.com/QUVA-Lab/lang-tracker)]
 
 ### RGB-NIR Tracking
 
