@@ -8,6 +8,7 @@
 
 
 ## :collision: Update Log 
+* [2024.06.01] All the multi-modal tracking papers are added.
 * [2024.05.29] All datasets are listed.
 * [2024.05.28] All survey papers and RGBT papers are listed.
 * [2023.12.16] The repository is started.
@@ -433,8 +434,12 @@ Xiao-Jun Wu∗, Muhammad Awais, Sara Atito, and Josef Kittler. Arxiv 2024. MV-RG
 * Siamese Natural Language Tracker: Tracking by Natural Language Descriptions with Siamese Trackers. Qi Feng, Vitaly Ablavsky, Qinxun Bai, Stan Sclaroff. CVPR 2021. SNLT.
 * Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark. Xiao Wang, Xiujun Shu, Zhipeng Zhang, Bo Jiang, Yaowei Wang, Yonghong Tian, Feng Wu. CVPR 2021. TNL2K.
 
+2020
+* Real-time visual object tracking with natural language description. Qi Feng, Vitaly Ablavsky, Qinxun Bai, Guorong Li, and Stan Sclarof. WACV 2020. RTTNLD
+
 2019
 * LaSOT: A High-quality Benchmark for Large-scale Single Object Tracking. Heng Fan, Liting Lin, Fan Yang, Peng Chu, Ge Deng, Sijia Yu, Hexin Bai, Yong Xu, Chunyuan Liao, Haibin Ling. CVPR 2019. LaSOT.
+* Robust visual object tracking with natural language region proposal network. Feng, Qi and Ablavsky, Vitaly and Bai, Qinxun and Sclaroff, Stan. Arxiv 2019. RVTNLN.
 
 2017
 * Tracking by Natural Language Specification. Zhenyang Li, Ran Tao, Efstratios Gavves, Cees G. M. Snoek, Arnold W.M. Smeulders. CVPR 2017. OTB99-L. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Tracking_by_Natural_CVPR_2017_paper.pdf)] [[Code](https://github.com/QUVA-Lab/lang-tracker)]
