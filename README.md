@@ -477,6 +477,9 @@ Xiao-Jun Wu∗, Muhammad Awais, Sara Atito, and Josef Kittler. Arxiv 2024. MV-RG
     A competition in the RGBT tracking community. It was held in 2020. The winner is *DFAT*. One of its member is [Zhangyong Tang](https://github.com/Zhangyong-Tang/)
 
 
+## Awesome Repositories / Home Pages
+* Awesome-Multimodal-Object-Tracking(https://github.com/983632847/Awesome-Multimodal-Object-Tracking)
+
 ## Acknowledgements
 This work is supported by [PRCI-Lab](https://github.com/PRCI-Lab), which is an outstanding and also fast-developing group. Please feel free to find out more information through its home page.
 
