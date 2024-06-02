@@ -21,7 +21,7 @@
 * Adaptive Colour-Depth Aware Attention for RGB-D Object Tracking. Xue-Feng Zhu, Tianyang Xu, Xiao-Jun Wu, Zhenhua Feng, Josef Kittler. SPL 2024. CDAAT. [[Paper](https://ieeexplore.ieee.org/abstract/document/10472092)] [[Code](https://github.com/xuefeng-zhu5/CDAAT)].
 * Self-supervised learning for RGB-D object tracking. Xue-Feng Zhu, Tianyang Xu, Sara Atito, Muhammad Awais, Xiao-Jun Wu, Zhenhua Feng, Josef Kittler. PR 2024. SSLTrack.
 * RGBD1K: A Large-Scale Dataset and Benchmark for RGB-D Object Tracking. Xue-Feng Zhu, Tianyang Xu, Zhangyong Tang, ZuchengWu, Haodong Liu, Xiao Yang, Xiao-Jun Wu, Josef Kittler. AAAI 2023. RGBD1K. [[Paper](https://arxiv.org/abs/2208.09787)] [[Code](https://github.com/xuefeng-zhu5/RGBD1K)].
-* Exploring fusion strategies for accurate RGBT visual object tracking. Zhangyong Tang, Tianyang Xu, Hui Li, Xiao-Jun Wu, XueFeng Zhu, Josef Kittler. Information Fusion 2023. DFAT. [[Paper](https://arxiv.org/abs/2208.09787)] [[Code]([[Paper](https://www.sciencedirect.com/science/article/pii/S1566253523001975)] [[Code](https://github.com/xuefeng-zhu5/RGBD1K)].
+* Exploring fusion strategies for accurate RGBT visual object tracking. Zhangyong Tang, Tianyang Xu, Hui Li, Xiao-Jun Wu, XueFeng Zhu, Josef Kittler. Information Fusion 2023. DFAT. [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253523001975)]. [[Code](https://github.com/Zhangyong-Tang/DFAT-Information-Fusion2023)].
 * Temporal Aggregation for Adaptive RGBT Tracking. Tang, Zhangyong and Xu, Tianyang and Wu, Xiao-Jun. Arxiv 2022. TAAT. [[Paper](https://arxiv.org/abs/2201.08949)] [[Code](https://github.com/Zhangyong-Tang/TAAT)].
 
 
