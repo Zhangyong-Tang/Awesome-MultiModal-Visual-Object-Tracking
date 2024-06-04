@@ -406,7 +406,6 @@ Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu*, Yong Liu*. CVPR 2024. [[Pap
 * CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras. Yabin Zhu, Xiao Wang, Chenglong Li, Bo Jiang, Lin Zhu, Zhixiang Huang, Yonghong Tian, Jin Tang. Arxiv 2024. CRSOT
 * Long-term Frame-Event Visual Tracking: Benchmark Dataset and Baseline. Xiao Wang, Ju Huang, Shiao Wang, Chuanming Tang, Bo Jiang, Yonghong Tian, Jin Tang, and Bin Luo. Arxiv 2024. FELT
 * Mamba-FETrack: Frame-Event Tracking via State Space Model. Ju Huang, Shiao Wang, Shuai Wang, Zhe Wu, Xiao Wang, Bo Jiang. Arxiv 2024. Mamba-FETrack
-* ODTrack: Online Dense Temporal Token Learning for Visual Tracking. Yaozong Zheng, Bineng Zhong, Qihua Liang, Zhiyi Mo, Shengping Zhang, Xianxian Li1. Arxiv 2024. ODTrack
 * Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion. Hongze Sun, Rui Liu, Wuque Cai, Jun Wang, Yue Wang, Huajin Tang, Yan Cui, Dezhong Yao, Daqing Guo. Arxiv 2024. MMHT.
 * TENet: Targetness Entanglement Incorporating with Multi-Scale Pooling and Mutually-Guided Fusion for RGB-E Object Tracking. Pengcheng Shao, Tianyang Xu, Zhangyong Tang, Linze Li, Xiao-Jun Wu, Josef Kittler. Arxiv 2024. TENet
 
