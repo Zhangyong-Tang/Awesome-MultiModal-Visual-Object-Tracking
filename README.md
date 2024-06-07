@@ -506,4 +506,10 @@ If you have any questions, please feel free to start the issue, or contact me at
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Zhangyong-Tang/MultiModal-Visual-Object-tracking&type=Date)](https://star-history.com/#Zhangyong-Tang/MultiModal-Visual-Object-tracking&Date)
 
-
+<a href="https://star-history.com/#Zhangyong-Tang/MultiModal-Visual-Object-tracking&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Zhangyong-Tang/MultiModal-Visual-Object-tracking&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Zhangyong-Tang/MultiModal-Visual-Object-tracking&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Zhangyong-Tang/MultiModal-Visual-Object-tracking&type=Date" />
+ </picture>
+</a>
