@@ -142,6 +142,7 @@ Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu*, Yong Liu*. CVPR 2024. [[Pap
 * Learning Multi-Layer Attention Aggregation Siamese Network for Robust RGBT Tracking. Mingzheng Feng and Jianbo Su. TMM 2024. SiamMLAA
 * Modality-missing RGBT Tracking: Invertible Prompt Learning and High-quality Benchmarks. Andong Lu, Jiacong Zhao, Chenglong Li, Jin Tang, Bin Luo. Arxiv 2024. IPL
 * Maximize Peak-to-Sidelobe Ratio for Real-Time RGB-T Tracking. Xu Zhu, Jun Liu, Xingzhong Xiong, and Zhongqiang Luo. TIM 2024. MPT
+* Multi-modal Interaction with Token Division Strategy for RGB-T Tracking. Yujue Caia, Xiubao Suia, Guohua Gua, Qian Chen. PR 2024. MIGDT
 * QueryTrack: Joint-Modality Query Fusion Network for RGBT Tracking. Fan, Huijie and Yu, Zhencheng and Wang, Qiang and Fan, Baojie and Tang, Yandong. TIP 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10516307)]
 * Revisiting RGBT Tracking Benchmarks from the Perspective of Modality Validity: A New Benchmark, Problem, and Method. Zhangyong Tang, Tianyang Xu, Zhenhua Feng, Xuefeng Zhu, He Wang, Pengcheng Shao, Chunyang Cheng, Xiao-Jun Wu∗, Muhammad Awais, Sara Atito, and Josef Kittler. Arxiv 2024. MV-RGBT
 * RGBT Tracking via Challenge-Based Appearance Disentanglement and Interaction.  Liu, Lei and Li, Chenglong and Xiao, Yun and Ruan, Rui and Fan, Minghao. TIP 2024. CAT++.
