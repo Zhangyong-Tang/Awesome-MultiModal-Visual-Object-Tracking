@@ -196,6 +196,7 @@ Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu*, Yong Liu*. CVPR 2024. [[Pap
 * Thermal infrared and visible sequences tracking via dual adversarial pixel fusion. Hang Zheng, Nangezi Yuan, Hongwei Ding, Peng Hu & Zhijun Yang. Multimedia Tools and Applications 2023. 
 * Unsupervised RGB-T object tracking with attentional multi-modal feature fusion. Shenglan Li, Rui Yao, Yong Zhou, Hancheng Zhu, Bing Liu, Jiaqi Zhao & Zhiwen Shao.  Multimedia Tools and Applications  2023. UDT-FF
 * Unified Single-Stage Transformer Network for Efficient RGB-T Tracking. Jianqiang Xia, DianXi Shi, Ke Song, Linna Song, XiaoLei Wang, Songchang Jin, Li Zhou, Yu Cheng, Lei Jin, Zheng Zhu, Jianan Li, Gang Wang, Junliang Xing, Jian Zhao. Arxiv 2023. USTrack
+* Unveiling the Power of Unpaired Multi-modal Data for RGBT Tracking. Qing Shen, Yifan Wang, Yu Guoa and Mengmeng Yang. International Conference on Artificial Intelligence and Electromechanical Automation 2023. UMT.
 * Visible–Infrared Dual-Sensor Fusion for Single-Object Tracking. Weichun Liu , Weibing Liu, and Yuxin Sun.  IEEE SENSORS JOURNAL 2023. CSRDCF_RGBT
 
 
