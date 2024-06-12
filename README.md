@@ -135,7 +135,6 @@ Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu*, Yong Liu*. CVPR 2024. [[Pap
 * A content-aware correlation filter with multi-feature fusion for RGB-T tracking. FENG Zihang, YAN Liping*, BAI Jinglan, XIA Yuanqing, and XIAO Bo. Journal of Systems Engineering and Electronics 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10530492)]
 * AMNet: Learning to Align Multi-modality for RGB-T Tracking. Zhang Tianlu, He Xiaoyi, Jiao Qiang, Zhang Qiang, Han Jungong. TCSVT 2024. AMNet.
 * Bi-directional Adapter for Multi-modal Tracking. Bing Cao, Junliang Guo, Pengfei Zhu, Qinghua Hu. AAAI 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/27852)] [[Code](https://github.com/SparkTempest/BAT)].
-* Cross-Modal Object Tracking: Modality-Aware Representations and A Unified Benchmark. Chenglong Li, Tianhao Zhu, Lei Liu, Xiaonan Si, Zilin Fan, Sulan Zhai. Arxiv 2024. MArMOT.
 * From Two Stream to One Stream: Efficient RGB-T Tracking via Mutual Prompt Learning and Knowledge Distillation. Luo, Yang, Xiqing Guo, and Hao Li. Arxiv 2024.
 * Generative-based Fusion Mechanism for Multi-Modal Tracking. Zhangyong Tang, Tianyang Xu, Xuefeng Zhu, Xiao-Jun Wu*, Josef Kittler. AAAI 2024.  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28325)] [[Code](https://github.com/Zhangyong-Tang/GMMT-AAAI2024)].
 * Learning Multi-Frequency Integration Network for RGBT Tracking. Jiatian Mei, Juxiang Zhou, Jun Wang, Jia Hao, Dongming Zhou, and Jinde Cao. IEEE Sensor Journal 2024. LMINet
@@ -472,6 +471,7 @@ Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu*, Yong Liu*. CVPR 2024. [[Pap
 ### RGB-NIR Tracking
 
 * Cross-Modal Object Tracking via Modality-Aware Fusion Network and A Large-Scale Dataset. Lei Liu, Mengya Zhang, Cheng Li, Chenglong Li, and Jin Tang. TNNLS 2024. CMOTB. [[Paper](https://github.com/mmic-lcl/Datasets-and-benchmark-code)] [[Code](https://github.com/xfarawayx/CMOTB_Toolkit)]
+* Prototype-based Cross-Modal Object Tracking. Lei Liu, Chenglong Li, Futian Wang, Longfeng Shen, and Jin Tang. Arxiv 2024. ProtoTrack. [[Paper](https://arxiv.org/pdf/2312.14471)] [[Code](https://github.com/liulei970507/ProtoTrack)]
 * Cross-Modal Object Tracking: Modality-Aware Representations and A Unified Benchmark. Chenglong Li, Tianhao Zhu, Lei Liu, Xiaonan Si, Zilin Fan, Sulan Zhai. AAAI 2022. CMOTB. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20016)] [[Code](https://github.com/xfarawayx/CMOTB_Toolkit)]
 
 ### RGB-Mutli Tracking
