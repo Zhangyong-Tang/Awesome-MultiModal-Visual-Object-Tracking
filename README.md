@@ -97,6 +97,11 @@
 | CMOTB| TNNLS'2024 |[CMOTB](https://github.com/mmic-lcl/Datasets-and-benchmark-code) |Cross-Modal Object Tracking via Modality-Aware Fusion Network and A Large-Scale Dataset|
 
 
+### RGBS Datasets
+
+| Dataset | Publish  | GitHub| Introduction|
+|--|--|--| --|
+| RGBS50| Arxiv'2024 |[RGBS50](https://github.com/LiYunfengLYF/RGBS50) |RGB-Sonar Tracking Benchmark and Spatial Cross-Attention Transformer Tracker|
 
 
 ## Surveys and Report
@@ -475,10 +480,15 @@ Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu*, Yong Liu*. CVPR 2024. [[Pap
 * Prototype-based Cross-Modal Object Tracking. Lei Liu, Chenglong Li, Futian Wang, Longfeng Shen, and Jin Tang. Arxiv 2024. ProtoTrack. [[Paper](https://arxiv.org/pdf/2312.14471)] [[Code](https://github.com/liulei970507/ProtoTrack)]
 * Cross-Modal Object Tracking: Modality-Aware Representations and A Unified Benchmark. Chenglong Li, Tianhao Zhu, Lei Liu, Xiaonan Si, Zilin Fan, Sulan Zhai. AAAI 2022. CMOTB. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20016)] [[Code](https://github.com/xfarawayx/CMOTB_Toolkit)]
 
+### RGB-S Tracking
+
+* RGB-Sonar Tracking Benchmark and Spatial Cross-Attention Transformer Tracker. Yunfeng Li, Bo Wang*, Jiuran Sun, Xueyi Wu, Ye Li. Arxiv 2024. RGBS50. [[Paper](https://arxiv.org/pdf/2406.07189)] [[Code](https://github.com/LiYunfengLYF/RGBS50)]
+
 ### RGB-Mutli Tracking
 
 * UniMod1K: Towards a More Universal Large-Scale Dataset and Benchmark for Multi-modal Learning. Xue-Feng Zhu, Tianyang Xu, Zongtao Liu, Zhangyong Tang, Xiao-Jun Wu & Josef Kittler. IJCV 2024. [[Paper](https://link.springer.com/article/10.1007/s11263-024-01999-8)] [[Code](https://github.com/xuefeng-zhu5/UniMod1K)] 
 * WebUAV-3M: A Benchmark for Unveiling the Power of Million-Scale Deep UAV Tracking. Chunhui Zhang, Guanjie Huang, Li Liu, Shan Huang, Yinan Yang, Xiang Wan, Shiming Ge, and Dacheng Tao. TPAMI 2023. [[Paper](https://ieeexplore.ieee.org/document/10004511)]
+
 
 
 ## Compeletations
