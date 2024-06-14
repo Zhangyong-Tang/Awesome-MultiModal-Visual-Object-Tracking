@@ -8,6 +8,7 @@
 
 
 ## :collision: Update Log 
+* [2024.06.14] The classification of all the trackers are added.
 * [2024.06.01] All the multi-modal tracking papers are added.
 * [2024.05.29] All datasets are listed.
 * [2024.05.28] All survey papers and RGBT papers are listed.
