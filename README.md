@@ -1,6 +1,8 @@
 #  A Comprehensive Survey for Multi-Modal Visual Object tracking
 
-https://github.com/Zhangyong-Tang/MultiModal-Visual-Object-tracking/blob/main/MMVOT.pdf
+<p align="center">
+<img src="https://github.com/Zhangyong-Tang/MultiModal-Visual-Object-tracking/blob/main/MMVOT.pdf" width="700">
+</p>
 
 #### We appreciate any efforts committed to the development of Multi-Modal Visual Object Tracking. Please feel free to connect us (zhangyong_tang_jnu@163.com) for discussion or missed works.
 
