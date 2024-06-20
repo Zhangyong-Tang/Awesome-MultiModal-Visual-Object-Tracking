@@ -30,7 +30,7 @@
 * Temporal Aggregation for Adaptive RGBT Tracking. Tang, Zhangyong and Xu, Tianyang and Wu, Xiao-Jun. Arxiv 2022. TAAT. [[Paper](https://arxiv.org/abs/2201.08949)] [[Code](https://github.com/Zhangyong-Tang/TAAT)].
 
 
-## Datasets and Benchmarks
+## :punch: :Datasets and Benchmarks
 
 ### RGB-Mutli Datasets
 
@@ -109,7 +109,7 @@
 | RGBS50| Arxiv'2024 |[RGBS50](https://github.com/LiYunfengLYF/RGBS50) |RGB-Sonar Tracking Benchmark and Spatial Cross-Attention Transformer Tracker|
 
 
-## Surveys and Report
+## :star2: :Surveys and Report
 * RGBT ---- RGBT tracking: A comprehensive review. Mingzheng Feng, Jianbo Su*. Information Fusion 2024. [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253524002707)]
 * RGBT ---- Review and Analysis of RGBT Single Object Tracking Methods: A Fusion Perspective. Zhihao Zhang, Jun Wang, Zhuli Zang, Lei Jin, Shengjie Li, Hao Wu*,Jian Zhao, Zhang Bo. ACM TOMM 2024. [[Paper](https://dl.acm.org/doi/10.1145/3651308)]
 * RGBT---- Object fusion tracking based on visible and infrared images: A comprehensive review. Xingchen Zhang, Ping Ye, Henry Leung, Ke Gong, Gang Xiao*. Information Fusion 2020. [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253520302657)]
@@ -122,7 +122,7 @@
 
 
 
-## Regular Papers 
+## :star: :Regular Papers 
 
 ### Unified (Model or Architecture for) Multi-Modal Tracking
 
