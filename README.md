@@ -122,204 +122,197 @@
 
 ### Unified (Model or Architecture for) Multi-Modal Tracking
 
-* Towards a Generalist and Blind RGB-X Tracker. Yuedong Tan, Zongwei Wu, Yuqian Fu, Zhuyun Zhou, Guolei Sun, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte. Arxiv 2024. XTrack.
+* Towards a Generalist and Blind RGB-X Tracker. Yuedong Tan, Zongwei Wu, Yuqian Fu, Zhuyun Zhou, Guolei Sun, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte. Arxiv 2024. [[Paper]()] [[Code]()]. XTrack.
 * Unified Sequence-to-Sequence Learning for Single- and Multi-Modal Visual Object Tracking. Xin Chen, Ben Kang, Jiawen Zhu, Dong Wang*, Houwen Peng, and Huchuan Lu. Arxiv 2024. [[Paper](https://arxiv.org/pdf/2304.14394)] [[Code](https://github.com/chenxin-dlut/SeqTrackv2)] 
-* SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking. Xiaojun Hou, Jiazheng Xing, Yijie Qian, Yaowei Guo, Shuo Xin, Junhao Chen,
+* SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking. Xiaojun Hou, Jiazheng Xing, Yijie Qian, Yaowei Guo, Shuo Xin, Junhao Chen. CVPR 2024. [[Paper](https://arxiv.org/pdf/2403.16002)] [[Code](https://github.com/hoqolo/SDSTrack)] 
 Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu*, Yong Liu*. CVPR 2024. [[Paper](https://arxiv.org/pdf/2403.16002)] [[Code](https://github.com/hoqolo/SDSTrack)]
 * Single-Model and Any-Modality for Video Object Tracking. Zongwei Wu, Jilai Zheng, Xiangxuan Ren, Florin-Alexandru Vasluianu, Chao Ma*, Danda Pani Paudel, Luc Van Gool, Radu Timofte. CVPR 2024. [[Paper](https://arxiv.org/abs/2311.15851)] [[Code](https://github.com/Zongwei97/UnTrack)]
-* OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning. Lingyi Hong, Shilin Yan, Renrui Zhang, Wanyun Li, Xinyu Zhou, Pinxue Guo, Kaixun Jiang, Yiting Chen, Jinglun Li, Zhaoyu Chen, Wenqiang Zhang*. CVPR 2024. [[Paper](https://arxiv.org/pdf/2403.09634)]
-* Knowledge Synergy Learning for Multi-Modal Tracking. He, Yuhang and Ma, Zhiheng and Wei, Xing and Gong, Yihong. TCSVT 2024. KSTrack.
-* MINet: Modality interaction network for unified multi-modal tracking. Shuang Gong, Zhu Teng1*, Rui Li, Jack Fan, Baopeng Zhang, Jianping Fan. IVC 2024. [[Paper](https://www.sciencedirect.com/science/article/pii/S0262885624001756)]
+* OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning. Lingyi Hong, Shilin Yan, Renrui Zhang, Wanyun Li, Xinyu Zhou, Pinxue Guo, Kaixun Jiang, Yiting Chen, Jinglun Li, Zhaoyu Chen, Wenqiang Zhang*. CVPR 2024. [[Paper](https://arxiv.org/pdf/2403.09634)] [[Code]()]
+* Knowledge Synergy Learning for Multi-Modal Tracking. He, Yuhang and Ma, Zhiheng and Wei, Xing and Gong, Yihong. TCSVT 2024. [[Paper]()] [[Code]()]. KSTrack.
+* MINet: Modality interaction network for unified multi-modal tracking. Shuang Gong, Zhu Teng1*, Rui Li, Jack Fan, Baopeng Zhang, Jianping Fan. IVC 2024. [[Paper](https://www.sciencedirect.com/science/article/pii/S0262885624001756)] [[Code]()]
 * Visual Prompt Multi-Modal Tracking. Jiawen Zhu, Simiao Lai, Xin Chen, Dong Wang*, Huchuan Lu. CVPR 2023.  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Visual_Prompt_Multi-Modal_Tracking_CVPR_2023_paper.pdf)] [[Code](https://github.com/jiawen-zhu/ViPT)]
-* Feature Disentanglement and Adaptive Fusion for Improving Multi-modal Tracking. Zheng Li, Weibo Cai, Junhao Dong, Jianhuang Lai, and Xiaohua Xie. PRCV 2023.
-* Prompting for multi-modal tracking. Yang, Jinyu and Li, Zhe and Zheng, Feng and Leonardis, Ales and Song, Jingkuan. ACM MM 2022. ProTrack
+* Feature Disentanglement and Adaptive Fusion for Improving Multi-modal Tracking. Zheng Li, Weibo Cai, Junhao Dong, Jianhuang Lai, and Xiaohua Xie. PRCV 2023 [[Paper]()] [[Code]()]..
+* Prompting for multi-modal tracking. Yang, Jinyu and Li, Zhe and Zheng, Feng and Leonardis, Ales and Song, Jingkuan. ACM MM 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3547851)] [[Code]()]. ProTrack
 
 ### RGB-T Tracking
 2024
-
-* AFter: Attention-based Fusion Router for RGBT Tracking. Andong Lu, Wanyu Wang, Chenglong Li, Jin Tang, Bin Luo. Arxiv 2024. AFter.
-* A content-aware correlation filter with multi-feature fusion for RGB-T tracking. FENG Zihang, YAN Liping*, BAI Jinglan, XIA Yuanqing, and XIAO Bo. Journal of Systems Engineering and Electronics 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10530492)]
-* AMNet: Learning to Align Multi-modality for RGB-T Tracking. Zhang Tianlu, He Xiaoyi, Jiao Qiang, Zhang Qiang, Han Jungong. TCSVT 2024. AMNet.
-* Bi-directional Adapter for Multi-modal Tracking. Bing Cao, Junliang Guo, Pengfei Zhu, Qinghua Hu. AAAI 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/27852)] [[Code](https://github.com/SparkTempest/BAT)].
-* From Two Stream to One Stream: Efficient RGB-T Tracking via Mutual Prompt Learning and Knowledge Distillation. Luo, Yang, Xiqing Guo, and Hao Li. Arxiv 2024.
-* Generative-based Fusion Mechanism for Multi-Modal Tracking. Zhangyong Tang, Tianyang Xu, Xuefeng Zhu, Xiao-Jun Wu*, Josef Kittler. AAAI 2024.  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28325)] [[Code](https://github.com/Zhangyong-Tang/GMMT-AAAI2024)].
-* Learning Multi-Frequency Integration Network for RGBT Tracking. Jiatian Mei, Juxiang Zhou, Jun Wang, Jia Hao, Dongming Zhou, and Jinde Cao. IEEE Sensor Journal 2024. LMINet
-* Learning Multi-Layer Attention Aggregation Siamese Network for Robust RGBT Tracking. Mingzheng Feng and Jianbo Su. TMM 2024. SiamMLAA
-* Modality-missing RGBT Tracking: Invertible Prompt Learning and High-quality Benchmarks. Andong Lu, Jiacong Zhao, Chenglong Li, Jin Tang, Bin Luo. Arxiv 2024. IPL
-* Maximize Peak-to-Sidelobe Ratio for Real-Time RGB-T Tracking. Xu Zhu, Jun Liu, Xingzhong Xiong, and Zhongqiang Luo. TIM 2024. MPT
-* Mask Refined Deep Fusion Network With Dynamic Memory for Robust RGBT Tracking. Ce Bian, Sei-ichiro Kamata. ICPR 2023. MPDMT
-* Multi-modal Interaction with Token Division Strategy for RGB-T Tracking. Yujue Caia, Xiubao Suia, Guohua Gua, Qian Chen. PR 2024. MIGDT
-* QueryTrack: Joint-Modality Query Fusion Network for RGBT Tracking. Fan, Huijie and Yu, Zhencheng and Wang, Qiang and Fan, Baojie and Tang, Yandong. TIP 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10516307)]
-* Revisiting RGBT Tracking Benchmarks from the Perspective of Modality Validity: A New Benchmark, Problem, and Method. Zhangyong Tang, Tianyang Xu, Zhenhua Feng, Xuefeng Zhu, He Wang, Pengcheng Shao, Chunyang Cheng, Xiao-Jun Wu∗, Muhammad Awais, Sara Atito, and Josef Kittler. Arxiv 2024. MV-RGBT
-* RGBT Tracking via Challenge-Based Appearance Disentanglement and Interaction.  Liu, Lei and Li, Chenglong and Xiao, Yun and Ruan, Rui and Fan, Minghao. TIP 2024. CAT++.
-* RGBT Tracking via Progressive Fusion Transformer with Dynamically Guided Learning. Yabin Zhu, Chenglong Li, Xiao Wang, Jin Tang, Zhixiang Huang. TCSVT 2024. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10506555)].
-* Robust RGB-T Tracking via Adaptive Modality Weight Correlation Filters and Cross-modality Learning. Mingliang Zhou, Xinwen Zhao, Futing Luo, Jun Luo, Huayan Pu, Tao Xiang. ACM TOMM 2024. AWCM
-* Temporal Adaptive RGBT Tracking with Modality Prompt. Hongyu Wang, Xiaotao Liu*, Yifan Li, Meng Sun, Dian Yuan, Jing Liu. AAAI 2024. [[Paper](https://arxiv.org/abs/2401.01244)].
-* Towards Modalities Correlation for RGB-T Tracking. Hu Xiantao, Zhong Bineng, Liang Qihua, Zhang Shengping, Li Ning, Li Xianxian. TCSVT 2024. MCTrack.
-* Transformer-based RGB-T Tracking with Channel and Spatial Feature Fusion. Yunfeng Li, Bo Wang, Ye Li, Zhiwen Yu, Liang Wang. Arxiv 2024. CSTNet.
-
+* AFter: Attention-based Fusion Router for RGBT Tracking. Andong Lu, Wanyu Wang, Chenglong Li, Jin Tang, Bin Luo. Arxiv 2024. [[Paper](https://arxiv.org/abs/2405.02717)] [[Code](https://github.com/Alexadlu/AFter)]. AFter
+* A content-aware correlation filter with multi-feature fusion for RGB-T tracking. FENG Zihang, YAN Liping*, BAI Jinglan, XIA Yuanqing, and XIAO Bo. Journal of Systems Engineering and Electronics 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10530492)]. CAFF
+* AMNet: Learning to Align Multi-modality for RGB-T Tracking. Zhang Tianlu, He Xiaoyi, Jiao Qiang, Zhang Qiang, Han Jungong. TCSVT 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10472533)] [[Code]()]. AMNet.
+* Bi-directional Adapter for Multi-modal Tracking. Bing Cao, Junliang Guo, Pengfei Zhu, Qinghua Hu. AAAI 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/27852)] [[Code](https://github.com/SparkTempest/BAT)]. BAT
+* From Two Stream to One Stream: Efficient RGB-T Tracking via Mutual Prompt Learning and Knowledge Distillation. Luo, Yang, Xiqing Guo, and Hao Li. Arxiv 2024. [[Paper](https://arxiv.org/pdf/2403.16834)] [[Code]()]. MPLKD
+* Generative-based Fusion Mechanism for Multi-Modal Tracking. Zhangyong Tang, Tianyang Xu, Xuefeng Zhu, Xiao-Jun Wu*, Josef Kittler. AAAI 2024.  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28325)] [[Code](https://github.com/Zhangyong-Tang/GMMT-AAAI2024)]. GMMT
+* Learning Multi-Frequency Integration Network for RGBT Tracking. Jiatian Mei, Juxiang Zhou, Jun Wang, Jia Hao, Dongming Zhou, and Jinde Cao. IEEE Sensor Journal 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10458005)] [[Code](https://github.com/mjt1312/Lminet)]. LMINet
+* Learning Multi-Layer Attention Aggregation Siamese Network for Robust RGBT Tracking. Mingzheng Feng and Jianbo Su. TMM 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10234663)] [[Code]()]. SiamMLAA
+* Modality-missing RGBT Tracking: Invertible Prompt Learning and High-quality Benchmarks. Andong Lu, Jiacong Zhao, Chenglong Li, Jin Tang, Bin Luo. Arxiv 2024. [[Paper](https://arxiv.org/abs/2312.16244)] [[Code](https://github.com/Alexadlu/Modality-missing-RGBT-Tracking)]. IPL
+* Maximize Peak-to-Sidelobe Ratio for Real-Time RGB-T Tracking. Xu Zhu, Jun Liu, Xingzhong Xiong, and Zhongqiang Luo. TIM 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10385185)] [[Code](https://github.com/Liujunzx/MPT)]. MPT
+* Multi-modal Interaction with Token Division Strategy for RGB-T Tracking. Yujue Caia, Xiubao Suia, Guohua Gua, Qian Chen. PR 2024.[[Paper](https://www.sciencedirect.com/science/article/pii/S0031320324003777)] [[Code]()]. MIGTD
+* QueryTrack: Joint-Modality Query Fusion Network for RGBT Tracking. Fan, Huijie and Yu, Zhencheng and Wang, Qiang and Fan, Baojie and Tang, Yandong. TIP 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10516307)] [[Code]()] QueryTrack
+* Revisiting RGBT Tracking Benchmarks from the Perspective of Modality Validity: A New Benchmark, Problem, and Method. Zhangyong Tang, Tianyang Xu, Zhenhua Feng, Xuefeng Zhu, He Wang, Pengcheng Shao, Chunyang Cheng, Xiao-Jun Wu∗, Muhammad Awais, Sara Atito, and Josef Kittler. Arxiv 2024. [[Paper](https://arxiv.org/abs/2405.00168)] [[Code](https://github.com/Zhangyong-Tang/MVRGBT)] MV-RGBT
+* RGBT Tracking via Challenge-Based Appearance Disentanglement and Interaction.  Liu, Lei and Li, Chenglong and Xiao, Yun and Ruan, Rui and Fan, Minghao. TIP 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10460420)] [[Code](https://github.com/liulei970507/CAT-TIP)] CAT++.
+* RGBT Tracking via Progressive Fusion Transformer with Dynamically Guided Learning. Yabin Zhu, Chenglong Li, Xiao Wang, Jin Tang, Zhixiang Huang. TCSVT 2024. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10506555)].  [[Code]()] Proformer
+* Robust RGB-T Tracking via Adaptive Modality Weight Correlation Filters and Cross-modality Learning. Mingliang Zhou, Xinwen Zhao, Futing Luo, Jun Luo, Huayan Pu, Tao Xiang. ACM TOMM 2024. [[Paper](https://dl.acm.org/doi/full/10.1145/3630100)] [[Code](https://github.com/LDating/AWCM)]. AWCM
+* Special attribute-based cross-modal interactive fusion network for RGBT tracking. XIAOQIANG SHAO, HAO LI, ZHIYUE LYU, BO MA, ZEHUI HAN AND MINGQIAN LIU. 2024. [[Paper](https://preprints.opticaopen.org/articles/preprint/Special_attribute-based_cross-modal_interactive_fusion_network_for_RGBT_tracking/2590421)] [[Code]()]. SAFT
+* Temporal Adaptive RGBT Tracking with Modality Prompt. Hongyu Wang, Xiaotao Liu*, Yifan Li, Meng Sun, Dian Yuan, Jing Liu. AAAI 2024. [[Paper](https://arxiv.org/abs/2401.01244)] [[Code]()]. TATrack
+* Towards Modalities Correlation for RGB-T Tracking. Hu Xiantao, Zhong Bineng, Liang Qihua, Zhang Shengping, Li Ning, Li Xianxian. TCSVT 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10517645)] [[Code](https://github.com/GXNU-ZhongLab/MCTrack)]. MCTrack.
+* Transformer-based RGB-T Tracking with Channel and Spatial Feature Fusion. Yunfeng Li, Bo Wang, Ye Li, Zhiwen Yu, Liang Wang. Arxiv 2024. [[Paper](https://arxiv.org/abs/2405.03177)] [[Code](https://github.com/LiYunfengLYF/CSTNet)]. CSTNet.
+* Unified Single-Stage Transformer Network for Efficient RGB-T Tracking. Jianqiang Xia, DianXi Shi, Ke Song, Linna Song, XiaoLei Wang, Songchang Jin, Li Zhou, Yu Cheng, Lei Jin, Zheng Zhu, Jianan Li, Gang Wang, Junliang Xing, Jian Zhao. IJCAI 2024. [[paper](https://arxiv.org/abs/2308.13764)]  [[Code](https://github.com/xiajianqiang/USTrack)] USTrack
 
 2023
 
-* Anchor free based Siamese network tracker with transformer for RGB‑T tracking. Liangsong Fan, Pyeoungkee Kim. Scientific Reports 2023. SiamAFTS
-* An RGB-T Object Tracking Method for Solving Camera Motion Based on Correlation Filter. Zhongxuan Zhao, Weixing Li, Feng Pan. CCDC 2023. PRO
-* Bayesian Dumbbell Diffusion Model for RGBT Object Tracking With Enriched Priors. Fan, Shenghua and He, Chu and Wei, Chenxia and Zheng, Yujin and Chen, Xi. SPL 2023. BD2Track
-* Bridging Search Region Interaction with Template for RGB-T Tracking. Hui Tianrui, Xun Zizheng, Peng Fengguang, Huang Junshi, Wei Xiaoming, Wei Xiaolin, Dai Jiao, Han Jizhong, Liu Si. CVPR 2023. TBSI
-* Dynamic Fusion Network for RGBT Tracking. Jingchao Peng , Haitao Zhao , and Zhengwei Hu. TITS 2023. DFMet.
-* Deep Triply Attention Network for RGBT Tracking. Rui Yang, Xiao Wang, Yabin Zhu, Jin Tang. Cognitive Computation 2023.
-* Differential Enhancement and Commonality Fusion for RGBT Tracking. Yang, Jianrong and Dong, Enzeng and Tong, Jigang and Yang, Sen and Zhang, Zufeng and Li, Wenyu. ICMA 2023. DECFNet
-* Drone Based RGBT Tracking with Dual-Feature Aggregation Network. Zhinan Gao, Dongdong Li, Gongjian Wen, Yangliu Kuai, Rui Chen. Drones 2023.
-* Dual-Modality Space-Time Memory Network for RGBT Tracking. Fan Zhang, Hanwei Peng, Lingli Yu, Yuqian Zhao, Baifan Chen. TIM 2023. DMSTM
-* Dynamic Tracking Aggregation with Transformers for RGB-T Tracking. X Liu, Z Lei. Journal of Information Processing Systems 2023.
-* Efficient RGB-T Tracking via Cross-Modality Distillation. Zhang Tianlu, Guo Hongyuan, Jiao Qiang, Zhang Qiang, Han Jungong. CVPR 2023. CMD.
-* Exploring fusion strategies for accurate RGBT visual object tracking. Zhangyong Tang, Tianyang Xu, Hui Li, Xiao-Jun Wu, XueFeng Zhu, Josef Kittler. Information Fusion 2023. DFAT
-* Exploring the potential of Siamese network for RGBT object tracking. Liangliang Feng, Kechen Song, Junyi Wang, Yunhui Yan. JVCIR 2023. SIamFEA
-* HATFNet: Hierarchical adaptive trident fusion network for RGBT tracking. Yanjie Zhao, Huicheng Lai & Guxue Gao. Applied Intelligence 2023. HATFNet
-* Learning Modality Complementary Features with Mixed Attention Mechanism for RGB-T Tracking. Yang Luo, Xiqing Guo, Mingtao Dong, Jin Yu. Sensors 2023. MACFT
-* Learning cross-modal interaction for RGB-T tracking. Chunyan XU, Zhen CUI*, Chaoqun WANG, Chuanwei ZHOU & Jian YANG. SCIENCE CHINA Information Sciences 2023.
-* Learning modality feature fusion via transformer for RGBT-tracking. Yujue Cai, Xiubao Sui, Guohua Gu, Qian Chen. IPT 2023. MMMPT
-* Multiple frequency–spatial network for RGBT tracking in the presence of motion blur. Shenghua Fan, Xi Chen, Chu He, Lei Yu, Zhongjie Mao, Yujin Zheng. Neural Computing and Applications 2023.
-* MTNet: Learning Modality-aware Representation with Transformer for RGBT Tracking. Ruichao Hou, Boyue Xu, Tongwei Ren, Gangshan Wu. ICME 2023. MTNet.
-* Multi-Modal Fusion Object Tracking Based on Fully Convolutional Siamese Network. Ke Qi, Liji Chen, Yicong Zhou, Yutao Qi. CACML 2023. SiamMFF.
-* Online Learning Samples and Adaptive Recovery for Robust RGB-T Tracking. Jun Liu, Zhongqiang Luo, Xingzhong Xiong. TCSVT 2023. LSAR.
-* Object Fusion Tracking for RGB-T Images via Channel Swapping and Modal Mutual Attention. Luan, Tian and Zhang, Hui and Li, Jiafeng and Zhang, Jing and Zhuo, Li. IEEE Sensors Journal 2023.
-* Quality-Aware RGBT Tracking via Supervised Reliability Learning and Weighted Residual Guidance. Lei Liu, Chenglong Li, Yun Xiao, Jin Tang. ACM MM 2023. QAT.
-* ROBUST RGB-T TRACKING VIA CONSISTENCY REGULATED SCENE PERCEPTION. Bin Kang, Liwei Liu, Shihao Zhao, Songlin Du. ICIP 2023.
-* RGB-T object tracking via sparse response-consistency discriminative correlation filters. Yueping Huang, Xiaofeng Li, Ruitao Lu, Naixin Qi. IPT 2023. SRCDCF
-* RGB-T Tracking via Multi-Modal Mutual Prompt Learning. Yang Luo, Xiqing Guo, Hui Feng, Lei Ao. Arxiv 2023. MPLT.
-* Region Selective Fusion Network for Robust RGB-T Tracking. Yu, Zhencheng and Fan, Huijie and Wang, Qiang and Li, Ziwan and Tang, Yandong. SPL 2023. RSFNet
-* Robust RGB-T Tracking via Graph Attention-Based Bilinear Pooling. Bin Kang, Dong Liang, Junxi Mei, Xiaoyang Tan, Quan Zhou, Dengyin Zhang. TNNLS 2023.
-* RGBT tracking based on prior least absolute shrinkage and selection operator and quality aware fusion of deep and handcrafted features. Seyed Morteza Ghazali, Yasser Baleghi. KBS 2023. PLASSO-ADSPF
-* RGBT tracking based on modality feature enhancement. Sulan Zhai, Yi Wu1, Lei Liu, Jin Tang. Multimedia Tools and Applications 2023.
-* RMFNet: Redetection Multimodal Fusion Network for RGBT Tracking. Yanjie Zhao, Huicheng Lai, and Guxue Gao. Applied Sciences 2023. RMFNet
-* RGBT Tracking via Multi-stage Matching Guidance and Context integration. Kaixiang Yan, Changcheng Wang, Dongming Zhou, Ziwei Zhou. Neural Processing Letters 2023. M2GCI
-* Siamese infrared and visible light fusion network for RGB-T tracking. Jingchao Peng, Haitao Zhao, Zhengwei Hu, Yi Zhuang, Bofan Wang. Journal of Machine Learning and Cybernetics 2023. SiamIVFN
-* SiamTDR: Time-Efficient RGBT Tracking via Disentangled Representations. Guorui Wang , Qian Jiang , Xin Jin , Member, IEEE, Yu Lin, Yuanyu Wang , and Wei Zhou. TICPS 2023. SiamTDR
-* Siamese transformer RGBT tracking. Futian Wang, Wenqi Wang, Lei Liu, Chenglong Li & Jing Tang. Applied Intelligence 2023.
-* Semantic-guided fusion for multiple object tracking and RGB-Ttracking. Xiaohu Liu, Yichuang Luo, Yan Zhang, Zhiyong Lei. IET Image Processing 2023. SGF-MDNet+RGBT
-* SiamCAF: Complementary Attention Fusion-Based Siamese Network for RGBT Tracking. Yingjian Xue, Jianwei Zhang, Zhoujin Lin, Chenglong Li, Bihan Huo, and Yan Zhang. Remote Sensing 2023. SiamCAF
-* TEFNet: Target-Aware Enhanced Fusion Network for RGB-T Tracking. Panfeng Chen, Shengrong Gong, Wenhao Ying, Xin Du & Shan Zhong. PRCV 2023. TEFNet.
-* Thermal infrared and visible sequences tracking via dual adversarial pixel fusion. Hang Zheng, Nangezi Yuan, Hongwei Ding, Peng Hu & Zhijun Yang. Multimedia Tools and Applications 2023. 
-* Unsupervised RGB-T object tracking with attentional multi-modal feature fusion. Shenglan Li, Rui Yao, Yong Zhou, Hancheng Zhu, Bing Liu, Jiaqi Zhao & Zhiwen Shao.  Multimedia Tools and Applications  2023. UDT-FF
-* Unified Single-Stage Transformer Network for Efficient RGB-T Tracking. Jianqiang Xia, DianXi Shi, Ke Song, Linna Song, XiaoLei Wang, Songchang Jin, Li Zhou, Yu Cheng, Lei Jin, Zheng Zhu, Jianan Li, Gang Wang, Junliang Xing, Jian Zhao. Arxiv 2023. USTrack
-* Unveiling the Power of Unpaired Multi-modal Data for RGBT Tracking. Qing Shen, Yifan Wang, Yu Guoa and Mengmeng Yang. International Conference on Artificial Intelligence and Electromechanical Automation 2023. UMT.
-* Visible–Infrared Dual-Sensor Fusion for Single-Object Tracking. Weichun Liu , Weibing Liu, and Yuxin Sun.  IEEE SENSORS JOURNAL 2023. CSRDCF_RGBT
+* Anchor free based Siamese network tracker with transformer for RGB‑T tracking. Liangsong Fan, Pyeoungkee Kim. Scientific Reports 2023.  [[paper](https://www.nature.com/articles/s41598-023-39978-7)]  [[Code]()] SiamAFTS
+* An RGB-T Object Tracking Method for Solving Camera Motion Based on Correlation Filter. Zhongxuan Zhao, Weixing Li, Feng Pan. CCDC 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10326582)]  [[Code]()] PRO
+* Bayesian Dumbbell Diffusion Model for RGBT Object Tracking With Enriched Priors. Fan, Shenghua and He, Chu and Wei, Chenxia and Zheng, Yujin and Chen, Xi. SPL 2023. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10184056)]  [[Code]()] BD2Track
+* Bridging Search Region Interaction with Template for RGB-T Tracking. Hui Tianrui, Xun Zizheng, Peng Fengguang, Huang Junshi, Wei Xiaoming, Wei Xiaolin, Dai Jiao, Han Jizhong, Liu Si. CVPR 2023. [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Hui_Bridging_Search_Region_Interaction_With_Template_for_RGB-T_Tracking_CVPR_2023_paper.pdf)]  [[Code](https://github.com/RyanHTR/TBSI)] TBSI
+* Dynamic Fusion Network for RGBT Tracking. Jingchao Peng , Haitao Zhao , and Zhengwei Hu. TITS 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/9997229)]  [[Code](https://github.com/PengJingchao/DFNet)]  DFNet.
+* Deep Triply Attention Network for RGBT Tracking. Rui Yang, Xiao Wang, Yabin Zhu, Jin Tang. Cognitive Computation 2023. [[paper](https://link.springer.com/article/10.1007/s12559-023-10158-z)]  [[Code]()] DTAN
+* Differential Enhancement and Commonality Fusion for RGBT Tracking. Yang, Jianrong and Dong, Enzeng and Tong, Jigang and Yang, Sen and Zhang, Zufeng and Li, Wenyu. ICMA 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10215574)]  [[Code]()] DECFNet
+* Drone Based RGBT Tracking with Dual-Feature Aggregation Network. Zhinan Gao, Dongdong Li, Gongjian Wen, Yangliu Kuai, Rui Chen. Drones 2023. [[paper](https://www.mdpi.com/2504-446X/7/9/585)]  [[Code]()] DBDFAN
+* Dual-Modality Space-Time Memory Network for RGBT Tracking. Fan Zhang, Hanwei Peng, Lingli Yu, Yuqian Zhao, Baifan Chen. TIM 2023.  [[paper](https://ieeexplore.ieee.org/abstract/document/10143657)]  [[Code]()]DMSTM
+* Dynamic Tracking Aggregation with Transformers for RGB-T Tracking. X Liu, Z Lei. Journal of Information Processing Systems 2023. [[paper](https://jips-k.org/full-text/893)]  [[Code]()] DTAT
+* Efficient RGB-T Tracking via Cross-Modality Distillation. Zhang Tianlu, Guo Hongyuan, Jiao Qiang, Zhang Qiang, Han Jungong. CVPR 2023.  [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Efficient_RGB-T_Tracking_via_Cross-Modality_Distillation_CVPR_2023_paper.pdf)]  [[Code]()] CMD.
+* Exploring fusion strategies for accurate RGBT visual object tracking. Zhangyong Tang, Tianyang Xu, Hui Li, Xiao-Jun Wu, XueFeng Zhu, Josef Kittler. Information Fusion 2023. [[paper](https://www.sciencedirect.com/science/article/pii/S1566253523001975)]  [[Code](https://github.com/Zhangyong-Tang/DFAT-Information-Fusion2023)] DFAT
+* Exploring the potential of Siamese network for RGBT object tracking. Liangliang Feng, Kechen Song, Junyi Wang, Yunhui Yan. JVCIR 2023.  [[paper](https://www.sciencedirect.com/science/article/pii/S1047320323001323)]  [[Code]()] SiamFEA
+* HATFNet: Hierarchical adaptive trident fusion network for RGBT tracking. Yanjie Zhao, Huicheng Lai & Guxue Gao. Applied Intelligence 2023. [[paper](https://link.springer.com/article/10.1007/s10489-023-04755-6)]  [[Code]()] HATFNet
+* Learning Modality Complementary Features with Mixed Attention Mechanism for RGB-T Tracking. Yang Luo, Xiqing Guo, Mingtao Dong, Jin Yu. Sensors 2023. [[paper](https://www.mdpi.com/1424-8220/23/14/6609)]  [[Code]()] MACFT
+* Learning cross-modal interaction for RGB-T tracking. Chunyan XU, Zhen CUI*, Chaoqun WANG, Chuanwei ZHOU & Jian YANG. SCIENCE CHINA Information Sciences 2023. [[paper](http://scis.scichina.com/en/2023/119103-supplementary.pdf)]  [[Code]()] LCMIT
+* Learning modality feature fusion via transformer for RGBT-tracking. Yujue Cai, Xiubao Sui, Guohua Gu, Qian Chen. IPT 2023. [[paper](https://www.sciencedirect.com/science/article/pii/S1350449523002773)]  [[Code](https://github.com/caiyujue/MMMPT)] MMMPT
+* Mask Refined Deep Fusion Network With Dynamic Memory for Robust RGBT Tracking. Ce Bian, Sei-ichiro Kamata. ICPR 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10331955)] [[Code]()] ]MPDMT
+* Multiple frequency–spatial network for RGBT tracking in the presence of motion blur. Shenghua Fan, Xi Chen, Chu He, Lei Yu, Zhongjie Mao, Yujin Zheng. Neural Computing and Applications 2023. [[paper](https://link.springer.com/article/10.1007/s00521-023-09024-8)]  [[Code]()] FSBNet
+* MTNet: Learning Modality-aware Representation with Transformer for RGBT Tracking. Ruichao Hou, Boyue Xu, Tongwei Ren, Gangshan Wu. ICME 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10219799)]  [[Code](https://github.com/xuboyue1999/MTNet-ICME23)] MTNet.
+* Multi-Modal Fusion Object Tracking Based on Fully Convolutional Siamese Network. Ke Qi, Liji Chen, Yicong Zhou, Yutao Qi. CACML 2023. [[paper](https://dl.acm.org/doi/abs/10.1145/3590003.3590084)]  [[Code]()] SiamMFF.
+* Online Learning Samples and Adaptive Recovery for Robust RGB-T Tracking. Jun Liu, Zhongqiang Luo, Xingzhong Xiong. TCSVT 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10159404)]  [[Code]()] LSAR.
+* Object Fusion Tracking for RGB-T Images via Channel Swapping and Modal Mutual Attention. Luan, Tian and Zhang, Hui and Li, Jiafeng and Zhang, Jing and Zhuo, Li. IEEE Sensors Journal 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10224831)]  [[Code]()] CSMMA
+* Quality-Aware RGBT Tracking via Supervised Reliability Learning and Weighted Residual Guidance. Lei Liu, Chenglong Li, Yun Xiao, Jin Tang. ACM MM 2023. [[paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612341)]  [[Code](https://github.com/liulei970507/QAT)] QAT.
+* ROBUST RGB-T TRACKING VIA CONSISTENCY REGULATED SCENE PERCEPTION. Bin Kang, Liwei Liu, Shihao Zhao, Songlin Du. ICIP 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10222904)]  [[Code]()] CRSP
+* RGB-T object tracking via sparse response-consistency discriminative correlation filters. Yueping Huang, Xiaofeng Li, Ruitao Lu, Naixin Qi. IPT 2023. [[paper](https://www.sciencedirect.com/science/article/pii/S135044952200490X)]  [[Code]()] SRCDCF
+* RGB-T Tracking via Multi-Modal Mutual Prompt Learning. Yang Luo, Xiqing Guo, Hui Feng, Lei Ao. Arxiv 2023. [[paper](https://arxiv.org/ftp/arxiv/papers/2308/2308.16386.pdf)]  [[Code](https://github.com/HusterYoung/MPLT)] MPLT. 
+* Region Selective Fusion Network for Robust RGB-T Tracking. Yu, Zhencheng and Fan, Huijie and Wang, Qiang and Li, Ziwan and Tang, Yandong. SPL 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10252033)]  [[Code]()] RSFNet
+* Robust RGB-T Tracking via Graph Attention-Based Bilinear Pooling. Bin Kang, Dong Liang, Junxi Mei, Xiaoyang Tan, Quan Zhou, Dengyin Zhang. TNNLS 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/9756634)]  [[Code]()] GABBP
+* RGBT tracking based on prior least absolute shrinkage and selection operator and quality aware fusion of deep and handcrafted features. Seyed Morteza Ghazali, Yasser Baleghi. KBS 2023. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705123004331)]  [[Code](https://github.com/mortezaghazali586/PLASSO-ADSPF-tracker)] PLASSO-ADSPF
+* RGBT tracking based on modality feature enhancement. Sulan Zhai, Yi Wu1, Lei Liu, Jin Tang. Multimedia Tools and Applications 2023. [[paper](https://link.springer.com/article/10.1007/s11042-023-16418-2)]  [[Code]()] MFENet
+* RMFNet: Redetection Multimodal Fusion Network for RGBT Tracking. Yanjie Zhao, Huicheng Lai, and Guxue Gao. Applied Sciences 2023. [[paper](https://www.mdpi.com/2076-3417/13/9/5793)]  [[Code]()] RMFNet
+* RGBT Tracking via Multi-stage Matching Guidance and Context integration. Kaixiang Yan, Changcheng Wang, Dongming Zhou, Ziwei Zhou. Neural Processing Letters 2023. [[paper](https://link.springer.com/article/10.1007/s11063-023-11365-3)]  [[Code]()] M2GCI
+* Siamese infrared and visible light fusion network for RGB-T tracking. Jingchao Peng, Haitao Zhao, Zhengwei Hu, Yi Zhuang, Bofan Wang. Journal of Machine Learning and Cybernetics 2023. [[paper](https://link.springer.com/article/10.1007/s13042-023-01833-6)]  [[Code](https://github.com/PengJingchao/SiamIVFN)] SiamIVFN
+* SiamTDR: Time-Efficient RGBT Tracking via Disentangled Representations. Guorui Wang , Qian Jiang , Xin Jin , Member, IEEE, Yu Lin, Yuanyu Wang , and Wei Zhou. TICPS 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10226308)]  [[Code]()] SiamTDR
+* Siamese transformer RGBT tracking. Futian Wang, Wenqi Wang, Lei Liu, Chenglong Li & Jing Tang. Applied Intelligence 2023. [[paper](https://link.springer.com/article/10.1007/s10489-023-04741-y)]  [[Code]()] STRT
+* Semantic-guided fusion for multiple object tracking and RGB-Ttracking. Xiaohu Liu, Yichuang Luo, Yan Zhang, Zhiyong Lei. IET Image Processing 2023. [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12861)]  [[Code]()] SGF-MDNet+RGBT
+* SiamCAF: Complementary Attention Fusion-Based Siamese Network for RGBT Tracking. Yingjian Xue, Jianwei Zhang, Zhoujin Lin, Chenglong Li, Bihan Huo, and Yan Zhang. Remote Sensing 2023. [[paper](https://www.mdpi.com/2072-4292/15/13/3252)]  [[Code]()] SiamCAF
+* TEFNet: Target-Aware Enhanced Fusion Network for RGB-T Tracking. Panfeng Chen, Shengrong Gong, Wenhao Ying, Xin Du & Shan Zhong. PRCV 2023. [[paper](https://link.springer.com/chapter/10.1007/978-981-99-8549-4_36)]  [[Code]()] TEFNet.
+* Thermal infrared and visible sequences tracking via dual adversarial pixel fusion. Hang Zheng, Nangezi Yuan, Hongwei Ding, Peng Hu & Zhijun Yang. Multimedia Tools and Applications 2023. [[paper](https://link.springer.com/article/10.1007/s11042-023-17721-8)]  [[Code]()] DAPF
+* Unsupervised RGB-T object tracking with attentional multi-modal feature fusion. Shenglan Li, Rui Yao, Yong Zhou, Hancheng Zhu, Bing Liu, Jiaqi Zhao & Zhiwen Shao.  Multimedia Tools and Applications  2023. [[paper](https://link.springer.com/article/10.1007/s11042-023-14362-9)]  [[Code]()] UDT-FF
+* Unveiling the Power of Unpaired Multi-modal Data for RGBT Tracking. Qing Shen, Yifan Wang, Yu Guoa and Mengmeng Yang. International Conference on Artificial Intelligence and Electromechanical Automation 2023. [[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12709/127092N/Unveiling-the-power-of-unpaired-multi-modal-data-for-RGBT/10.1117/12.2685082.full)]  [[Code]()] UMT.
+* Visible–Infrared Dual-Sensor Fusion for Single-Object Tracking. Weichun Liu , Weibing Liu, and Yuxin Sun.  IEEE SENSORS JOURNAL 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10012641)]  [[Code]()] CSRDCF_RGBT
 
 
 2022
-
-* Asymmetric Global–Local Mutual Integration Network for RGBT Tracking. Mei Jiatian, Liu Yanyu, Wang Changcheng, Zhou Dongming, Nie Rencan, Cao Jinde. TIM 2022. AGMINet.
-* Attribute-Based Progressive Fusion Network for RGBT Tracking. Yun Xiao, Mengmeng Yang, Chenglong Li, Lei Liu, Jin Tang. AAAI 2022. APFNet
-* Correlation Filters Based on Strong Spatio-Temporal for Robust RGB-T Tracking. Futing Luo, Mingliang Zhou, and Bing Fang. Journal of Circuits, Systems and Computers 2022.
-* CMC2R: Cross-modal collaborative contextual representation for RGBT tracking. Xiaohu Liu, Yichuang Luo, Keding Yan, Jianfei Chen, Zhiyong Lei. IET Image Processing 2022. CMC2R
-* Duality-Gated Mutual Condition Network for RGBT Tracking. Lu Andong, Qian Cun, Li Chenglong, Tang Jin, Wang Liang. TNNLS 2022. DMCNet.
-* Dual Siamese network for RGBT tracking via fusing predicted position maps. Chang Guo, Dedong Yang, Chang Li, Peng Song. The Visual Computer 2022. DuSIamRT
-* HIGH SPEED AND ROBUST RGB-THERMAL TRACKING VIA DUAL ATTENTIVE STREAM SIAMESE NETWORK. Guo Chaoyang, Xiao Liang. IGARSS 2022. DASN
-* Learning reliable modal weight with transformer for robust RGBT tracking. Mingzheng Feng, Jianbo Su. KBS 2022.
-* MIRNET: A ROBUST RGBT TRACKING JOINTLY WITH MULTI-MODAL INTERACTION AND REFINEMENT. Ruichao Hou, Tongwei Ren , Gangshan Wu. ICME 2022. MIRNet
-* Multibranch Adaptive Fusion Network for RGBT Tracking. Li Yadong, Lai Huicheng, Wang Liejun, Jia Zhenhong. IEEE Sensors Journal 2022. MBAFNet.
-* MFGNet: Dynamic Modality-Aware Filter Generation for RGB-T Tracking. Xiao Wang, Xiujun Shu, Shiliang Zhang, Bo Jiang, Yaowei Wang, Yonghong Tian, Feng Wu. TMM 2022. MFGNet.
-* RGBT tracking via reliable feature configuration. Zhengzheng Tu, Wenli Pan, Yunsheng Duan, Jin Tang & Chenglong Li.  Science China Information Sciences 2022.
-* RGB-T long-term tracking algorithm via local sampling and global proposals. Liu Jun, Luo Zhongqiang, Xiong Xingzhong. Signal, Image and Video Processing 2022. CF-LG
-* RGB-T tracking by modality difference reduction and feature re-selection. Qiang Zhang, Xueru Liu, Tianlu Zhang. IVC 2022. MFNet
-* RGBT Tracking by Trident Fusion Network. Zhu Yabin and Li, Chenglong and Tang, Jin and Luo, Bin and Wang, Liang. TCSVT 2022. TFNet.
-* Residual learning-based two-stream network for RGB-T object tracking. Yili Chen, Minjie Wan, Yunkai Xu, Xiaojie Zhang, Qian Chen, Guohua Gu. JEI 2022. RLTN
-* SCA-MMA: Spatial and Channel-Aware Multi-Modal Adaptation for Robust RGB-T Object Tracking. Run Shi, Chaoqun Wang, Gang Zhao, Chunyan Xu. ELECTRONICS 2022. SCA-MMA
-* SiamMMF: multi-modal multi-level fusion object tracking based on Siamese networks. Zhen Yang, Peng Huang, Dunyun He, Zhongwang Cai & Zhijian Yin. Machine Vision and Applications 2022. SiamMMF
-* Temporal Aggregation for Adaptive RGBT Tracking. Tang, Zhangyong and Xu, Tianyang and Wu, Xiao-Jun. Arxiv 2022. TAAT
-* Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline. Pengyu Zhang, Jie Zhao, Dong Wang, Huchuan Lu, Xiang Ruan. CVPR 2022. HMFT.
+* Asymmetric Global–Local Mutual Integration Network for RGBT Tracking. Mei Jiatian, Liu Yanyu, Wang Changcheng, Zhou Dongming, Nie Rencan, Cao Jinde. TIM 2022. [[paper](https://ieeexplore.ieee.org/abstract/document/9840392)]  [[Code]()] AGMINet.
+* Attribute-Based Progressive Fusion Network for RGBT Tracking. Yun Xiao, Mengmeng Yang, Chenglong Li, Lei Liu, Jin Tang. AAAI 2022.[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20187)]  [[Code](https://github.com/yangmengmeng1997/APFNet)] APFNet
+* Correlation Filters Based on Strong Spatio-Temporal for Robust RGB-T Tracking. Futing Luo, Mingliang Zhou, and Bing Fang. Journal of Circuits, Systems and Computers 2022. [[paper](https://www.worldscientific.com/doi/abs/10.1142/S0218126622500414)]  [[Code]()] can not download
+* CMC2R: Cross-modal collaborative contextual representation for RGBT tracking. Xiaohu Liu, Yichuang Luo, Keding Yan, Jianfei Chen, Zhiyong Lei. IET Image Processing 2022. [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12427)]  [[Code]()] CMC2R
+* Duality-Gated Mutual Condition Network for RGBT Tracking. Lu Andong, Qian Cun, Li Chenglong, Tang Jin, Wang Liang. TNNLS 2022. [[paper](https://ieeexplore.ieee.org/abstract/document/9737634)]  [[Code](https://github.com/Alexadlu/DMCNet)] DMCNet.
+* Dual Siamese network for RGBT tracking via fusing predicted position maps. Chang Guo, Dedong Yang, Chang Li, Peng Song. The Visual Computer 2022.[[paper](https://link.springer.com/article/10.1007/s00371-021-02131-4)]  [[Code]()] DuSIamRT
+* HIGH SPEED AND ROBUST RGB-THERMAL TRACKING VIA DUAL ATTENTIVE STREAM SIAMESE NETWORK. Guo Chaoyang, Xiao Liang. IGARSS 2022. [[paper](https://ieeexplore.ieee.org/abstract/document/9883659)]  [[Code](https://github.com/easycodesniper-afk/SiamCSR)] SiamCSR
+* Learning reliable modal weight with transformer for robust RGBT tracking. Mingzheng Feng, Jianbo Su. KBS 2022. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705122004579)]  [[Code]()] LRMWT
+* MIRNET: A ROBUST RGBT TRACKING JOINTLY WITH MULTI-MODAL INTERACTION AND REFINEMENT. Ruichao Hou, Tongwei Ren , Gangshan Wu. ICME 2022.[[paper](https://ieeexplore.ieee.org/abstract/document/9860018)]  [[Code](https://github.com/xuboyue1999/MIRNet-ICME22)] MIRNet
+* Multibranch Adaptive Fusion Network for RGBT Tracking. Li Yadong, Lai Huicheng, Wang Liejun, Jia Zhenhong. IEEE Sensors Journal 2022. [[paper](https://ieeexplore.ieee.org/abstract/document/9721310)]  [[Code]()] MBAFNet.
+* MFGNet: Dynamic Modality-Aware Filter Generation for RGB-T Tracking. Xiao Wang, Xiujun Shu, Shiliang Zhang, Bo Jiang, Yaowei Wang, Yonghong Tian, Feng Wu. TMM 2022. [[paper](https://ieeexplore.ieee.org/abstract/document/9772993)]  [[Code](https://github.com/wangxiao5791509/MFG_RGBT_Tracking_PyTorch)] MFGNet.
+* RGBT tracking via reliable feature configuration. Zhengzheng Tu, Wenli Pan, Yunsheng Duan, Jin Tang & Chenglong Li.  Science China Information Sciences 2022. [[paper](https://link.springer.com/article/10.1007/s11432-020-3160-5)]  [[Code]()] RFC
+* RGB-T long-term tracking algorithm via local sampling and global proposals. Liu Jun, Luo Zhongqiang, Xiong Xingzhong. Signal, Image and Video Processing 2022. [[paper](https://link.springer.com/article/10.1007/s11760-022-02187-2)]  [[Code]()] CF-LG
+* RGB-T tracking by modality difference reduction and feature re-selection. Qiang Zhang, Xueru Liu, Tianlu Zhang. IVC 2022. [[paper](https://www.sciencedirect.com/science/article/pii/S0262885622001767)]  [[Code]()] MFNet
+* RGBT Tracking by Trident Fusion Network. Zhu Yabin and Li, Chenglong and Tang, Jin and Luo, Bin and Wang, Liang. TCSVT 2022. [[paper](https://ieeexplore.ieee.org/abstract/document/9383014)]  [[Code]()] TFNet.
+* Residual learning-based two-stream network for RGB-T object tracking. Yili Chen, Minjie Wan, Yunkai Xu, Xiaojie Zhang, Qian Chen, Guohua Gu. JEI 2022. [[paper](https://scholar.google.com/scholar?q=Residual+learning-based+two-stream+network+for+RGB-T+object+tracking&hl=zh-CN&as_sdt=0,5)]  [[Code](https://github.com/MinjieWan/Residual-learning-based-two-stream-network-for-RGB-T-object-tracking)] RLTN
+* SCA-MMA: Spatial and Channel-Aware Multi-Modal Adaptation for Robust RGB-T Object Tracking. Run Shi, Chaoqun Wang, Gang Zhao, Chunyan Xu. ELECTRONICS 2022. [[paper](https://www.mdpi.com/2079-9292/11/12/1820)]  [[Code]()] SCA-MMA
+* SiamMMF: multi-modal multi-level fusion object tracking based on Siamese networks. Zhen Yang, Peng Huang, Dunyun He, Zhongwang Cai & Zhijian Yin. Machine Vision and Applications 2022. [[paper](https://link.springer.com/article/10.1007/s00138-022-01354-2)]  [[Code]()] SiamMMF
+* Temporal Aggregation for Adaptive RGBT Tracking. Tang, Zhangyong and Xu, Tianyang and Wu, Xiao-Jun. Arxiv 2022. [[paper](https://arxiv.org/abs/2201.08949)]  [[Code](https://github.com/Zhangyong-Tang/TAAT)] TAAT
+* Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline. Pengyu Zhang, Jie Zhao, Dong Wang, Huchuan Lu, Xiang Ruan. CVPR 2022. [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Visible-Thermal_UAV_Tracking_A_Large-Scale_Benchmark_and_New_Baseline_CVPR_2022_paper.html)]  [[Code](https://github.com/zhang-pengyu/HMFT)] HMFT.
 
 
 2021
 
-* Adaptive Fusion CNN Features for RGBT Object Tracking. Wang, Yong and Wei, Xian and Tang, Xuan and Shen, Hao and Zhang, Huanlong. TITS 2021.
-* Channel Exchanging for RGB-T Tracking. Long Zhao, Meng Zhu, Honge Ren,  Lingjixuan Xue. Sensors 2021. CEDiMP
-* Enhanced Real-Time RGB-T Tracking by Complementary Learners. Qingyu Xu, Yangliu Kuai, Junggang Yang, and Xinpu Deng. Journal of Circuits, Systems and Computers 2021. EStaple
-* HDINet: Hierarchical Dual-Sensor Interaction Network for RGBT Tracking. Mei, Jiatian and Zhou, Dongming and Cao, Jinde and Nie, Rencan and Guo, Yanbu. IEEE Sensors Journal 2021. HDINet
-* Jointly Modeling Motion and Appearance Cues for Robust RGB-T Tracking. Zhang, Pengyu and Zhao, Jie and Bo, Chunjuan and Wang, Dong and Lu, Huchuan and Yang, Xiaoyun. TIP 2021. JMMAC.
-* LasHeR: A Large-scale High-diversity Benchmark for RGBT Tracking. Chenglong Li, Wanlin Xue, Yaqing Jia, Zhichen Qu, Bin Luo, Jin Tang, and Dengdi Sun. TIP 2021. LasHeR
-* Learning Adaptive Attribute-Driven Representation for Real-Time RGB-T Tracking. Pengyu Zhang, Dong Wang, Huchuan Lu, Xiaoyun Yang. IJCV 2021. ADRNet.
-* Learning a Twofold Siamese Network for RGB-T Object Tracking. Yangliu Kuai, Dongdong Li, and Que Qian. Journal of Circuits, Systems and Computers 2021. 
-* M5L: Multi-Modal Multi-Margin Metric Learning for RGBT Tracking. Zhengzheng Tu, Chun Lin, Chenglong Li, Jin Tang, Bin Luo. TIP 2021. M5L
-* Multimodal Cross-Layer Bilinear Pooling for RGBT Tracking. Qin Xu, Yiming Mei, Jinpei Liu, and Chenglong Li. TMM 2021. CBPNet
-* RGBT Tracking via Multi-Adapter Network with Hierarchical Divergence Loss. Andong Lu, Chenglong Li, Yuqing Yan, Jin Tang, Bin Luo. TIP 2021. MANet++
-* RGBT Tracking via Noise-Robust Cross-Modal Ranking. Li, Chenglong and Xiang, Zhiqiang and Tang, Jin and Luo, Bin and Wang, Futian. TNNLS 2021. CMR
-* RGBT tracking via cross-modality message passing. Rui Yang, Xiao Wang, Chenglong Li, Jinmin Hu, Jin Tang. Neurocomputing 2021. GCMP
-* SiamCDA: Complementarity-and distractor-aware RGB-T tracking based on Siamese network. Zhang, Tianlu and Liu, Xueru and Zhang, Qiang and Han, Jungong. TCSVT 2021. SiamCDA.
-* WF_DiMP: weight-aware dual-modal feature aggregation mechanism for RGB-T tracking. Zhaodi Wang, Yan Ding, Pingping Wu, Jinbo Zhang. SEVENTH SYMPOSIUM ON NOVEL PHOTOELECTRONIC DETECTION TECHNOLOGY AND APPLICATIONS 2021. WF_DiMP
+* Adaptive Fusion CNN Features for RGBT Object Tracking. Wang, Yong and Wei, Xian and Tang, Xuan and Shen, Hao and Zhang, Huanlong. TITS 2021. [[paper](https://ieeexplore.ieee.org/abstract/document/9426573)]  [[Code]()] AFCF
+* Channel Exchanging for RGB-T Tracking. Long Zhao, Meng Zhu, Honge Ren,  Lingjixuan Xue. Sensors 2021.[[paper](https://www.mdpi.com/1424-8220/21/17/5800)]  [[Code]()] CEDiMP
+* Enhanced Real-Time RGB-T Tracking by Complementary Learners. Qingyu Xu, Yangliu Kuai, Junggang Yang, and Xinpu Deng. Journal of Circuits, Systems and Computers 2021. [[paper](https://www.worldscientific.com/doi/abs/10.1142/S0218126621503072)]  [[Code]()]EStaple
+* HDINet: Hierarchical Dual-Sensor Interaction Network for RGBT Tracking. Mei, Jiatian and Zhou, Dongming and Cao, Jinde and Nie, Rencan and Guo, Yanbu. IEEE Sensors Journal 2021. [[paper](https://ieeexplore.ieee.org/abstract/document/9426927)]  [[Code]()]HDINet
+* Jointly Modeling Motion and Appearance Cues for Robust RGB-T Tracking. Zhang, Pengyu and Zhao, Jie and Bo, Chunjuan and Wang, Dong and Lu, Huchuan and Yang, Xiaoyun. TIP 2021. [[paper](https://ieeexplore.ieee.org/abstract/document/9364880)]  [[Code](https://github.com/zhang-pengyu/JMMAC)] JMMAC.
+* Learning Adaptive Attribute-Driven Representation for Real-Time RGB-T Tracking. Pengyu Zhang, Dong Wang, Huchuan Lu, Xiaoyun Yang. IJCV 2021. [[paper](https://link.springer.com/article/10.1007/s11263-021-01495-3)]  [[Code](https://github.com/zhang-pengyu/ADRNet)] ADRNet. 
+* Learning a Twofold Siamese Network for RGB-T Object Tracking. Yangliu Kuai, Dongdong Li, and Que Qian. Journal of Circuits, Systems and Computers 2021. [[paper](https://www.worldscientific.com/doi/abs/10.1142/S0218126621500894)]  [[Code]()] can not download
+* M5L: Multi-Modal Multi-Margin Metric Learning for RGBT Tracking. Zhengzheng Tu, Chun Lin, Chenglong Li, Jin Tang, Bin Luo. TIP 2021. [[paper](https://ieeexplore.ieee.org/abstract/document/9617143)]  [[Code]()] M5L
+* Multimodal Cross-Layer Bilinear Pooling for RGBT Tracking. Qin Xu, Yiming Mei, Jinpei Liu, and Chenglong Li. TMM 2021. [[paper](https://ieeexplore.ieee.org/abstract/document/9340007)]  [[Code]()] CBPNet
+* Quality-Aware Feature Aggregation Network for Robust RGBT Tracking. Yabin Zhu , Chenglong Li , Jin Tang , and Bin Luo. TIV 2021. [[paper](https://ieeexplore.ieee.org/abstract/document/9035457)]  [[Code]()]  FANet 
+* RGBT Tracking via Multi-Adapter Network with Hierarchical Divergence Loss. Andong Lu, Chenglong Li, Yuqing Yan, Jin Tang, Bin Luo. TIP 2021. [[paper](https://ieeexplore.ieee.org/abstract/document/9454275)]  [[Code](https://github.com/Alexadlu/MANet_pp)] MANet++
+* RGBT Tracking via Noise-Robust Cross-Modal Ranking. Li, Chenglong and Xiang, Zhiqiang and Tang, Jin and Luo, Bin and Wang, Futian. TNNLS 2021. [[paper](https://ieeexplore.ieee.org/abstract/document/9406193)]  [[Code](https://chenglongli.cn/code-dataset/)] NRCMR
+* RGBT tracking via cross-modality message passing. Rui Yang, Xiao Wang, Chenglong Li, Jinmin Hu, Jin Tang. Neurocomputing 2021.[[paper](https://www.sciencedirect.com/science/article/pii/S0925231221011966)]  [[Code]()] CMMP
+* SiamCDA: Complementarity-and distractor-aware RGB-T tracking based on Siamese network. Zhang, Tianlu and Liu, Xueru and Zhang, Qiang and Han, Jungong. TCSVT 2021. [[paper](https://ieeexplore.ieee.org/abstract/document/9399460)]  [[Code](https://github.com/Tianlu-Zhang/LSS-Dataset)] SiamCDA.
+* WF_DiMP: weight-aware dual-modal feature aggregation mechanism for RGB-T tracking. Zhaodi Wang, Yan Ding, Pingping Wu, Jinbo Zhang. SEVENTH SYMPOSIUM ON NOVEL PHOTOELECTRONIC DETECTION TECHNOLOGY AND APPLICATIONS 2021. [[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11763/1176362/WF_DiMP--weight-aware-dual-modal-feature-aggregation-mechanism-for/10.1117/12.2587295.full)]  [[Code]()] WF_DiMP
 
 
 2020
 
-* Cross-Modal Pattern-Propagation for RGB-T Tracking. Chaoqun Wang, Chunyan Xu, Zhen Cui, Ling Zhou, Tong Zhang, Xiaoya Zhang, Jian Yang. CVPR 2020. CMPP
-* Challenge-Aware RGBT Tracking. Chenglong Li, Lei Liu, Andong Lu, Qing Ji, Jin Tang. ECCV 2020. CAT
-* DSiamMFT: An RGB-T fusion tracking method via dynamic Siamese networks using multi-layer feature fusion. Xingchen Zhang, Ping Ye, Shengyun Peng, Jun Liu, Gang Xiao. Signal Processing: Image Communication 2020. DSiamMFT
-* FANet: Quality-Aware Feature Aggregation Network for Robust RGB-T Tracking. Yabin Zhu, Chenglong Li, Bin Luo, Jin Tang. TIV 2020. FANet
-* Learning discriminative update adaptive spatial-temporal regularized correlation filter for RGB-T tracking. Mingzheng Feng, Kechen Song, Yanyan Wang, Jie Liu, Yunhui Yan. Journal of Visual Communication and Image Representation 2020.
-* Object Tracking in RGB-T Videos Using Modal-Aware Attention Network and Competitive Learning. Hui Zhang, Lei Zhang, Li Zhuo, Jing Zhang. Sensors 2020. MacNet
-* RGB-T Tracking via Multi-expert Correlation Filters using Spatial-temporal Robustness. Zhang, Fei and Ma, Shiping and Li, Zhijun and Zhang, Yule. ICMCCE 2020. MECF
-* Robust RGB-T tracking via Bimodal Constrained Correlation Filtering. Li, Xin and Cai, Jun and Ding, Wan and Fang, Zhi. PIC 2020. 
+* Cross-Modal Pattern-Propagation for RGB-T Tracking. Chaoqun Wang, Chunyan Xu, Zhen Cui, Ling Zhou, Tong Zhang, Xiaoya Zhang, Jian Yang. CVPR 2020.[[paper]()]  [[Code]()] CMPP
+* Challenge-Aware RGBT Tracking. Chenglong Li, Lei Liu, Andong Lu, Qing Ji, Jin Tang. ECCV 2020. [[paper]()]  [[Code]()] CAT
+* DSiamMFT: An RGB-T fusion tracking method via dynamic Siamese networks using multi-layer feature fusion. Xingchen Zhang, Ping Ye, Shengyun Peng, Jun Liu, Gang Xiao. Signal Processing: Image Communication 2020. [[paper]()]  [[Code]()] DSiamMFT
+* FANet: Quality-Aware Feature Aggregation Network for Robust RGB-T Tracking. Yabin Zhu, Chenglong Li, Bin Luo, Jin Tang. TIV 2020. [[paper]()]  [[Code]()] FANet
+* Learning discriminative update adaptive spatial-temporal regularized correlation filter for RGB-T tracking. Mingzheng Feng, Kechen Song, Yanyan Wang, Jie Liu, Yunhui Yan. Journal of Visual Communication and Image Representation 2020. [[paper]()]  [[Code]()]
+* Object Tracking in RGB-T Videos Using Modal-Aware Attention Network and Competitive Learning. Hui Zhang, Lei Zhang, Li Zhuo, Jing Zhang. Sensors 2020. [[paper]()]  [[Code]()] MacNet
+* RGB-T Tracking via Multi-expert Correlation Filters using Spatial-temporal Robustness. Zhang, Fei and Ma, Shiping and Li, Zhijun and Zhang, Yule. ICMCCE 2020. [[paper]()]  [[Code]()] MECF
+* Robust RGB-T tracking via Bimodal Constrained Correlation Filtering. Li, Xin and Cai, Jun and Ding, Wan and Fang, Zhi. PIC 2020.  [[paper]()]  [[Code]()]
 
 2019
 
-* Dense Feature Aggregation and Pruning for RGBT Tracking. Yabin Zhu, Chenglong Li, Bin Luo, Jin Tang, Xiao Wang. ACM MM 2019. DAPNet.
-* Deep Adaptive Fusion Network for High Performance RGBT Tracking. Yuan Gao, Chenglong Li, Yabin Zhu, Jin Tang, Tao He, Futian Wang. ICCVW 2019. DAFNet
-* Fast RGB-T Tracking via Cross- Modal Correlation Filters. Sulan Zhai, Pengpeng Shao*, Xinyan Liang, Xin Wang. Neurocomputing 2019
-* Learning Local-Global Multi-Graph Descriptors for RGB-T Object Tracking. Chenglong Li, Chengli Zhu, Jian Zhang, Bin Luo, Xiaohao Wu, and Jin Tang. TCSVT 2019. LGMG
-* Learning Target-oriented Dual Attention for Robust RGB-T Tracking. Rui Yang, Yabin Zhu, Xiao Wang, Chenglong Li, Jin Tang. Arxiv 2019.
-* Multi-Modal Fusion for End-to-End RGB-T Tracking. Lichao Zhang, Martin Danelljan, Abel Gonzalez-Garcia, Joost van de Weijer, Fahad Shahbaz Khan. ICCVW 2019. mfDiMP
-* Multi-Adapter RGBT Tracking. Chenglong Li, Andong Lu, Aihua Zheng, Zhengzheng Tu, Jin Tang. ICCVW 2019. MANet
-* RGB-T object tracking: Benchmark and baseline. Chenglong Li, Xinyan Liang, Yijuan Lu, Nan Zhao, Jin Tang. PR 2019. RGBT234
-* SiamFT: An RGB-Infrared Fusion Tracking Method via Fully Convolutional Siamese Networks. XINGCHEN ZHANG, PING YE, SHENGYUN PENG, JUN LIU, KE GONG1, GANG XIAO. IEEE Access 2019. SiamFT
-* Thermal infrared and visible sequences fusion tracking based on a hybrid tracking framework with adaptive weighting scheme. Chengwei Luoa, Bin Suna, Ke Yanga, Taoran Lua, Wei-Chang Yeh. IPT 2019.
+* Dense Feature Aggregation and Pruning for RGBT Tracking. Yabin Zhu, Chenglong Li, Bin Luo, Jin Tang, Xiao Wang. ACM MM 2019. [[paper]()]  [[Code]()] DAPNet.
+* Deep Adaptive Fusion Network for High Performance RGBT Tracking. Yuan Gao, Chenglong Li, Yabin Zhu, Jin Tang, Tao He, Futian Wang. ICCVW 2019. [[paper]()]  [[Code]()] DAFNet
+* Fast RGB-T Tracking via Cross- Modal Correlation Filters. Sulan Zhai, Pengpeng Shao*, Xinyan Liang, Xin Wang. Neurocomputing 2019. [[paper]()]  [[Code]()]
+* Learning Local-Global Multi-Graph Descriptors for RGB-T Object Tracking. Chenglong Li, Chengli Zhu, Jian Zhang, Bin Luo, Xiaohao Wu, and Jin Tang. TCSVT 2019. [[paper]()]  [[Code]()] LGMG
+* Learning Target-oriented Dual Attention for Robust RGB-T Tracking. Rui Yang, Yabin Zhu, Xiao Wang, Chenglong Li, Jin Tang. Arxiv 2019.[[paper]()]  [[Code]()]
+* Multi-Modal Fusion for End-to-End RGB-T Tracking. Lichao Zhang, Martin Danelljan, Abel Gonzalez-Garcia, Joost van de Weijer, Fahad Shahbaz Khan. ICCVW 2019. [[paper]()]  [[Code]()]mfDiMP
+* Multi-Adapter RGBT Tracking. Chenglong Li, Andong Lu, Aihua Zheng, Zhengzheng Tu, Jin Tang. ICCVW 2019. [[paper]()]  [[Code](https://github.com/Alexadlu/MANet)] MANet
+* SiamFT: An RGB-Infrared Fusion Tracking Method via Fully Convolutional Siamese Networks. XINGCHEN ZHANG, PING YE, SHENGYUN PENG, JUN LIU, KE GONG1, GANG XIAO. IEEE Access 2019. [[paper]()]  [[Code]()] SiamFT
+* Thermal infrared and visible sequences fusion tracking based on a hybrid tracking framework with adaptive weighting scheme. Chengwei Luoa, Bin Suna, Ke Yanga, Taoran Lua, Wei-Chang Yeh. IPT 2019. [[paper]()]  [[Code]()]
 
 2018
 
-* Cross-Modal Ranking with Soft Consistency and Noisy Labels for Robust RGB-T Tracking. Chenglong Li, Chengli Zhu, Yan Huang, Jin Tang, Liang Wang. ECCV 2018. 
-* Fusing two-stream convolutional neural networks for RGB-T object tracking. Chenglong Li, Xiaohao Wu, Nan Zhao, Xiaochun Cao, Jin Tang∗. Neurocomputing 2018. fusionnet
-* Learning Soft-Consistent Correlation Filters for RGB-T Object Tracking. Yulong Wang, Chenglong Li & Jin Tang. SCCF
-* Learning Multi-domain Convolutional Network for RGB-T Visual Tracking. Xingming Zhang, Xuehan Zhang, Xuedan Du, Xiangming Zhou, Jun Yin. 
-* Robust Collaborative Discriminative Learning for RGB-Infrared Tracking. Xiangyuan Lan, Mang Ye, Shengping Zhang, Pong C. Yuen. AAAI 2018.
-* Two-stage modality-graphs regularized manifold ranking for RGB-T tracking. Chenglong Li, Chengli Zhu, Shaofei Zheng, Bin Luo, Jing Tang. Signal Processing: Image Communication 2018. 
+* Cross-Modal Ranking with Soft Consistency and Noisy Labels for Robust RGB-T Tracking. Chenglong Li, Chengli Zhu, Yan Huang, Jin Tang, Liang Wang. ECCV 2018.  [[paper]()]  [[Code](https://chenglongli.cn/code-dataset/)]
+* Fusing two-stream convolutional neural networks for RGB-T object tracking. Chenglong Li, Xiaohao Wu, Nan Zhao, Xiaochun Cao, Jin Tang. Neurocomputing 2018. [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231217318271)] [[Code](https://github.com/SparkTempest/BAT)]. fusionnet.
+* Learning Soft-Consistent Correlation Filters for RGB-T Object Tracking. Yulong Wang, Chenglong Li & Jin Tang. [[paper]()]  [[Code]()] SCCF
+* Learning Multi-domain Convolutional Network for RGB-T Visual Tracking. Xingming Zhang, Xuehan Zhang, Xuedan Du, Xiangming Zhou, Jun Yin. 2018.  [[paper]()]  [[Code]()]
+* Robust Collaborative Discriminative Learning for RGB-Infrared Tracking. Xiangyuan Lan, Mang Ye, Shengping Zhang, Pong C. Yuen. AAAI 2018. [[paper]()]  [[Code]()]
+* Two-stage modality-graphs regularized manifold ranking for RGB-T tracking. Chenglong Li, Chengli Zhu, Shaofei Zheng, Bin Luo, Jing Tang. Signal Processing: Image Communication 2018.  [[paper]()]  [[Code]()]
 
 2017
 
-* Grayscale-Thermal Object Tracking via Multitask Laplacian Sparse Representation. Chenglong Li, Xiang Sun, Xiao Wang, Lei Zhang, and Jin Tang. TSMCS 2017.
-* Weighted Sparse Representation Regularized Graph Learning for RGB-T Object Tracking. Chenglong Li, Nan Zhao, Yijuan Lu, Chengli Zhu, Jin Tang. ACM MM 2017. RGBT210
+* Grayscale-Thermal Object Tracking via Multitask Laplacian Sparse Representation. Chenglong Li, Xiang Sun, Xiao Wang, Lei Zhang, and Jin Tang. TSMCS 2017. [[paper]()]  [[Code]()]
 
 
 
 2016
 
-* Learning Collaborative Sparse Representation for Grayscale-Thermal Tracking. Chenglong Li, Hui Cheng, Shiyi Hu, Xiaobai Liu, Jin Tang, and Liang Lin. TIP 2016. GTOT
-* Real-Time Grayscale-Thermal Tracking via Laplacian Sparse Representation. Chenglong Li, Shiyi Hu, Sihan Gao, and Jin Tang. MultiMedia Modeling 2016.
+* Real-Time Grayscale-Thermal Tracking via Laplacian Sparse Representation. Chenglong Li, Shiyi Hu, Sihan Gao, and Jin Tang. MultiMedia Modeling 2016. [[paper]()]  [[Code]()]
 
 2012
 
-* An iterative integrated framework for thermal–visible image registration, sensor fusion, and people tracking for video surveillance applications. Atousa Torabi ⇑, Guillaume Massé, Guillaume-Alexandre Bilodeau. CVIU 2012. LITIV
-* Fusion tracking in color and infrared images using joint sparse representation. LIU HuaPing, SUN FuChun. Science China Information Sciences 2012. JSR
+* Fusion tracking in color and infrared images using joint sparse representation. LIU HuaPing, SUN FuChun. Science China Information Sciences 2012. [[paper]()]  [[Code]()] JSR 
 
 
 2011
 
-* Multiple Source Data Fusion via Sparse Representation for Robust Visual Tracking. Wu, Yi and Blasch, Erik and Chen, Genshe and Bai, Li and Ling, Haibin. ICIF 2011. L1-PF
+* Multiple Source Data Fusion via Sparse Representation for Robust Visual Tracking. Wu, Yi and Blasch, Erik and Chen, Genshe and Bai, Li and Ling, Haibin. ICIF 2011. [[paper]()]  [[Code]()] L1-PF
 
 
 2008
 
-* Thermo-visual feature fusion for object tracking using multiple spatiogram trackers. Conaire C Ó, O’Connor N E, Smeaton A. Machine Vision and Applications 2008.
+* Thermo-visual feature fusion for object tracking using multiple spatiogram trackers. Conaire C Ó, O’Connor N E, Smeaton A. Machine Vision and Applications 2008. [[paper]()]  [[Code]()]
 
 
 2007
 
-* Background-subtraction using contour-based fusion of thermal and visible imagery. James W. Davis *, Vinay Sharma. CVIU 2007. OTCBVS
-* The Effect of Pixel-Level Fusion on Object Tracking in Multi-Sensor Surveillance Video. N. Cvejic, S. G. Nikolov, H. D. Knowles, A. Łoza, A. Achim, D. R. Bull and C. N. Canagarajah. CVPR 2007.
+* The Effect of Pixel-Level Fusion on Object Tracking in Multi-Sensor Surveillance Video. N. Cvejic, S. G. Nikolov, H. D. Knowles, A. Łoza, A. Achim, D. R. Bull and C. N. Canagarajah. CVPR 2007. [[paper]()]  [[Code]()]
 
 
 2006
 
-* Comparison of fusion methods for thermo-visual surveillance tracking. Conaire, C.O. and O'Connor, N.E. and Cooke, E. and Smeaton, A.F. ICIF 2006.
-* The influence of multi-sensor video fusion on object tracking using a particle filter. Mihaylova L., Loza A., Nikolov S. G., Lewis J. J., Canga E. -F., Li, J., Dixon T., Canagarajah C. N., Bull D. R. INFORMATIK 2006
+* Comparison of fusion methods for thermo-visual surveillance tracking. Conaire, C.O. and O'Connor, N.E. and Cooke, E. and Smeaton, A.F. ICIF 2006. [[paper]()]  [[Code]()]
+* The influence of multi-sensor video fusion on object tracking using a particle filter. Mihaylova L., Loza A., Nikolov S. G., Lewis J. J., Canga E. -F., Li, J., Dixon T., Canagarajah C. N., Bull D. R. INFORMATIK 2006 [[paper]()]  [[Code]()]
 
 
 
