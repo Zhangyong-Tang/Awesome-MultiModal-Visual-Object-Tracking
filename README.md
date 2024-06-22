@@ -518,13 +518,3 @@ This work is supported by [PRCI-Lab](https://github.com/PRCI-Lab), which is an o
 If you have any questions, please feel free to start the issue, or contact me at zhangyong_tang_jnu@163.com (wechat: Tzy18861871359  is also welcomed).
 
 
-
-## Star History
-
-<a href="https://star-history.com/#Zhangyong-Tang/MultiModal-Visual-Object-tracking&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Zhangyong-Tang/MultiModal-Visual-Object-tracking&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Zhangyong-Tang/MultiModal-Visual-Object-tracking&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Zhangyong-Tang/MultiModal-Visual-Object-tracking&type=Date" />
- </picture>
-</a>
