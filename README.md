@@ -131,18 +131,17 @@
 
 ### Unified (Model or Architecture for) Multi-Modal Tracking
 
-* Towards a Generalist and Blind RGB-X Tracker. Yuedong Tan, Zongwei Wu, Yuqian Fu, Zhuyun Zhou, Guolei Sun, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte. Arxiv 2024. [[Paper]()] [[Code]()]. XTrack.
+* Towards a Generalist and Blind RGB-X Tracker. Yuedong Tan, Zongwei Wu, Yuqian Fu, Zhuyun Zhou, Guolei Sun, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte. Arxiv 2024. [[Paper](https://arxiv.org/abs/2405.17773)] [[Code](https://github.com/supertyd/XTrack)]. XTrack.
 * Long-term Frame-Event Visual Tracking: Benchmark Dataset and Baseline. Xiao Wang, Ju Huang, Shiao Wang, Chuanming Tang, Bo Jiang, Yonghong Tian, Jin Tang, and Bin Luo. Arxiv 2024. [[Paper](https://arxiv.org/abs/2403.05839)] [[Code](https://github.com/Event-AHU/FELT_SOT_Benchmark)] AMTTrack
-* Unified Sequence-to-Sequence Learning for Single- and Multi-Modal Visual Object Tracking. Xin Chen, Ben Kang, Jiawen Zhu, Dong Wang*, Houwen Peng, and Huchuan Lu. Arxiv 2024. [[Paper](https://arxiv.org/pdf/2304.14394)] [[Code](https://github.com/chenxin-dlut/SeqTrackv2)] 
-* SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking. Xiaojun Hou, Jiazheng Xing, Yijie Qian, Yaowei Guo, Shuo Xin, Junhao Chen. CVPR 2024. [[Paper](https://arxiv.org/pdf/2403.16002)] [[Code](https://github.com/hoqolo/SDSTrack)] 
-Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu*, Yong Liu*. CVPR 2024. [[Paper](https://arxiv.org/pdf/2403.16002)] [[Code](https://github.com/hoqolo/SDSTrack)]
+* Unified Sequence-to-Sequence Learning for Single- and Multi-Modal Visual Object Tracking. Xin Chen, Ben Kang, Jiawen Zhu, Dong Wang*, Houwen Peng, and Huchuan Lu. Arxiv 2024. [[Paper](https://arxiv.org/pdf/2304.14394)] [[Code](https://github.com/chenxin-dlut/SeqTrackv2)] SeqTrackv2
+* SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking. Xiaojun Hou, Jiazheng Xing, Yijie Qian, Yaowei Guo, Shuo Xin, Junhao Chen. CVPR 2024. [[Paper](https://arxiv.org/pdf/2403.16002)] [[Code](https://github.com/hoqolo/SDSTrack)] SDSTrack
 * Single-Model and Any-Modality for Video Object Tracking. Zongwei Wu, Jilai Zheng, Xiangxuan Ren, Florin-Alexandru Vasluianu, Chao Ma*, Danda Pani Paudel, Luc Van Gool, Radu Timofte. CVPR 2024. [[Paper](https://arxiv.org/abs/2311.15851)] [[Code](https://github.com/Zongwei97/UnTrack)]
 * OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning. Lingyi Hong, Shilin Yan, Renrui Zhang, Wanyun Li, Xinyu Zhou, Pinxue Guo, Kaixun Jiang, Yiting Chen, Jinglun Li, Zhaoyu Chen, Wenqiang Zhang*. CVPR 2024. [[Paper](https://arxiv.org/pdf/2403.09634)] [Code]
-* Knowledge Synergy Learning for Multi-Modal Tracking. He, Yuhang and Ma, Zhiheng and Wei, Xing and Gong, Yihong. TCSVT 2024. [[Paper]()] [[Code]()]. KSTrack.
-* MINet: Modality interaction network for unified multi-modal tracking. Shuang Gong, Zhu Teng1*, Rui Li, Jack Fan, Baopeng Zhang, Jianping Fan. IVC 2024. [[Paper](https://www.sciencedirect.com/science/article/pii/S0262885624001756)] [[Code]()]
+* Knowledge Synergy Learning for Multi-Modal Tracking. He, Yuhang and Ma, Zhiheng and Wei, Xing and Gong, Yihong. TCSVT 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10388341)] [Code]. KSTrack.
+* MINet: Modality interaction network for unified multi-modal tracking. Shuang Gong, Zhu Teng1*, Rui Li, Jack Fan, Baopeng Zhang, Jianping Fan. IVC 2024. [[Paper](https://www.sciencedirect.com/science/article/pii/S0262885624001756)] [Code]
 * Visual Prompt Multi-Modal Tracking. Jiawen Zhu, Simiao Lai, Xin Chen, Dong Wang*, Huchuan Lu. CVPR 2023.  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Visual_Prompt_Multi-Modal_Tracking_CVPR_2023_paper.pdf)] [[Code](https://github.com/jiawen-zhu/ViPT)]
-* Feature Disentanglement and Adaptive Fusion for Improving Multi-modal Tracking. Zheng Li, Weibo Cai, Junhao Dong, Jianhuang Lai, and Xiaohua Xie. PRCV 2023 [[Paper]()] [[Code]()]..
-* Prompting for multi-modal tracking. Yang, Jinyu and Li, Zhe and Zheng, Feng and Leonardis, Ales and Song, Jingkuan. ACM MM 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3547851)] [[Code]()]. ProTrack
+* Feature Disentanglement and Adaptive Fusion for Improving Multi-modal Tracking. Zheng Li, Weibo Cai, Junhao Dong, Jianhuang Lai, and Xiaohua Xie. PRCV 2023 [[Paper](https://link.springer.com/chapter/10.1007/978-981-99-8555-5_6)] [[Code]()]. FDAFT
+* Prompting for multi-modal tracking. Yang, Jinyu and Li, Zhe and Zheng, Feng and Leonardis, Ales and Song, Jingkuan. ACM MM 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3547851)] [Code]. ProTrack
 
 ### RGB-T Tracking
 2024
