@@ -140,7 +140,8 @@
 * Knowledge Synergy Learning for Multi-Modal Tracking. He, Yuhang and Ma, Zhiheng and Wei, Xing and Gong, Yihong. TCSVT 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10388341)] [Code]. KSTrack.
 * MINet: Modality interaction network for unified multi-modal tracking. Shuang Gong, Zhu Teng1*, Rui Li, Jack Fan, Baopeng Zhang, Jianping Fan. IVC 2024. [[Paper](https://www.sciencedirect.com/science/article/pii/S0262885624001756)] [Code]
 * Visual Prompt Multi-Modal Tracking. Jiawen Zhu, Simiao Lai, Xin Chen, Dong Wang*, Huchuan Lu. CVPR 2023.  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Visual_Prompt_Multi-Modal_Tracking_CVPR_2023_paper.pdf)] [[Code](https://github.com/jiawen-zhu/ViPT)]
-* Feature Disentanglement and Adaptive Fusion for Improving Multi-modal Tracking. Zheng Li, Weibo Cai, Junhao Dong, Jianhuang Lai, and Xiaohua Xie. PRCV 2023 [[Paper](https://link.springer.com/chapter/10.1007/978-981-99-8555-5_6)] [[Code]()]. FDAFT
+* Feature Disentanglement and Adaptive Fusion for Improving Multi-modal Tracking. Zheng Li, Weibo Cai, Junhao Dong, Jianhuang Lai, and Xiaohua Xie. PRCV 2023 [[Paper](https://link.springer.com/chapter/10.1007/978-981-99-8555-5_6)] [[Code](https://github.com/ccccwb/
+Multimodal-Detection-and-Tracking-UAV)]. FDAFT
 * Prompting for multi-modal tracking. Yang, Jinyu and Li, Zhe and Zheng, Feng and Leonardis, Ales and Song, Jingkuan. ACM MM 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3547851)] [Code]. ProTrack
 
 ### RGB-T Tracking
