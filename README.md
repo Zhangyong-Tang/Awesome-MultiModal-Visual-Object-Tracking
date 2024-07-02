@@ -8,7 +8,8 @@
 
 
 ## 💥: Update Log 
-* [2024.06.20] Paper and code link for RGBT papers.
+* [2024.07.02] ALL paper and code links added. Our paper is coming soon.
+* [2024.06.20] Paper and code links for RGBT papers.
 * [2024.06.14] The classification of all the trackers are added.
 * [2024.06.01] All the multi-modal tracking papers are added.
 * [2024.05.29] All datasets are listed.
