@@ -39,6 +39,7 @@
 ## :punch: : Scope
 
 [RGBT Tracking Papers](RGB-T Tracking)
+[RGBT Tracking Papers](#RGB-T Tracking)
 
 ## :punch: :Datasets and Benchmarks
 
