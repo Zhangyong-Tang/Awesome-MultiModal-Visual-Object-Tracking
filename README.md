@@ -515,7 +515,7 @@ Multimodal-Detection-and-Tracking-UAV)]. FDAFT
 
 * RGB-Sonar Tracking Benchmark and Spatial Cross-Attention Transformer Tracker. Yunfeng Li, Bo Wang*, Jiuran Sun, Xueyi Wu, Ye Li. Arxiv 2024. RGBS50. [[Paper](https://arxiv.org/pdf/2406.07189)] [[Code](https://github.com/LiYunfengLYF/RGBS50)]
 
-### RGB-Mutli Tracking
+### RGB-Multi Tracking
 
 * UniMod1K: Towards a More Universal Large-Scale Dataset and Benchmark for Multi-modal Learning. Xue-Feng Zhu, Tianyang Xu, Zongtao Liu, Zhangyong Tang, Xiao-Jun Wu & Josef Kittler. IJCV 2024. [[Paper](https://link.springer.com/article/10.1007/s11263-024-01999-8)] [[Code](https://github.com/xuefeng-zhu5/UniMod1K)] 
 * WebUAV-3M: A Benchmark for Unveiling the Power of Million-Scale Deep UAV Tracking. Chunhui Zhang, Guanjie Huang, Li Liu, Shan Huang, Yinan Yang, Xiang Wan, Shiming Ge, and Dacheng Tao. TPAMI 2023. [[Paper](https://ieeexplore.ieee.org/document/10004511)]
