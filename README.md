@@ -38,8 +38,12 @@
 
 ## :punch: : Scope
 
-
 [RGBT Tracking Papers](#RGB-T-Tracking)
+[RGBD Tracking Papers](#RGB-D-Tracking)
+[RGBE Tracking Papers](#RGB-E-Tracking)
+[RGBL Tracking Papers](#RGB-L-Tracking)
+[RGBNIR Tracking Papers](#RGB-NIR-Tracking)
+[RGBS Tracking Papers](#RGB-S-Tracking)
 
 ## :punch: :Datasets and Benchmarks
 
