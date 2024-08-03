@@ -35,6 +35,9 @@
 * Exploring fusion strategies for accurate RGBT visual object tracking. Zhangyong Tang, Tianyang Xu, Hui Li, Xiao-Jun Wu, XueFeng Zhu, Josef Kittler. Information Fusion 2023. DFAT. [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253523001975)]. [[Code](https://github.com/Zhangyong-Tang/DFAT-Information-Fusion2023)].
 * Temporal Aggregation for Adaptive RGBT Tracking. Tang, Zhangyong and Xu, Tianyang and Wu, Xiao-Jun. Arxiv 2022. TAAT. [[Paper](https://arxiv.org/abs/2201.08949)] [[Code](https://github.com/Zhangyong-Tang/TAAT)].
 
+
+## :punch: : [RGBT Tracking Papers](RGB-T Tracking)
+
 ## :punch: :Datasets and Benchmarks
 
 ### RGB-Mutli Datasets
