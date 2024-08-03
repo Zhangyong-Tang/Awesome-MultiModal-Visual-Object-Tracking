@@ -36,7 +36,7 @@
 * Temporal Aggregation for Adaptive RGBT Tracking. Tang, Zhangyong and Xu, Tianyang and Wu, Xiao-Jun. Arxiv 2022. TAAT. [[Paper](https://arxiv.org/abs/2201.08949)] [[Code](https://github.com/Zhangyong-Tang/TAAT)].
 
 
-## :punch: : Scope
+## :punch: : Find what you want quickly
 
 [RGBT Tracking Papers](#RGB-T-Tracking)
 
