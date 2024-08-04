@@ -133,6 +133,7 @@
 
 
 ## :star2: :Surveys and Report
+* RGBT ---- A Comprehensive Review of RGBT Tracking. Haiping Zhang, Di Yuan, Xiu Shu, Zhihui Li, Qiao Liu, Xiaojun Chang, Zhenyu He, and Guangming Shi. TIM 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10616144)]
 * RGBT ---- RGBT tracking: A comprehensive review. Mingzheng Feng, Jianbo Su*. Information Fusion 2024. [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253524002707)]
 * RGBT ---- Review and Analysis of RGBT Single Object Tracking Methods: A Fusion Perspective. Zhihao Zhang, Jun Wang, Zhuli Zang, Lei Jin, Shengjie Li, Hao Wu*,Jian Zhao, Zhang Bo. ACM TOMM 2024. [[Paper](https://dl.acm.org/doi/10.1145/3651308)]
 * RGBT---- Object fusion tracking based on visible and infrared images: A comprehensive review. Xingchen Zhang, Ping Ye, Henry Leung, Ke Gong, Gang Xiao*. Information Fusion 2020. [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253520302657)]
@@ -188,6 +189,7 @@ Multimodal-Detection-and-Tracking-UAV)]. FDAFT
 * Robust RGB-T Tracking via Adaptive Modality Weight Correlation Filters and Cross-modality Learning. Mingliang Zhou, Xinwen Zhao, Futing Luo, Jun Luo, Huayan Pu, Tao Xiang. ACM TOMM 2024. [[Paper](https://dl.acm.org/doi/full/10.1145/3630100)] [[Code](https://github.com/LDating/AWCM)]. AWCM
 * Special attribute-based cross-modal interactive fusion network for RGBT tracking. XIAOQIANG SHAO, HAO LI, ZHIYUE LYU, BO MA, ZEHUI HAN AND MINGQIAN LIU. 2024. [[Paper](https://preprints.opticaopen.org/articles/preprint/Special_attribute-based_cross-modal_interactive_fusion_network_for_RGBT_tracking/2590421)] [Code]. SAFT
 * Simplifying Cross-modal Interaction via Modality-Shared Features for RGBT Tracking. LiQiu Chen, Yuqing Huang, Hengyu li, Zikun Zhou, Zhenyu He. ACMMM 2024. [[Paper](https://openreview.net/forum?id=oDEqOhKYoO)] [Code]. SAFT
+* Top-down Cross-modal Guidance for Robust RGB-T Tracking. Liang Chen, Bineng Zhong∗, Qihua Liang, Yaozong Zheng, Zhiyi Mo, Shuxiang Song. TCSVT 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10614652)] [Code]. TGTrack
 * Temporal Adaptive RGBT Tracking with Modality Prompt. Hongyu Wang, Xiaotao Liu*, Yifan Li, Meng Sun, Dian Yuan, Jing Liu. AAAI 2024. [[Paper](https://arxiv.org/abs/2401.01244)] [Code]. TATrack
 * Towards Modalities Correlation for RGB-T Tracking. Hu Xiantao, Zhong Bineng, Liang Qihua, Zhang Shengping, Li Ning, Li Xianxian. TCSVT 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10517645)] [[Code](https://github.com/GXNU-ZhongLab/MCTrack)]. MCTrack.
 * Transformer-based RGB-T Tracking with Channel and Spatial Feature Fusion. Yunfeng Li, Bo Wang, Ye Li, Zhiwen Yu, Liang Wang. Arxiv 2024. [[Paper](https://arxiv.org/abs/2405.03177)] [[Code](https://github.com/LiYunfengLYF/CSTNet)]. CSTNet.
