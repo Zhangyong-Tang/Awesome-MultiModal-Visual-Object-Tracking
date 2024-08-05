@@ -150,6 +150,7 @@
 
 ### Unified (Model or Architecture for) Multi-Modal Tracking
 
+* MixRGBX: Universal multi-modal tracking with symmetric mixed attention. Meng Sun, Xiaotao Liu, Hongyu Wang, Jing Liu. Neurocomputing 2024. [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231224010452)] [[Code]()].
 * Towards a Generalist and Blind RGB-X Tracker. Yuedong Tan, Zongwei Wu, Yuqian Fu, Zhuyun Zhou, Guolei Sun, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte. Arxiv 2024. [[Paper](https://arxiv.org/abs/2405.17773)] [[Code](https://github.com/supertyd/XTrack)]. XTrack.
 * Long-term Frame-Event Visual Tracking: Benchmark Dataset and Baseline. Xiao Wang, Ju Huang, Shiao Wang, Chuanming Tang, Bo Jiang, Yonghong Tian, Jin Tang, and Bin Luo. Arxiv 2024. [[Paper](https://arxiv.org/abs/2403.05839)] [[Code](https://github.com/Event-AHU/FELT_SOT_Benchmark)] AMTTrack
 * Unified Sequence-to-Sequence Learning for Single- and Multi-Modal Visual Object Tracking. Xin Chen, Ben Kang, Jiawen Zhu, Dong Wang*, Houwen Peng, and Huchuan Lu. Arxiv 2024. [[Paper](https://arxiv.org/pdf/2304.14394)] [[Code](https://github.com/chenxin-dlut/SeqTrackv2)] SeqTrackv2
@@ -194,6 +195,7 @@ Multimodal-Detection-and-Tracking-UAV)]. FDAFT
 * Towards Modalities Correlation for RGB-T Tracking. Hu Xiantao, Zhong Bineng, Liang Qihua, Zhang Shengping, Li Ning, Li Xianxian. TCSVT 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10517645)] [[Code](https://github.com/GXNU-ZhongLab/MCTrack)]. MCTrack.
 * Transformer-based RGB-T Tracking with Channel and Spatial Feature Fusion. Yunfeng Li, Bo Wang, Ye Li, Zhiwen Yu, Liang Wang. Arxiv 2024. [[Paper](https://arxiv.org/abs/2405.03177)] [[Code](https://github.com/LiYunfengLYF/CSTNet)]. CSTNet.
 * Unified Single-Stage Transformer Network for Efficient RGB-T Tracking. Jianqiang Xia, DianXi Shi, Ke Song, Linna Song, XiaoLei Wang, Songchang Jin, Li Zhou, Yu Cheng, Lei Jin, Zheng Zhu, Jianan Li, Gang Wang, Junliang Xing, Jian Zhao. IJCAI 2024. [[paper](https://arxiv.org/abs/2308.13764)]  [[Code](https://github.com/xiajianqiang/USTrack)] USTrack
+
 
 2023
 
@@ -518,7 +520,7 @@ Multimodal-Detection-and-Tracking-UAV)]. FDAFT
 * RGB-Sonar Tracking Benchmark and Spatial Cross-Attention Transformer Tracker. Yunfeng Li, Bo Wang*, Jiuran Sun, Xueyi Wu, Ye Li. Arxiv 2024. RGBS50. [[Paper](https://arxiv.org/pdf/2406.07189)] [[Code](https://github.com/LiYunfengLYF/RGBS50)]
 
 ### RGB-Multi Tracking
-
+* Visual and Language Collaborative Learning for RGBT Object Tracking. Jiahao Wang, Fang Liu, Licheng Jiao, Yingjia Gao, Hao Wang, Shuo Li,, Lingling Li,, Puhua Chen,and Xu Liu. TCSVT 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10620225)] [Code]
 * UniMod1K: Towards a More Universal Large-Scale Dataset and Benchmark for Multi-modal Learning. Xue-Feng Zhu, Tianyang Xu, Zongtao Liu, Zhangyong Tang, Xiao-Jun Wu & Josef Kittler. IJCV 2024. [[Paper](https://link.springer.com/article/10.1007/s11263-024-01999-8)] [[Code](https://github.com/xuefeng-zhu5/UniMod1K)] 
 * WebUAV-3M: A Benchmark for Unveiling the Power of Million-Scale Deep UAV Tracking. Chunhui Zhang, Guanjie Huang, Li Liu, Shan Huang, Yinan Yang, Xiang Wan, Shiming Ge, and Dacheng Tao. TPAMI 2023. [[Paper](https://ieeexplore.ieee.org/document/10004511)]
 
