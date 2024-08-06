@@ -109,6 +109,7 @@
 
 | Dataset | Publish  | GitHub| Introduction|
 |--|--|--| --|
+| ElysiumTrack-1M| Arxiv'2024 |[ElysiumTrack-1M](https://github.com/Hon-Wong/Elysium) |Elysium: Exploring Object-level Perception in Videos via MLLM|
 | WebUOT-1M| Arxiv'2024 |[WebUOT-1M](https://github.com/983632847/Awesome-Multimodal-Object-Tracking) |WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark|
 | VastTrack| Arxiv'2024 |[VastTrack](https://github.com/HengLan/VastTrack) |VastTrack: Vast Category Visual Object Tracking|
 | MGIT| NIPS'2023 |[MGIT](http://videocube.aitestunion.com/) |A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship|
