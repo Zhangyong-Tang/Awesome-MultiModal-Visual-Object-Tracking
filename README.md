@@ -528,7 +528,7 @@ Multimodal-Detection-and-Tracking-UAV)]. FDAFT
 
 
 
-## Compeletations
+## 🥇 Competition
  1. [AntiUAV 1st](https://anti-uav.github.io/)
 	The first AntiUAV challenge is a multi-modal challenge. It was held in 2020.  The website for the 1st AntiUAV is covered by the newest one. The winner is team *xiaobaibai*. One of its member is [Tianyang Xu](https://xu-tianyang.github.io/)
  2. [VOT-RGBT2019](https://votchallenge.net/vot2019/)
@@ -537,16 +537,16 @@ Multimodal-Detection-and-Tracking-UAV)]. FDAFT
     A competition in the RGBT tracking community. It was held in 2020. The winner is *DFAT*. One of its member is [Zhangyong Tang](https://github.com/Zhangyong-Tang/)
 
 
-## Awesome Repositories
+## ⚓ Awesome Repositories
 * [Awesome-Multimodal-Object-Tracking](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)
 * [RGB-Event-Benchmarks](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark)
 * [RGBT-Thermal-Results-Datasets-Methods](https://github.com/Zhangyong-Tang/RGBT-Tracking-Results-Datasets-and-Methods)
 
-## Acknowledgements
+## 🧑‍⚕️ Acknowledgements
 This work is supported by [PRCI-Lab](https://github.com/PRCI-Lab), which is an outstanding and also fast-developing group. Please feel free to find out more information through its home page.
 
 
-## Questions
+## 🫰 Questions
 
 If you have any questions, please feel free to start the issue, or contact me at zhangyong_tang_jnu@163.com (wechat: Tzy18861871359  is also welcomed).
 
