@@ -406,7 +406,7 @@ Multimodal-Detection-and-Tracking-UAV)]. FDAFT
 * Multimodal Deep Feature Fusion (MMDFF) for RGB-D Tracking. Ming-xin Jiang, Chao Deng, Ming-min Zhang, Jing-song Shan, and Haiyan Zhang. Complexity 2018. [[paper](https://onlinelibrary.wiley.com/doi/full/10.1155/2018/5676095)] [Code] MMDFF
 * Occlusion-Aware Correlation Particle Filter Target Tracking Based on RGBD Data. Yayu Zhai, Ping Song, Zonglei Mou, Xiaoxiao Chen, Xiongjun Liu. IEEE Access 2018. [[paper](https://ieeexplore.ieee.org/abstract/document/8463446)] [Code] OACPF
 * Robust Fusion of Color and Depth Data for RGB-D Target Tracking Using Adaptive Range-Invariant Depth Models and Spatio-Temporal Consistency Constraints. Jingjing Xiao, Rustam Stolkin, Yuqing Gao, and Aleš Leonardis. TCYB 2018. [[paper](https://ieeexplore.ieee.org/abstract/document/8026575)] [Code] STC.
-* Real-Time RGB-D Visual Tracking With Scale Estimation and Occlusion Handling. Jiaxu Leng, Ying Liu. IEEE Access 2018. [[paper](https://ieeexplore.ieee.org/abstract/document/8353501)] [Code]
+* Real-Time RGB-D Visual Tracking With Scale Estimation and Occlusion Handling. Jiaxu Leng, Ying Liu. IEEE Access 2018. [[paper](https://ieeexplore.ieee.org/abstract/document/8353501)] [Code] SEOH
   
 
 2017
