@@ -150,7 +150,7 @@
 ## :star: :Regular Papers 
 
 ### Unified (Model or Architecture for) Multi-Modal Tracking
-
+* AMATrack: A Unified Network With Asymmetric Multimodal Mixed Attention for RGBD Tracking. Ping Ye , Gang Xiao , and Jun Li. TIM 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10623547)] [[Code]()] AMATrack
 * MixRGBX: Universal multi-modal tracking with symmetric mixed attention. Meng Sun, Xiaotao Liu, Hongyu Wang, Jing Liu. Neurocomputing 2024. [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231224010452)] [[Code]()].
 * Towards a Generalist and Blind RGB-X Tracker. Yuedong Tan, Zongwei Wu, Yuqian Fu, Zhuyun Zhou, Guolei Sun, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte. Arxiv 2024. [[Paper](https://arxiv.org/abs/2405.17773)] [[Code](https://github.com/supertyd/XTrack)]. XTrack.
 * Long-term Frame-Event Visual Tracking: Benchmark Dataset and Baseline. Xiao Wang, Ju Huang, Shiao Wang, Chuanming Tang, Bo Jiang, Yonghong Tian, Jin Tang, and Bin Luo. Arxiv 2024. [[Paper](https://arxiv.org/abs/2403.05839)] [[Code](https://github.com/Event-AHU/FELT_SOT_Benchmark)] AMTTrack
@@ -360,7 +360,6 @@ Multimodal-Detection-and-Tracking-UAV)]. FDAFT
 
 2024
 * Adaptive Colour-Depth Aware Attention for RGB-D Object Tracking. Xue-Feng Zhu, Tianyang Xu, Xiao-Jun Wu, Zhenhua Feng, Josef Kittler. SPL 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10472092)] [[Code](https://github.com/xuefeng-zhu5/CDAAT)] CDAAT
-* AMATrack: A Unified Network With Asymmetric Multimodal Mixed Attention for RGBD Tracking. Ping Ye , Gang Xiao , and Jun Li. TIM 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10623547)] [[Code]()] AMATrack
 * Feature enhancement and coarse-to-fine detection for RGB-D tracking. Xue-Feng Zhu, Tianyang Xu, Xiao-Jun Wu, Josef Kittler. PRL 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0167865524000412)] [[Code]()] FECD
 * Self-supervised learning for RGB-D object tracking. Xue-Feng Zhu, Tianyang Xu, Sara Atito, Muhammad Awais, Xiao-Jun Wu, Zhenhua Feng, Josef Kittler. PR 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324002942)] [Code] SSLTrack
 * Visual Adapt for RGBD Tracking. Zhang, Guangtong and Liang, Qihua and Mo, Zhiyi and Li, Ning and Zhong, Bineng. ICASSP 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10447728)] [Code] VADT.
