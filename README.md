@@ -102,6 +102,7 @@
 | COESOT| Arxiv'2022 | [COESOT](https://github.com/Event-AHU/COESOT)|Revisiting Color-Event based Tracking: A Unified Network, Dataset, and Metric|
 | VisEvent| TCYB'2023 |[VisEvent](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark?tab=readme-ov-file)|VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows|
 | FE108/FE240hz| ICCV'2021 | [FE108/FE240hz](https://github.com/Jee-King/ICCV2021_Event_Frame_Tracking)|Object Tracking by Jointly Exploiting Frame and Event Domain|
+| EED| Arxiv'2018 | [EED](http://prg.cs.umd.edu/BetterFlow.html)|Event-based Moving Object Detection and Tracking|
 
 
 
