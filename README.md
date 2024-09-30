@@ -454,6 +454,7 @@ Multimodal-Detection-and-Tracking-UAV)]. FDAFT
 
 2024
 * CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras. Yabin Zhu, Xiao Wang, Chenglong Li, Bo Jiang, Lin Zhu, Zhixiang Huang, Yonghong Tian, Jin Tang. Arxiv 2024. [[Paper](https://arxiv.org/abs/2401.02826)] [[Code](https://github.com/Event-AHU/Cross_Resolution_SOT)] CRSOT
+* Dynamic Subframe Splitting and Spatio-Temporal Motion Entangled Sparse Attention for RGB-E Tracking. Pengcheng Shao, Tianyang Xu, Xuefeng Zhu, Xiaojun Wu, and Josef Kittler. PRCV 2024. [[Paper](https://arxiv.org/abs/2409.17560)] [[Code]()] DS-MSEA
 * eMoE-Tracker: Environmental MoE-based Transformer for Robust Event-guided Object Tracking. Yucheng Chen and Lin Wang. Arxiv 2024. [[Paper](https://arxiv.org/abs/2406.20024)] [[Code](https://vlislab22.github.io/eMoE-Tracker/)] eMoE-Tracker
 * ED-DCFNet: An Unsupervised Encoder-decoder Neural Model for Event-driven Feature Extraction and Object Tracking. Raz Ramon, Hadar Cohen-Duwek, Elishai Ezra Tsur. CVPRW 2024. [[Paper](https://openaccess.thecvf.com/content/CVPR2024W/EVW/papers/Ramon_ED-DCFNet_An_Unsupervised_Encoder-decoder_Neural_Model_for_Event-driven_Feature_Extraction_CVPRW_2024_paper.pdf)] [[Code](https://github.com/NBELab/UnsupervisedTracking)] ED-DCFNet
 * Mamba-FETrack: Frame-Event Tracking via State Space Model. Ju Huang, Shiao Wang, Shuai Wang, Zhe Wu, Xiao Wang, Bo Jiang. PRCV 2024. [[Paper](https://arxiv.org/abs/2404.18174)] [[Code](https://github.com/Event-AHU/Mamba_FETrack)] Mamba-FETrack
