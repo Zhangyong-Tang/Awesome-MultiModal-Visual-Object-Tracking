@@ -372,6 +372,7 @@ Multimodal-Detection-and-Tracking-UAV)]. FDAFT
 * Adaptive Colour-Depth Aware Attention for RGB-D Object Tracking. Xue-Feng Zhu, Tianyang Xu, Xiao-Jun Wu, Zhenhua Feng, Josef Kittler. SPL 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10472092)] [[Code](https://github.com/xuefeng-zhu5/CDAAT)] CDAAT
 * Feature enhancement and coarse-to-fine detection for RGB-D tracking. Xue-Feng Zhu, Tianyang Xu, Xiao-Jun Wu, Josef Kittler. PRL 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0167865524000412)] [[Code]()] FECD
 * Self-supervised learning for RGB-D object tracking. Xue-Feng Zhu, Tianyang Xu, Sara Atito, Muhammad Awais, Xiao-Jun Wu, Zhenhua Feng, Josef Kittler. PR 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324002942)] [Code] SSLTrack
+* Temporal adaptive bidirectional bridging for RGB-D tracking. Ge Ying, Dawei Zhang, Zhou Ou, Xiao Wang, Zhonglong Zheng. PR 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324008045?casa_token=6P-08tHJ5pkAAAAA:j7qF9oYkP_iVx3hHoNsx_nWTxaANWGXEUtkGOvIpw44txccFlaSYg-hl3z_Ux1u00izn4Yl2wA)] [Code] TABBTrack
 * Visual Adapt for RGBD Tracking. Zhang, Guangtong and Liang, Qihua and Mo, Zhiyi and Li, Ning and Zhong, Bineng. ICASSP 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10447728)] [Code] VADT.
 * 
 
