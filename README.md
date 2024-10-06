@@ -203,6 +203,7 @@ Multimodal-Detection-and-Tracking-UAV)]. FDAFT
 * Temporal Adaptive RGBT Tracking with Modality Prompt. Hongyu Wang, Xiaotao Liu*, Yifan Li, Meng Sun, Dian Yuan, Jing Liu. AAAI 2024. [[Paper](https://arxiv.org/abs/2401.01244)] [Code]. TATrack
 * Towards Modalities Correlation for RGB-T Tracking. Hu Xiantao, Zhong Bineng, Liang Qihua, Zhang Shengping, Li Ning, Li Xianxian. TCSVT 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10517645)] [[Code](https://github.com/GXNU-ZhongLab/MCTrack)]. MCTrack.
 * Transformer-based RGB-T Tracking with Channel and Spatial Feature Fusion. Yunfeng Li, Bo Wang, Ye Li, Zhiwen Yu, Liang Wang. Arxiv 2024. [[Paper](https://arxiv.org/abs/2405.03177)] [[Code](https://github.com/LiYunfengLYF/CSTNet)]. CSTNet.
+* Transformer RGBT Tracking with Spatio-Temporal Multimodal Tokens. Dengdi Sun, Yajie Pan, Andong Lu, Chenglong Li, Bin Luo. Arxiv 2024. [[Paper](https://arxiv.org/abs/2401.01674)] [[Code]()]. STMT.
 * Unified Single-Stage Transformer Network for Efficient RGB-T Tracking. Jianqiang Xia, DianXi Shi, Ke Song, Linna Song, XiaoLei Wang, Songchang Jin, Li Zhou, Yu Cheng, Lei Jin, Zheng Zhu, Jianan Li, Gang Wang, Junliang Xing, Jian Zhao. IJCAI 2024. [[paper](https://arxiv.org/abs/2308.13764)]  [[Code](https://github.com/xiajianqiang/USTrack)] USTrack
 
 
