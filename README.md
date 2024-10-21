@@ -35,7 +35,7 @@
 * RGBD1K: A Large-Scale Dataset and Benchmark for RGB-D Object Tracking. Xue-Feng Zhu, Tianyang Xu, Zhangyong Tang, ZuchengWu, Haodong Liu, Xiao Yang, Xiao-Jun Wu, Josef Kittler. AAAI 2023. RGBD1K. [[Paper](https://arxiv.org/abs/2208.09787)] [[Code](https://github.com/xuefeng-zhu5/RGBD1K)].
 * Exploring fusion strategies for accurate RGBT visual object tracking. Zhangyong Tang, Tianyang Xu, Hui Li, Xiao-Jun Wu, XueFeng Zhu, Josef Kittler. Information Fusion 2023. DFAT. [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253523001975)]. [[Code](https://github.com/Zhangyong-Tang/DFAT-Information-Fusion2023)].
 * Temporal Aggregation for Adaptive RGBT Tracking. Tang, Zhangyong and Xu, Tianyang and Wu, Xiao-Jun. Arxiv 2022. [[Paper](https://arxiv.org/abs/2201.08949)] [[Code](https://github.com/Zhangyong-Tang/TAAT)]. TAAT
-* <p style="color:red;">这段文字是红色的</p>
+* <font style="color:red;">这段文字是红色的</font>
 
 
 ## :punch: : Find what you want quickly
