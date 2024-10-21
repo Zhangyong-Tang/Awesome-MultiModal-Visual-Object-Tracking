@@ -27,15 +27,15 @@
 * UniMod1K: Towards a More Universal Large-Scale Dataset and Benchmark for Multi-modal Learning. Xue-Feng Zhu, Tianyang Xu, Zongtao Liu, Zhangyong Tang, Xiao-Jun Wu & Josef Kittler. IJCV 2024. [[Paper](https://link.springer.com/article/10.1007/s11263-024-01999-8)] [[Code](https://github.com/xuefeng-zhu5/UniMod1K)]
 * Generative-based Fusion Mechanism for Multi-Modal Tracking. Zhangyong Tang, Tianyang Xu, Xuefeng Zhu, Xiao-Jun Wu*, Josef Kittler. AAAI 2024.  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28325)] [[Code](https://github.com/Zhangyong-Tang/GMMT-AAAI2024)].
 * Multi-Level Fusion for Robust RGBT Tracking via Enhanced Thermal Representation. Zhangyong Tang, Tianyang Xu, Xiaojun Wu, Josef Kittler. ACMTOMM 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3678176)] [[Code](https://github.com/Zhangyong-Tang/MELT)]. MELT
-* Dynamic Subframe Splitting and Spatio-Temporal Motion Entangled Sparse Attention for RGB-E Tracking. Shao, Pengcheng and Xu, Tianyang and Zhu, Xuefeng and Wu, Xiaojun and Kittler, Josef. PRCV 2024.  
-<p style="color:red;">这段文字是红色的</p> Best Paper Nomination Award. [[Paper](https://arxiv.org/abs/2409.17560)] [Code]. DS-MESA
+* Dynamic Subframe Splitting and Spatio-Temporal Motion Entangled Sparse Attention for RGB-E Tracking. Shao, Pengcheng and Xu, Tianyang and Zhu, Xuefeng and Wu, Xiaojun and Kittler, Josef. PRCV 2024.  Best Paper Nomination Award. [[Paper](https://arxiv.org/abs/2409.17560)] [Code]. DS-MESA
 * TENet: Targetness Entanglement Incorporating with Multi-Scale Pooling and Mutually-Guided Fusion for RGB-E Object Tracking. Pengcheng Shao, Tianyang Xu, Zhangyong Tang, Linze Li, Xiao-Jun Wu, Josef Kittler. Arxiv 2024. [[Paper](https://arxiv.org/abs/2405.05004)] [[Code](https://github.com/SSSpc333/TENet)].
 * Feature enhancement and coarse-to-fine detection for RGB-D tracking. Xue-Feng Zhu, Tianyang Xu, Xiao-Jun Wu, Josef Kittler. PRL 2024. FECD.
 * Adaptive Colour-Depth Aware Attention for RGB-D Object Tracking. Xue-Feng Zhu, Tianyang Xu, Xiao-Jun Wu, Zhenhua Feng, Josef Kittler. SPL 2024. CDAAT. [[Paper](https://ieeexplore.ieee.org/abstract/document/10472092)] [[Code](https://github.com/xuefeng-zhu5/CDAAT)].
 * Self-supervised learning for RGB-D object tracking. Xue-Feng Zhu, Tianyang Xu, Sara Atito, Muhammad Awais, Xiao-Jun Wu, Zhenhua Feng, Josef Kittler. PR 2024. SSLTrack.
 * RGBD1K: A Large-Scale Dataset and Benchmark for RGB-D Object Tracking. Xue-Feng Zhu, Tianyang Xu, Zhangyong Tang, ZuchengWu, Haodong Liu, Xiao Yang, Xiao-Jun Wu, Josef Kittler. AAAI 2023. RGBD1K. [[Paper](https://arxiv.org/abs/2208.09787)] [[Code](https://github.com/xuefeng-zhu5/RGBD1K)].
 * Exploring fusion strategies for accurate RGBT visual object tracking. Zhangyong Tang, Tianyang Xu, Hui Li, Xiao-Jun Wu, XueFeng Zhu, Josef Kittler. Information Fusion 2023. DFAT. [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253523001975)]. [[Code](https://github.com/Zhangyong-Tang/DFAT-Information-Fusion2023)].
-* Temporal Aggregation for Adaptive RGBT Tracking. Tang, Zhangyong and Xu, Tianyang and Wu, Xiao-Jun. Arxiv 2022. TAAT. [[Paper](https://arxiv.org/abs/2201.08949)] [[Code](https://github.com/Zhangyong-Tang/TAAT)].
+* Temporal Aggregation for Adaptive RGBT Tracking. Tang, Zhangyong and Xu, Tianyang and Wu, Xiao-Jun. Arxiv 2022. [[Paper](https://arxiv.org/abs/2201.08949)] [[Code](https://github.com/Zhangyong-Tang/TAAT)]. TAAT
+* <p style="color:red;">这段文字是红色的</p>
 
 
 ## :punch: : Find what you want quickly
