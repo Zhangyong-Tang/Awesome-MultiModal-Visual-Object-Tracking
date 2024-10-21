@@ -28,7 +28,7 @@
 * Generative-based Fusion Mechanism for Multi-Modal Tracking. Zhangyong Tang, Tianyang Xu, Xuefeng Zhu, Xiao-Jun Wu*, Josef Kittler. AAAI 2024.  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28325)] [[Code](https://github.com/Zhangyong-Tang/GMMT-AAAI2024)].
 * Multi-Level Fusion for Robust RGBT Tracking via Enhanced Thermal Representation. Zhangyong Tang, Tianyang Xu, Xiaojun Wu, Josef Kittler. ACMTOMM 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3678176)] [[Code](https://github.com/Zhangyong-Tang/MELT)]. MELT
 * Dynamic Subframe Splitting and Spatio-Temporal Motion Entangled Sparse Attention for RGB-E Tracking. Shao, Pengcheng and Xu, Tianyang and Zhu, Xuefeng and Wu, Xiaojun and Kittler, Josef. PRCV 2024.  
-<span style="color:red;">这段文字是红色的</span> Best Paper Nomination Award. [[Paper](https://arxiv.org/abs/2409.17560)] [Code]. DS-MESA
+<p style="color:red;">这段文字是红色的</p> Best Paper Nomination Award. [[Paper](https://arxiv.org/abs/2409.17560)] [Code]. DS-MESA
 * TENet: Targetness Entanglement Incorporating with Multi-Scale Pooling and Mutually-Guided Fusion for RGB-E Object Tracking. Pengcheng Shao, Tianyang Xu, Zhangyong Tang, Linze Li, Xiao-Jun Wu, Josef Kittler. Arxiv 2024. [[Paper](https://arxiv.org/abs/2405.05004)] [[Code](https://github.com/SSSpc333/TENet)].
 * Feature enhancement and coarse-to-fine detection for RGB-D tracking. Xue-Feng Zhu, Tianyang Xu, Xiao-Jun Wu, Josef Kittler. PRL 2024. FECD.
 * Adaptive Colour-Depth Aware Attention for RGB-D Object Tracking. Xue-Feng Zhu, Tianyang Xu, Xiao-Jun Wu, Zhenhua Feng, Josef Kittler. SPL 2024. CDAAT. [[Paper](https://ieeexplore.ieee.org/abstract/document/10472092)] [[Code](https://github.com/xuefeng-zhu5/CDAAT)].
