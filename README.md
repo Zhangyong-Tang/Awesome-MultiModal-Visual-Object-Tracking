@@ -153,6 +153,7 @@
 ## :star: :Regular Papers 
 
 ### Unified (Model or Architecture for) Multi-Modal Tracking
+* EMTrack: Efficient Multimodal Object Tracking. Chang Liu, Ziqi Guan, Simiao Lai, Yang Liu, Huchuan Lu, Dong Wang. TCSVT 2024.  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10747517)] [Code] EMTrack
 * AMATrack: A Unified Network With Asymmetric Multimodal Mixed Attention for RGBD Tracking. Ping Ye , Gang Xiao , and Jun Li. TIM 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10623547)] [[Code]()] AMATrack
 * MixRGBX: Universal multi-modal tracking with symmetric mixed attention. Meng Sun, Xiaotao Liu, Hongyu Wang, Jing Liu. Neurocomputing 2024. [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231224010452)] [[Code]()].
 * Towards a Generalist and Blind RGB-X Tracker. Yuedong Tan, Zongwei Wu, Yuqian Fu, Zhuyun Zhou, Guolei Sun, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte. Arxiv 2024. [[Paper](https://arxiv.org/abs/2405.17773)] [[Code](https://github.com/supertyd/XTrack)]. XTrack.
