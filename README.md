@@ -281,7 +281,7 @@
 * RGBT Tracking by Trident Fusion Network. Zhu Yabin and Li, Chenglong and Tang, Jin and Luo, Bin and Wang, Liang. TCSVT 2022. [[paper](https://ieeexplore.ieee.org/abstract/document/9383014)]  [Code] TFNet.
 * Residual learning-based two-stream network for RGB-T object tracking. Yili Chen, Minjie Wan, Yunkai Xu, Xiaojie Zhang, Qian Chen, Guohua Gu. JEI 2022. [[paper](https://scholar.google.com/scholar?q=Residual+learning-based+two-stream+network+for+RGB-T+object+tracking&hl=zh-CN&as_sdt=0,5)]  [[Code](https://github.com/MinjieWan/Residual-learning-based-two-stream-network-for-RGB-T-object-tracking)] RLTN
 * SCA-MMA: Spatial and Channel-Aware Multi-Modal Adaptation for Robust RGB-T Object Tracking. Run Shi, Chaoqun Wang, Gang Zhao, Chunyan Xu. ELECTRONICS 2022. [[paper](https://www.mdpi.com/2079-9292/11/12/1820)]  [Code] SCA-MMA
-* SiamMMF: multi-modal multi-level fusion object tracking based on Siamese networks. Zhen Yang, Peng Huang, Dunyun He, Zhongwang Cai & Zhijian Yin. Machine Vision and Applications 2022. [[paper](https://link.springer.com/article/10.1007/s00138-022-01354-2)]  [Code] SiamMMF
+* SiamMMF: multi-modal multi-level fusion object tracking based on Siamese networks. Zhen Yang, Peng Huang, Dunyun He, Zhongwang Cai and Zhijian Yin. Machine Vision and Applications 2022. [[paper](https://link.springer.com/article/10.1007/s00138-022-01354-2)]  [Code] SiamMMF
 * Temporal Aggregation for Adaptive RGBT Tracking. Tang, Zhangyong and Xu, Tianyang and Wu, Xiao-Jun. Arxiv 2022. [[paper](https://arxiv.org/abs/2201.08949)]  [[Code](https://github.com/Zhangyong-Tang/TAAT)] TAAT
 * Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline. Pengyu Zhang, Jie Zhao, Dong Wang, Huchuan Lu, Xiang Ruan. CVPR 2022. [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Visible-Thermal_UAV_Tracking_A_Large-Scale_Benchmark_and_New_Baseline_CVPR_2022_paper.html)]  [[Code](https://github.com/zhang-pengyu/HMFT)] HMFT.
 
@@ -319,12 +319,12 @@
 
 * Dense Feature Aggregation and Pruning for RGBT Tracking. Yabin Zhu, Chenglong Li, Bin Luo, Jin Tang, Xiao Wang. ACM MM 2019. [[paper](https://dl.acm.org/doi/abs/10.1145/3343031.3350928)]  [Code] DAPNet.
 * Deep Adaptive Fusion Network for High Performance RGBT Tracking. Yuan Gao, Chenglong Li, Yabin Zhu, Jin Tang, Tao He, Futian Wang. ICCVW 2019. [[paper](https://openaccess.thecvf.com/content_ICCVW_2019/html/VISDrone/Gao_Deep_Adaptive_Fusion_Network_for_High_Performance_RGBT_Tracking_ICCVW_2019_paper.html)]  [[Code](https://github.com/mjt1312/DAFNet)] DAFNet
-* Fast RGB-T Tracking via Cross- Modal Correlation Filters. Sulan Zhai, Pengpeng Shao*, Xinyan Liang, Xin Wang. Neurocomputing 2019. [[paper](https://www.sciencedirect.com/science/article/pii/S0925231219300347)]  [Code] CMCFT
+* Fast RGB-T Tracking via Cross- Modal Correlation Filters. Sulan Zhai, Pengpeng Shao, Xinyan Liang, Xin Wang. Neurocomputing 2019. [[paper](https://www.sciencedirect.com/science/article/pii/S0925231219300347)]  [Code] CMCFT
 * Learning Local-Global Multi-Graph Descriptors for RGB-T Object Tracking. Chenglong Li, Chengli Zhu, Jian Zhang, Bin Luo, Xiaohao Wu, and Jin Tang. TCSVT 2019. [[paper](https://ieeexplore.ieee.org/abstract/document/8485393)]  [Code] LGMG
 * Learning Target-oriented Dual Attention for Robust RGB-T Tracking. Rui Yang, Yabin Zhu, Xiao Wang, Chenglong Li, Jin Tang. Arxiv 2019.[[paper](https://arxiv.org/abs/1908.04441)]  [Code] LTODA
 * Multi-Modal Fusion for End-to-End RGB-T Tracking. Lichao Zhang, Martin Danelljan, Abel Gonzalez-Garcia, Joost van de Weijer, Fahad Shahbaz Khan. ICCVW 2019. [[paper](https://openaccess.thecvf.com/content_ICCVW_2019/html/VOT/Zhang_Multi-Modal_Fusion_for_End-to-End_RGB-T_Tracking_ICCVW_2019_paper.html)]  [[Code](https://github.com/zhanglichao/end2end_rgbt_tracking)] mfDiMP
 * Multi-Adapter RGBT Tracking. Chenglong Li, Andong Lu, Aihua Zheng, Zhengzheng Tu, Jin Tang. ICCVW 2019. [[paper](https://openaccess.thecvf.com/content_ICCVW_2019/html/VOT/Li_Multi-Adapter_RGBT_Tracking_ICCVW_2019_paper.html)]  [[Code](https://github.com/Alexadlu/MANet)] MANet 
-* SiamFT: An RGB-Infrared Fusion Tracking Method via Fully Convolutional Siamese Networks. Xingcheng Zhang, Ping Ye, Shengyun Peng, Jun Liu, Ke Gong, GANG XIAO. IEEE Access 2019. [[paper](https://ieeexplore.ieee.org/abstract/document/8809774)]  [Code] SiamFT
+* SiamFT: An RGB-Infrared Fusion Tracking Method via Fully Convolutional Siamese Networks. Xingcheng Zhang, Ping Ye, Shengyun Peng, Jun Liu, Ke Gong, Gang Xiao. IEEE Access 2019. [[paper](https://ieeexplore.ieee.org/abstract/document/8809774)]  [Code] SiamFT
 * Thermal infrared and visible sequences fusion tracking based on a hybrid tracking framework with adaptive weighting scheme. Chengwei Luoa, Bin Suna, Ke Yanga, Taoran Lua, Wei-Chang Yeh. IPT 2019. [[paper](https://www.sciencedirect.com/science/article/pii/S1350449519300258)]  [Code] AWS
 
 2018
@@ -348,7 +348,7 @@
 
 2012
 
-* Fusion tracking in color and infrared images using joint sparse representation. LIU HuaPing, SUN FuChun. Science China Information Sciences 2012. [[paper](https://link.springer.com/article/10.1007/s11432-011-4536-9)]  [Code] JSR 
+* Fusion tracking in color and infrared images using joint sparse representation. Liu Huaping, Sun Fuchun. Science China Information Sciences 2012. [[paper](https://link.springer.com/article/10.1007/s11432-011-4536-9)]  [Code] JSR 
 
 
 2011
@@ -413,18 +413,18 @@
 * Context-Aware Three-Dimensional Mean-Shift With Occlusion Handling for Robust Object Tracking in RGB-D Videos. Ye Liu, Xiao-Yuan Jing, Jianhui Nie, Hao Gao, Jun Liu, Guo-Ping Jiang. TMM 2019. [[paper](https://ieeexplore.ieee.org/abstract/document/8425768)] [Code] CA3DMS
 * Depth Information Aided Constrained correlation Filter for Visual Tracking. Guanqun Li, Lei Huang, Peichang Zhang, Qiang Li, YongKai Huo. GSKI  2019. [[paper](https://iopscience.iop.org/article/10.1088/1755-1315/234/1/012005/meta)] [Code] Depth-CCF
 * DS-KCF: A Real-time Tracker for RGB-D Data. Sion Hannuna, Massimo Camplani, Jake Hall, Majid Mirmehdi, Dima Damen, Tilo Burghardt, Adeline Paiement, Lili Tao. RTIP 2019. [[paper](https://link.springer.com/article/10.1007/s11554-016-0654-3)] [Code] DS-KCF_shape
-* Hierarchical multi-modal fusion FCN with attention model for RGB-D tracking. Ming-xin Jiang, Chao Deng, Jing-song Shan, Yuan-yuan Wang, Yin-jie Jia, Xing Sun. Information Fusion 2019. [[paper](https://www.sciencedirect.com/science/article/pii/S1566253517306784)] [Code] H-FCN
+* Hierarchical multi-modal fusion FCN with attention model for RGB-D tracking. Ming-xin Jiang, Chao Deng, Jingsong Shan, Yuanyuan Wang, Yinjie Jia, Xing Sun. Information Fusion 2019. [[paper](https://www.sciencedirect.com/science/article/pii/S1566253517306784)] [Code] H-FCN
 * Object Tracking by Reconstruction with View-Specific Discriminative Correlation Filters. Ugur Kart, Alan Lukezic, Matej Kristan, Joni-Kristian Kamarainen, Jiri Matas. CVPR 20219. [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Kart_Object_Tracking_by_Reconstruction_With_View-Specific_Discriminative_Correlation_Filters_CVPR_2019_paper.html)] [[Code](https://github.com/ugurkart/OTR)] OTR
 * RGB-D Object Tracking with Occlusion Detection. Yujun Xie, Yao Lu, Shuang Gu. CIS 2019. [[paper](https://ieeexplore.ieee.org/abstract/document/9023755)] [Code] RGBD-OD
 * RGB-D tracker under Hierarchical structure. Li, Yifan and Wang, Xuan and Jiang, Zoe L. and Qi, Shuhan and Liu, Xinhui and Chen, Qian. CIFEr 2019. [[paper](https://ieeexplore.ieee.org/abstract/document/8759064)] [Code] HST
 * Target-Aware Correlation Filter Tracking in RGBD Videos. Kuai, Yangliu and Wen, Gongjian and Li, Dongdong and Xiao, Jingjing. IEEE Sensors Journal 2019. [[paper](https://ieeexplore.ieee.org/abstract/document/8752050)] [Code] ECO_TA
-* Visual Object Tracking in RGB-D Data via Genetic Feature Learning. Ming-xin Jiang, Xian-xian Luo, Tao Hai, Hai-yan Wang, Song Yang and Ahmed N. Abdalla. Complexity 2019. [[paper](https://onlinelibrary.wiley.com/doi/full/10.1155/2019/4539410)] [Code] GFL
+* Visual Object Tracking in RGB-D Data via Genetic Feature Learning. Mingxin Jiang, Xianxian Luo, Tao Hai, Haiyan Wang, Song Yang and Ahmed N. Abdalla. Complexity 2019. [[paper](https://onlinelibrary.wiley.com/doi/full/10.1155/2019/4539410)] [Code] GFL
 
 2018
 * A Real-time RGB-D tracker based on KCF. Han Zhang, Meng Cai, Jianxun Li. CCDC 2018. [[paper](https://ieeexplore.ieee.org/abstract/document/8407972)] [Code] RT-KCF
-* Depth Masked Discriminative Correlation Filter. Uğur Kart, Joni-Kristian Kämäräinen, Jiří Matas, Lixin Fan, Francesco Cricri. ICPR 2018. [[paper](https://ieeexplore.ieee.org/abstract/document/8546179)] [Code] DM-DCF
-* How to Make an RGBD Tracker ?. Kart, Uğur and Kämäräinen, Joni-Kristian and Matas, Jiří. ECCVW 2018. [[paper](https://openaccess.thecvf.com/content_eccv_2018_workshops/w1/html/Kart_How_to_Make_an_RGBD_Tracker__ECCVW_2018_paper.html)] [[Code](https://github.com/ugurkart/rgbdconverter)] CSRDCF_RGBD++
-* Multimodal Deep Feature Fusion (MMDFF) for RGB-D Tracking. Ming-xin Jiang, Chao Deng, Ming-min Zhang, Jing-song Shan, and Haiyan Zhang. Complexity 2018. [[paper](https://onlinelibrary.wiley.com/doi/full/10.1155/2018/5676095)] [Code] MMDFF
+* Depth Masked Discriminative Correlation Filter. Uğur Kart, JoniKristian Kämäräinen, Jiří Matas, Lixin Fan, Francesco Cricri. ICPR 2018. [[paper](https://ieeexplore.ieee.org/abstract/document/8546179)] [Code] DM-DCF
+* How to Make an RGBD Tracker ?. Kart, Uğur and Kämäräinen, JoniKristian and Matas, Jiří. ECCVW 2018. [[paper](https://openaccess.thecvf.com/content_eccv_2018_workshops/w1/html/Kart_How_to_Make_an_RGBD_Tracker__ECCVW_2018_paper.html)] [[Code](https://github.com/ugurkart/rgbdconverter)] CSRDCF_RGBD++
+* Multimodal Deep Feature Fusion (MMDFF) for RGB-D Tracking. Mingxin Jiang, Chao Deng, Ming-min Zhang, Jingsong Shan, and Haiyan Zhang. Complexity 2018. [[paper](https://onlinelibrary.wiley.com/doi/full/10.1155/2018/5676095)] [Code] MMDFF
 * Occlusion-Aware Correlation Particle Filter Target Tracking Based on RGBD Data. Yayu Zhai, Ping Song, Zonglei Mou, Xiaoxiao Chen, Xiongjun Liu. IEEE Access 2018. [[paper](https://ieeexplore.ieee.org/abstract/document/8463446)] [Code] OACPF
 * Robust Fusion of Color and Depth Data for RGB-D Target Tracking Using Adaptive Range-Invariant Depth Models and Spatio-Temporal Consistency Constraints. Jingjing Xiao, Rustam Stolkin, Yuqing Gao, and Aleš Leonardis. TCYB 2018. [[paper](https://ieeexplore.ieee.org/abstract/document/8026575)] [Code] STC.
 * Real-Time RGB-D Visual Tracking With Scale Estimation and Occlusion Handling. Jiaxu Leng, Ying Liu. IEEE Access 2018. [[paper](https://ieeexplore.ieee.org/abstract/document/8353501)] [Code] SEOH
@@ -436,7 +436,7 @@
 * Visual Object Tracking Based on Cross-Modality Gaussian-Bernoulli Deep Boltzmann Machines with RGB-D Sensors. Mingxin Jiang, Zhigeng Pan and Zhenzhou Tang. Sensors 2017. [[paper](https://www.mdpi.com/1424-8220/17/1/121)] [Code] DBM
 
 2016
-* Online RGB-D Tracking via Detection-Learning-Segmentation. Ning An, Xiao-Guang Zhao, Zeng-Guang Hou. ICPR 2016. [[paper](https://ieeexplore.ieee.org/abstract/document/7899805)] [Code] DLS
+* Online RGB-D Tracking via Detection-Learning-Segmentation. Ning An, Xiaoguang Zhao, Zeng-Guang Hou. ICPR 2016. [[paper](https://ieeexplore.ieee.org/abstract/document/7899805)] [Code] DLS
 * Occlusion Aware Particle Filter Tracker to Handle Complex and Persistent Occlusions. Kourosh Meshgia, Shin-ichi Maedaa, Shigeyuki Obaa, Henrik Skibbea, Yu-zhe Lia, Shin Ishii. CVIU 2016. [[paper](https://ishiilab.jp/member/meshgi-k/files/ai/prl14/OAPF.pdf)] [Code] OAPF
 * 3D Part-Based Sparse Tracker with Automatic Synchronization and Registration. Adel Bibi, Tianzhu Zhang, Bernard Ghanem. CVPR 2016. [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Bibi_3D_Part-Based_Sparse_CVPR_2016_paper.html)] [[Code](https://github.com/adelbibi/3D-Part-Based-Sparse-Tracker-with-Automatic-Synchronization-and-Registration)] 3D-T
 
@@ -543,7 +543,7 @@
 
 ### RGB-S Tracking
 
-* RGB-Sonar Tracking Benchmark and Spatial Cross-Attention Transformer Tracker. Yunfeng Li, Bo Wang*, Jiuran Sun, Xueyi Wu, Ye Li. Arxiv 2024. RGBS50. [[Paper](https://arxiv.org/pdf/2406.07189)] [[Code](https://github.com/LiYunfengLYF/RGBS50)]
+* RGB-Sonar Tracking Benchmark and Spatial Cross-Attention Transformer Tracker. Yunfeng Li, Bo Wang, Jiuran Sun, Xueyi Wu, Ye Li. Arxiv 2024. RGBS50. [[Paper](https://arxiv.org/pdf/2406.07189)] [[Code](https://github.com/LiYunfengLYF/RGBS50)]
 
 ### RGB-Multi Tracking
 * Visual and Language Collaborative Learning for RGBT Object Tracking. Jiahao Wang, Fang Liu, Licheng Jiao, Yingjia Gao, Hao Wang, Shuo Li,, Lingling Li,, Puhua Chen,and Xu Liu. TCSVT 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10620225)] [Code]
