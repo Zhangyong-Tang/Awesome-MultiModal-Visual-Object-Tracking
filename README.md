@@ -489,6 +489,7 @@
 
 ### RGB-L Tracking
 2024
+* Boost Tracking by Natural Language With Prompt-Guided Grounding. Hengyou Li, Xinyan Liu, Guorong Li, Shuhui Wang, Laiyun Qing and Qingming Huang. TIST 2024. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10756281)] [Code] PGG
 * Context-Aware Integration of Language and Visual References for Natural Language Tracking. Yanyan Shao, Shuting He, Qi Ye, Yuchao Feng, Wenhan Luo, Jiming Chen. CVPR 2024. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Shao_Context-Aware_Integration_of_Language_and_Visual_References_for_Natural_Language_CVPR_2024_paper.html)] [[Code](https://github.com/twotwo2/QueryNLT)] QueryNLT.
 * ChatTracker: Enhancing Visual Tracking Performance via Chatting with Multimodal Large Language Model. Yiming Sun, Fan Yu, Shaoxiang Chen, Yu Zhang, Junwei Huang, Yang Li, Chenhui Li, Changbo Wang. NIPS 2024. [[Paper]( https://arxiv.org/abs/2411.01756)] [Code()] ChatTracker
 * Consistencies are All You Need for Semi-supervised Vision-Language Tracking.  Jiawei Ge, Jiuxin Cao, Xuelin Zhu, Xinyu Zhang, Chang Liu, Kun Wang, Bo Liu. ACM MM 2024. [[Paper](https://openreview.net/forum?id=jLJ3htNxVX)] [Code] ATTracker
