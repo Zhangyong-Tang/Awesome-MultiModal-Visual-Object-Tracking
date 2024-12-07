@@ -21,7 +21,7 @@
 * [RGBT-Tracking-Results-Datasets-and-Methods](https://github.com/Zhangyong-Tang/RGBT-Tracking-Results-Datasets-and-Methods)
 * [RGBD-Tracking-Results-Datasets-and-Methods](https://github.com/Zhangyong-Tang/RGBD-Tracking-Results-Datasets-and-Methods)
 * [RGBE-Tracking-Results-Datasets-and-Methods](https://github.com/Zhangyong-Tang/RGBE-Tracking-Results-Datasets-and-Methods)
-* [RGBL-Tracking-Results-Datasets-and-Methods](https://github.com/Zhangyong-Tang/RGBL-Tracking-Results-Datasets-and-Methodss)
+* [RGBL-Tracking-Results-Datasets-and-Methods](https://github.com/Zhangyong-Tang/RGBL-Tracking-Results-Datasets-and-Methods)
 * [RGBNIR/S-Tracking-Results-Datasets-and-Methods](https://github.com/Zhangyong-Tang/MultiModal-Visual-Object-tracking)
 
 ## :point_right: : Our contributions to the MMVOT community
