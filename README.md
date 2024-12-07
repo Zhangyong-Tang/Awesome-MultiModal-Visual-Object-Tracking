@@ -379,6 +379,7 @@
 ### RGB-D Tracking
 
 2024
+* 3D Prompt Learning for RGB-D Tracking. Bocen Li, Yunzhi Zhuge, Shan Jiang, Lijun Wang, Yifan Wang, Huchuan Lu. ACCV 2024. [[paper](https://openaccess.thecvf.com/content/ACCV2024/papers/Li_3D_Prompt_Learning_for_RGB-D_Tracking_ACCV_2024_paper.pdf)] [Code] 3DPT 
 * Adaptive Colour-Depth Aware Attention for RGB-D Object Tracking. Xue-Feng Zhu, Tianyang Xu, Xiao-Jun Wu, Zhenhua Feng, Josef Kittler. SPL 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10472092)] [[Code](https://github.com/xuefeng-zhu5/CDAAT)] CDAAT
 * DepthRefiner: Adapting RGB Trackers to RGBD Scenes via Depth-Fused Refinement. Simiao Lai, Dong Wang, Huchuan Lu. ICME 2024. [[paper]()] [Code] DepthRefiner
 * Feature enhancement and coarse-to-fine detection for RGB-D tracking. Xue-Feng Zhu, Tianyang Xu, Xiao-Jun Wu, Josef Kittler. PRL 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0167865524000412)] [[Code]()] FECD
