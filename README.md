@@ -1,13 +1,16 @@
 #  A Comprehensive Survey for Multi-Modal Visual Object tracking
 
-<p align="center">
-<img src="https://github.com/Zhangyong-Tang/MultiModal-Visual-Object-tracking/blob/main/mindmap-1114.png" width="800">
-</p>
+![52d4e727e88379083d6f8fcaf670f51](https://github.com/user-attachments/assets/85cae47b-6314-4b57-b306-6d37bf6da403)
+
+![897d0557b5d87cc758cd08d1374db1c](https://github.com/user-attachments/assets/e913ac33-45ea-4885-bd3b-4e75cddfb0b8)
+
+![518f577d859a3f0f6427fd9d9ee58bf](https://github.com/user-attachments/assets/a32c81ca-c4ee-44a5-ab61-107b337aa477)
 
 #### We appreciate any efforts committed to the development of Multi-Modal Visual Object Tracking. Please feel free to connect us (zhangyong_tang_jnu@163.com,tianyang.xu@jiangnan.edu.cn) for discussion or missed works.
 
 
 ## 💥: Update Log 
+* [2024.12.17] We update the criterion for taxonomy and also invovle newly published methods.
 * [2024.11.18] Our Github is made open-source. Our paper is coming soon.
 * [2024.07.02] ALL paper and code links added. 
 * [2024.06.20] Paper and code links for RGBT papers.
