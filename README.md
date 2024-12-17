@@ -1,10 +1,11 @@
 #  A Comprehensive Survey for Multi-Modal Visual Object tracking
 
-![52d4e727e88379083d6f8fcaf670f51](https://github.com/user-attachments/assets/85cae47b-6314-4b57-b306-6d37bf6da403)
+![dcfbff06c60fb4d695f8cbc65cee8fb](https://github.com/user-attachments/assets/836d8725-9e3a-404d-820f-5ed18ef9eebc)
 
-![897d0557b5d87cc758cd08d1374db1c](https://github.com/user-attachments/assets/e913ac33-45ea-4885-bd3b-4e75cddfb0b8)
+![7aa8d19bb7ad1ca6efa1899e2838246](https://github.com/user-attachments/assets/fe064c6b-41cd-43e0-b9e4-d2d5c1d55021)
 
-![518f577d859a3f0f6427fd9d9ee58bf](https://github.com/user-attachments/assets/a32c81ca-c4ee-44a5-ab61-107b337aa477)
+![Uploading 37964dbc6bd1e3e542ac099e396ee9e.png…]()
+
 
 #### We appreciate any efforts committed to the development of Multi-Modal Visual Object Tracking. Please feel free to connect us (zhangyong_tang_jnu@163.com,tianyang.xu@jiangnan.edu.cn) for discussion or missed works.
 
