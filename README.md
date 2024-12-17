@@ -4,7 +4,8 @@
 
 ![7aa8d19bb7ad1ca6efa1899e2838246](https://github.com/user-attachments/assets/fe064c6b-41cd-43e0-b9e4-d2d5c1d55021)
 
-![Uploading 37964dbc6bd1e3e542ac099e396ee9e.png…]()
+
+![37964dbc6bd1e3e542ac099e396ee9e](https://github.com/user-attachments/assets/cdd8fa5e-b49c-4dcd-b8b0-3d4511a78273)
 
 
 #### We appreciate any efforts committed to the development of Multi-Modal Visual Object Tracking. Please feel free to connect us (zhangyong_tang_jnu@163.com,tianyang.xu@jiangnan.edu.cn) for discussion or missed works.
