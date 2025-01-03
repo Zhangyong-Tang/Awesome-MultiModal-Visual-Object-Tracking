@@ -145,6 +145,7 @@
 
 
 ## :star2: :Surveys and Report
+* RGBD/T/L/Lidar ---- Visual Object Tracking across Diverse Data Modalities: A Review. Mengmeng Wang, Teli Ma, Shuo Xin, Xiaojun Hou, Jiazheng Xing, Guang Dai, Jingdong Wang, and Yong Liu. [[Paper](Arxiv 2024. https://arxiv.org/abs/2412.09991)]
 * RGBT ---- A Comprehensive Review of RGBT Tracking. Haiping Zhang, Di Yuan, Xiu Shu, Zhihui Li, Qiao Liu, Xiaojun Chang, Zhenyu He, and Guangming Shi. TIM 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10616144)]
 * RGBT ---- RGBT tracking: A comprehensive review. Mingzheng Feng, Jianbo Su. Information Fusion 2024. [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253524002707)]
 * RGBT ---- Review and Analysis of RGBT Single Object Tracking Methods: A Fusion Perspective. Zhihao Zhang, Jun Wang, Zhuli Zang, Lei Jin, Shengjie Li, Hao Wu,Jian Zhao, Zhang Bo. ACM TOMM 2024. [[Paper](https://dl.acm.org/doi/10.1145/3651308)]
