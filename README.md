@@ -515,6 +515,7 @@
 
 ### RGB-L Tracking
 2025
+* Mamba Adapter: Efficient Multi-Modal Fusion for Vision-Language Tracking. Liangtao Shi, Bineng Zhong, Qihua Liang, Xiantao Hu, Zhiyi Mo, Shuxiang Song. TCSVT 2025. [[Paper](https://ieeexplore.ieee.org/document/10948517)] [Code] MAVLT
 * Joint feature extraction and alignment in object tracking with  vision-language model. Hong Zhu, Qingyang Lu, Lei Xue, Guanglin Yuan, Kaihua Zhang. EAAI 2025. [[Paper](https://www.sciencedirect.com/science/article/pii/S0952197625007870)] [Code] A-CLIP
 * Learning Language Prompt for Vision-Language Tracking. Chengao Zong, Jie Zhao, Xin Chen, Huchuan Lu, Dong Wang. TCSVT, 2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/10947500)] [Code] Pro-VLT
 
