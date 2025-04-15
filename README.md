@@ -484,6 +484,9 @@
 
 
 ### RGB-E Tracking
+2025
+* Prior Knowledge-Driven Hybrid Prompter Learning for RGB-Event Tracking. Mianzhao Wang, Fan Shi, Xu Cheng, and Shengyong Chen. TCSVT 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/10962221)] [Code] HPL
+* SNNPTrack: Spiking Neural Network Based Prompt for High-Accuracy RGBE Tracking. Yixi Ji, Qinghang Zhao∗, Yuping Liang, and Jinjian Wu. ICASSP 2025.  [[paper](https://ieeexplore.ieee.org/abstract/document/10889195)] [Code] SNNPTrack
 
 2024
 * CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras. Yabin Zhu, Xiao Wang, Chenglong Li, Bo Jiang, Lin Zhu, Zhixiang Huang, Yonghong Tian, Jin Tang. Arxiv 2024. [[Paper](https://arxiv.org/abs/2401.02826)] [[Code](https://github.com/Event-AHU/Cross_Resolution_SOT)] CRSOT
