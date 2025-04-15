@@ -162,6 +162,7 @@
 ## :star: :Regular Papers 
 
 ### Unified (Model or Architecture for) Multi-Modal Tracking
+* Cross-Modality Distillation for Multi-modal Tracking. Tianlu Zhang, Qiang Zhang, Kurt Debattista, Jungong Han. TPAMI 2025.  [[paper](https://ieeexplore.ieee.org/document/10943265)] [[Code](https://github.com/Tianlu-Zhang/TransCMD)] CMDTrack
 * SUTrack: Towards Simple and Unified Single Object Tracking. Xin Chen, Ben Kang, Wanting Geng, Jiawen Zhu, Yi Liu, Dong Wang, Huchuan Lu. AAAI 2025. [[paper](https://arxiv.org/abs/2412.19138)] [[Code](https://github.com/chenxin-dlut/SUTrack)] SUTrack
 * EMTrack: Efficient Multimodal Object Tracking. Chang Liu, Ziqi Guan, Simiao Lai, Yang Liu, Huchuan Lu, Dong Wang. TCSVT 2024.  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10747517)] [Code] EMTrack
 * AMATrack: A Unified Network With Asymmetric Multimodal Mixed Attention for RGBD Tracking. Ping Ye , Gang Xiao , and Jun Li. TIM 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10623547)] [[Code]()] AMATrack
