@@ -510,6 +510,9 @@
 * 
 
 ### RGB-L Tracking
+2025
+* Learning Language Prompt for Vision-Language Tracking. Chengao Zong, Jie Zhao, Xin Chen, Huchuan Lu, Dong Wang. TCSVT, 2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/10947500)] [Code] Pro-VLT
+
 2024
 * Boost Tracking by Natural Language With Prompt-Guided Grounding. Hengyou Li, Xinyan Liu, Guorong Li, Shuhui Wang, Laiyun Qing and Qingming Huang. TIST 2024. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10756281)] [Code] PGG
 * Context-Aware Integration of Language and Visual References for Natural Language Tracking. Yanyan Shao, Shuting He, Qi Ye, Yuchao Feng, Wenhan Luo, Jiming Chen. CVPR 2024. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Shao_Context-Aware_Integration_of_Language_and_Visual_References_for_Natural_Language_CVPR_2024_paper.html)] [[Code](https://github.com/twotwo2/QueryNLT)] QueryNLT.
