@@ -64,6 +64,7 @@
 
 | Dataset | Publish  | GitHub| Introduction|
 |--|--|--| --|
+| QuadTrack600| Arxiv'2025 |[QuadTrack600]() |RGB+T+E+L: Towards General Multimodal Visual Tracking|
 | UniMod1K| IJCV'2024 |[UniMod1K](https://github.com/xuefeng-zhu5/UniMod1K) |RGB+D+L: UniMod1K: Towards a More Universal Large-Scale Dataset and Benchmark for Multi-modal Learning|
 | WebUAV-3M| TPAMI'2023 | [WebUAV-3M](https://github.com/983632847/WebUAV-3M) | RGB+L+Audio: WebUAV-3M: A Benchmark for Unveiling the Power of Million-Scale Deep UAV Tracking|
 
@@ -185,6 +186,7 @@
 * Breaking Shallow Limits: Task-Driven Pixel Fusion for Gap-free RGBT Tracking. Andong Lu, Yuanzhi Guo, Wanyu Wang, Chenglong Li, Jin Tang, Bin Luo. Arxiv 2025. [[Paper](https://arxiv.org/abs/2503.11247)] [Code]. TPF
 * Cross-Modal Stealth: A Coarse-to-Fine Attack Framework for RGB-T Tracker. Xinyu Xiang, Qinglong Yan, Hao Zhang, Jianfeng Ding, Han Xu, Zhongyuan Wang, Jiayi Ma. AAAI 2025. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32931)] [[Code](https://github.com/Xinyu-Xiang/CMS)]. CMS
 * Enhanced RGBT Tracking Network with Semantic Generation and Historical Context. Zhao Gao, Dongming Zhou, Jinde Cao, Yisong Liu, Qingqing Shan. TIM 2025.  [[Paper](https://ieeexplore.ieee.org/abstract/document/10925564/)] [Code]. SHT
+* Exploiting Multimodal Spatial-temporal Patterns for Video Object Tracking. Xiantao Hu, Ying Tai, Xu Zhao, Chen Zhao, Zhenyu Zhang, Jun Li, Bineng Zhong, Jian Yang. AAAI 2025. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32372)] [[Code](https://github.com/NJU-PCALab/STTrack.)]. STTrack
 * FcFNet: A Challenge-Based Feature Complementary Fusion Network for RGBT Tracking. Wensheng Wang, Congjian Li, Di Zhang, Huihui Zhou, Mingli Xie, Haoran Zhou and Kun Fu. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/10803956)] [[Code](https://github.com/saajoejge/FcFNet)]. FcFNet
 * IAMTrack: interframe appearance and modality tokens propagation with temporal modeling for RGBT tracking. Huiwei Shi, Xiaodong Mu, Hao He, Chengliang Zhong, Bo Zhang, Peng Zhao. Applied Intelligence 2025. [[Paper](https://link.springer.com/article/10.1007/s10489-025-06438-w)] [Code]. IAMTrack
 * MKFTracker: An RGBT tracker via multimodal knowledge embedding and feature interaction. Fangfang Lia, Weidai Xia, Dongming Zhou, Jinde Cao. KBS 2025. [[Paper](https://www.sciencedirect.com/science/article/pii/S0950705124014941)] [Code]. MKFTracker
