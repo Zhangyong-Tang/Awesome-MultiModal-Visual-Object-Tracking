@@ -187,6 +187,7 @@
 * FcFNet: A Challenge-Based Feature Complementary Fusion Network for RGBT Tracking. Wensheng Wang, Congjian Li, Di Zhang, Huihui Zhou, Mingli Xie, Haoran Zhou and Kun Fu. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/10803956)] [[Code](https://github.com/saajoejge/FcFNet)]. FcFNet
 
 2024
+* FADSiamNet: feature afnity drift siamese network for RGB‑T target tracking. Haiyan Li, Yonghui Cao, Lei Guo, Quan Chen, Zhaisheng Ding, Shidong Xie. IJMLC 2024. [[Paper](https://link.springer.com/article/10.1007/s13042-024-02420-z)] [Code]. JKAKF
 * A Lightweight Robust RGB-T Object Tracker Based on Jitter Factor and Associated Kalman Filter. Shuixin Pan , Haopeng Wang , Dilong Li , Yueqiang Zhang ,Bahubali Shiragapur , Xiaolin Liu , Qifeng Yu. Information Fusion 2024.  [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253524006201?casa_token=DAIf-W5KmzAAAAAA:CkibyOkX6UJf5Dzu49_x6lUxqz_7e5UQSmucRHzyXd7cLHK61EpEvRyUzb8xTxt9p4GdR-rNJjw)] [Code]. JKAKF
 * AFter: Attention-based Fusion Router for RGBT Tracking. Andong Lu, Wanyu Wang, Chenglong Li, Jin Tang, Bin Luo. Arxiv 2024. [[Paper](https://arxiv.org/abs/2405.02717)] [[Code](https://github.com/Alexadlu/AFter)]. AFter
 * A content-aware correlation filter with multi-feature fusion for RGB-T tracking. Feng Zihang, Yan Liping, Bai Jinglan, Xia Yuanqing, and Xiao Bo. Journal of Systems Engineering and Electronics 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10530492)] [Code]. CAFF
