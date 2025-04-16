@@ -186,6 +186,7 @@
 * Enhanced RGBT Tracking Network with Semantic Generation and Historical Context. Zhao Gao, Dongming Zhou, Jinde Cao, Yisong Liu, Qingqing Shan. TIM 2025.  [[Paper](https://ieeexplore.ieee.org/abstract/document/10925564/)] [Code]. SHT
 * FcFNet: A Challenge-Based Feature Complementary Fusion Network for RGBT Tracking. Wensheng Wang, Congjian Li, Di Zhang, Huihui Zhou, Mingli Xie, Haoran Zhou and Kun Fu. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/10803956)] [[Code](https://github.com/saajoejge/FcFNet)]. FcFNet
 * IAMTrack: interframe appearance and modality tokens propagation with temporal modeling for RGBT tracking. Huiwei Shi, Xiaodong Mu, Hao He, Chengliang Zhong, Bo Zhang, Peng Zhao. Applied Intelligence 2025. [[Paper](https://link.springer.com/article/10.1007/s10489-025-06438-w)] [Code]. IAMTrack
+* MKFTracker: An RGBT tracker via multimodal knowledge embedding and feature interaction. Fangfang Lia, Weidai Xia, Dongming Zhou, Jinde Cao. KBS 2025. [[Paper](https://www.sciencedirect.com/science/article/pii/S0950705124014941)] [Code]. MKFTracker
 
 2024
 * FADSiamNet: feature afnity drift siamese network for RGB‑T target tracking. Haiyan Li, Yonghui Cao, Lei Guo, Quan Chen, Zhaisheng Ding, Shidong Xie. IJMLC 2024. [[Paper](https://link.springer.com/article/10.1007/s13042-024-02420-z)] [Code]. JKAKF
