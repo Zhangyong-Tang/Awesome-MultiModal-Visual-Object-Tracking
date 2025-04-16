@@ -181,6 +181,7 @@
 
 ### RGB-T Tracking
 2025
+* IAMTrack: interframe appearance and modality tokens propagation with temporal modeling for RGBT tracking. Huiwei Shi, Xiaodong Mu, Hao He, Chengliang Zhong, Bo Zhang, Peng Zhao. Applied Intelligence 2025. [[Paper](https://link.springer.com/article/10.1007/s10489-025-06438-w)] [Code]. IAMTrack
 * BTMTrack: Robust RGB-T Tracking via Dual-template Bridging and Temporal-Modal Candidate Elimination. Zhongxuan Zhanga, Bi Zenga, Xinyu Nia, Yimin Du. Arxiv 2025. [[Paper](https://arxiv.org/abs/2501.03616)] [Code]. BTMTrack
 * Cross-Modal Stealth: A Coarse-to-Fine Attack Framework for RGB-T Tracker. Xinyu Xiang, Qinglong Yan, Hao Zhang, Jianfeng Ding, Han Xu, Zhongyuan Wang, Jiayi Ma. AAAI 2025. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32931)] [[Code](https://github.com/Xinyu-Xiang/CMS)]. CMS
 * FcFNet: A Challenge-Based Feature Complementary Fusion Network for RGBT Tracking. Wensheng Wang, Congjian Li, Di Zhang, Huihui Zhou, Mingli Xie, Haoran Zhou and Kun Fu. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/10803956)] [[Code](https://github.com/saajoejge/FcFNet)]. FcFNet
