@@ -163,6 +163,7 @@
 ## :star: :Regular Papers 
 
 ### Unified (Model or Architecture for) Multi-Modal Tracking
+* LightFC-X: Lightweight Convolutional Tracker for RGB-X Tracking. Yunfeng Li Bo Wang Ye Li. Arxiv 2025.  [[paper](https://arxiv.org/abs/2502.18143)] [[Code](https://github.com/LiYunfengLYF/LightFC-X)] LightFC-X
 * Cross-Modality Distillation for Multi-modal Tracking. Tianlu Zhang, Qiang Zhang, Kurt Debattista, Jungong Han. TPAMI 2025.  [[paper](https://ieeexplore.ieee.org/document/10943265)] [[Code](https://github.com/Tianlu-Zhang/TransCMD)] CMDTrack
 * Exploiting Multimodal Spatial-temporal Patterns for Video Object Tracking. Xiantao Hu, Ying Tai, Xu Zhao, Chen Zhao, Zhenyu Zhang, Jun Li, Bineng Zhong, Jian Yang. AAAI 2025. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32372)] [[Code](https://github.com/NJU-PCALab/STTrack.)]. STTrack
 * SUTrack: Towards Simple and Unified Single Object Tracking. Xin Chen, Ben Kang, Wanting Geng, Jiawen Zhu, Yi Liu, Dong Wang, Huchuan Lu. AAAI 2025. [[paper](https://arxiv.org/abs/2412.19138)] [[Code](https://github.com/chenxin-dlut/SUTrack)] SUTrack
