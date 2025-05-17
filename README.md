@@ -27,7 +27,7 @@
 * [RGBD-Tracking-Results-Datasets-and-Methods](https://github.com/Zhangyong-Tang/RGBD-Tracking-Results-Datasets-and-Methods)
 * [RGBE-Tracking-Results-Datasets-and-Methods](https://github.com/Zhangyong-Tang/RGBE-Tracking-Results-Datasets-and-Methods)
 * [RGBL-Tracking-Results-Datasets-and-Methods](https://github.com/Zhangyong-Tang/RGBL-Tracking-Results-Datasets-and-Methods)
-* [RGBNIR/S-Tracking-Results-Datasets-and-Methods](https://github.com/Zhangyong-Tang/MultiModal-Visual-Object-tracking)
+* [RGBNIR/S-Tracking-Results-Datasets-and-Methods](https://github.com/Zhangyong-Tang/RGBNIR-S-Tracking-Results-Datasets-and-Methods)
 
 ## :point_right: : Our contributions to the MMVOT community
 * UniMod1K: Towards a More Universal Large-Scale Dataset and Benchmark for Multi-modal Learning. Xue-Feng Zhu, Tianyang Xu, Zongtao Liu, Zhangyong Tang, Xiao-Jun Wu, and Josef Kittler. IJCV 2024. [[Paper](https://link.springer.com/article/10.1007/s11263-024-01999-8)] [[Code](https://github.com/xuefeng-zhu5/UniMod1K)]
