@@ -1,7 +1,7 @@
 # Omni-Survey for Multimodality Analysis in Visual Object Tracking
 
 
-![logo](t-s.png?width=500&height=300 "Omni-Survey for Multimodality Analysis in Visual Object Tracking") 
+
 
 
 #### We appreciate any efforts committed to the development of Multi-Modal Visual Object Tracking. Please feel free to connect us (zhangyong_tang_jnu@163.com,tianyang.xu@jiangnan.edu.cn) for discussion or missed works.
