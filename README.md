@@ -1,7 +1,7 @@
 #  A Comprehensive Survey for Multi-Modal Visual Object tracking
 
 
-![logo](logo.png?width=50&height=30 "Omni-Survey for Multimodality Analysis in Visual Object Tracking") Omni-Survey for Multimodality Analysis in Visual Object Tracking
+![logo](logo.png?width=40&height=24 "Omni-Survey for Multimodality Analysis in Visual Object Tracking") #Omni-Survey for Multimodality Analysis in Visual Object Tracking
 
 
 
