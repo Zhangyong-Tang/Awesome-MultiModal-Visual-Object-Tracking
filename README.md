@@ -2,7 +2,7 @@
 
 
 <div style="display: flex; align-items: center;">
-  <img src="![logo](https://github.com/user-attachments/assets/54f27760-d48d-4d83-bf59-cd902f1e3003)" alt="" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/54f27760-d48d-4d83-bf59-cd902f1e3003" alt="" style="margin-right: 10px;"/>
   <span>Omni-Survey for Multimodality Analysis in Visual Object Tracking</span>
 </div>
 
