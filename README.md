@@ -1,14 +1,8 @@
 # Omni-Survey for Multimodality Analysis in Visual Object Tracking
 
-
 ![logo](timeline-papers3.png?width=500&height=300 "Logo") 
 
 #### We appreciate any efforts committed to the development of Multi-Modal Visual Object Tracking. Please feel free to connect us (zhangyong_tang_jnu@163.com,tianyang.xu@jiangnan.edu.cn) for discussion or missed works.
-
-
-![logo](t-s1.png?width=500&height=300 "Logo") 
-
-
 
 ## 💥: Update Log 
 * [2024.12.17] We update the criterion for taxonomy and also invovle newly published methods.
@@ -20,6 +14,10 @@
 * [2024.05.29] All datasets are listed.
 * [2024.05.28] All survey papers and RGBT papers are listed.
 * [2023.12.16] The repository is started.
+
+## 🍰 Taxonomy for separated MMVOT methoeds
+![logo](t-s1.png?width=500&height=300 "Logo") 
+
 
 ## 🏃: Find Results Here
 * [RGBT-Tracking-Results-Datasets-and-Methods](https://github.com/Zhangyong-Tang/RGBT-Tracking-Results-Datasets-and-Methods)
