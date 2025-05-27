@@ -4,7 +4,6 @@
 
 #### We appreciate any efforts committed to the development of Multi-Modal Visual Object Tracking. Please feel free to connect us (zhangyong_tang_jnu@163.com,tianyang.xu@jiangnan.edu.cn) for discussion or missed works.
 
---
 
 ![logo](t-s1.png?width=500&height=300 "Logo") 
 
