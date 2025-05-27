@@ -15,13 +15,13 @@
 * [2024.05.28] All survey papers and RGBT papers are listed.
 * [2023.12.16] The repository is started.
 
-## 🍰 Taxonomy for separated MMVOT methoeds
+## 🍰 Taxonomy for separated MMVOT methods
 ![logo](t-s1.png?width=500&height=300 "Logo") 
 
-## 🍰 Taxonomy for unified MMVOT methoeds
+## 🍰 Taxonomy for unified MMVOT methods
 ![logo](taxonomy-unified2.png?width=500&height=300 "Logo") 
 
-## 🍰 Results for unified MMVOT methoeds
+## 🍰 Results for unified MMVOT methods
 ![logo](uni-perform.png?width=500&height=300 "Logo") 
 
 
