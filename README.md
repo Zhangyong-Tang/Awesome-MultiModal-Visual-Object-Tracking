@@ -1,7 +1,7 @@
 # Omni-Survey for Multimodality Analysis in Visual Object Tracking
 
 
-![logo](logo.png?width=40&height=24 "Omni-Survey for Multimodality Analysis in Visual Object Tracking") <font size="5"> Omni-Survey for Multimodality Analysis in Visual Object Tracking</font>
+![logo](logo.png?width=40&height=24 "Omni-Survey for Multimodality Analysis in Visual Object Tracking") <font size="15"> Omni-Survey for Multimodality Analysis in Visual Object Tracking</font>
 
 
 
