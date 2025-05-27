@@ -7,7 +7,7 @@
 </div>
 
 <img src="logo.png" alt="Omni-Survey for Multimodality Analysis in Visual Object Tracking" style="height:50px; vertical-align:middle;"/>
-<span style="vertical-align:middle;">Omni-Survey for Multimodality Analysis in Visual Object Tracking</span>
+
 
 ![dcfbff06c60fb4d695f8cbc65cee8fb](https://github.com/user-attachments/assets/836d8725-9e3a-404d-820f-5ed18ef9eebc)
 
