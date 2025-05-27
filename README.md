@@ -1,16 +1,7 @@
 # Omni-Survey for Multimodality Analysis in Visual Object Tracking
 
 
-![logo](logo.png?width=40&height=24 "Omni-Survey for Multimodality Analysis in Visual Object Tracking") <font size="7"> Omni-Survey for Multimodality Analysis in Visual Object Tracking</font>
-
-
-
-![dcfbff06c60fb4d695f8cbc65cee8fb](https://github.com/user-attachments/assets/836d8725-9e3a-404d-820f-5ed18ef9eebc)
-
-![7aa8d19bb7ad1ca6efa1899e2838246](https://github.com/user-attachments/assets/fe064c6b-41cd-43e0-b9e4-d2d5c1d55021)
-
-
-![37964dbc6bd1e3e542ac099e396ee9e](https://github.com/user-attachments/assets/cdd8fa5e-b49c-4dcd-b8b0-3d4511a78273)
+![logo](t-s.png?width=500&height=300 "Omni-Survey for Multimodality Analysis in Visual Object Tracking") 
 
 
 #### We appreciate any efforts committed to the development of Multi-Modal Visual Object Tracking. Please feel free to connect us (zhangyong_tang_jnu@163.com,tianyang.xu@jiangnan.edu.cn) for discussion or missed works.
