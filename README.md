@@ -1,9 +1,7 @@
 #  A Comprehensive Survey for Multi-Modal Visual Object tracking
 
 
-<div style="width:50px; height:30px;">
-![logo](https://github.com/user-attachments/assets/200c7f07-bd4c-45b6-be33-c60efb9e0830)
-</div>
+![logo](logo.png?width=50&height=30 "Omni-Survey for Multimodality Analysis in Visual Object Tracking")
 
 
 
