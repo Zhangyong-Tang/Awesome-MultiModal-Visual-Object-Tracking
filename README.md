@@ -18,8 +18,10 @@
 ## 🍰 Taxonomy for separated MMVOT methoeds
 ![logo](t-s1.png?width=500&height=300 "Logo") 
 
+## 🍰 Taxonomy for unified MMVOT methoeds
+![logo](taxonomy-unified2.png?width=500&height=300 "Logo") 
 
-## 🏃: Find Results Here
+## 🏃: Find Quantitative Results Here
 * [RGBT-Tracking-Results-Datasets-and-Methods](https://github.com/Zhangyong-Tang/RGBT-Tracking-Results-Datasets-and-Methods)
 * [RGBD-Tracking-Results-Datasets-and-Methods](https://github.com/Zhangyong-Tang/RGBD-Tracking-Results-Datasets-and-Methods)
 * [RGBE-Tracking-Results-Datasets-and-Methods](https://github.com/Zhangyong-Tang/RGBE-Tracking-Results-Datasets-and-Methods)
