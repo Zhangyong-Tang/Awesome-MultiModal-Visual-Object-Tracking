@@ -1,8 +1,7 @@
+# Omni-Survey for Multimodality Analysis in Visual Object Tracking
 
 ![logo](timeline-papers3.png?width=500&height=300 "Logo") 
 
-
-# Omni-Survey for Multimodality Analysis in Visual Object Tracking
 
 ![logo](t-s1.png?width=500&height=300 "Logo") 
 
