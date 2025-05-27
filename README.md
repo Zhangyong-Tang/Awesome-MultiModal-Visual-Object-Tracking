@@ -6,6 +6,9 @@
   <span>Omni-Survey for Multimodality Analysis in Visual Object Tracking</span>
 </div>
 
+<img src="logo.png" alt="描述" style="height:50px; vertical-align:middle;"/>
+<span style="vertical-align:middle;">这是对应的文字</span>
+
 ![dcfbff06c60fb4d695f8cbc65cee8fb](https://github.com/user-attachments/assets/836d8725-9e3a-404d-820f-5ed18ef9eebc)
 
 ![7aa8d19bb7ad1ca6efa1899e2838246](https://github.com/user-attachments/assets/fe064c6b-41cd-43e0-b9e4-d2d5c1d55021)
