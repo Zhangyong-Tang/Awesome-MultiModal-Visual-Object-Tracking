@@ -34,7 +34,8 @@
 * [RGBNIR/S-Tracking-Results-Datasets-and-Methods](https://github.com/Zhangyong-Tang/RGBNIR-S-Tracking-Results-Datasets-and-Methods)
 
 ## :point_right: : Our contributions to the MMVOT community
-* Omni Survey for Multimodality Analysis in Visual Object Tracking. Zhangyong Tang, Tianyang Xu, Xuefeng Zhu, Hui Li, Shaochuan Zhao, Tao Zhou, Chunyang Cheng,  Xiaojun-Wu, and Josef Kittler. Arxiv 2025. 
+* Omni Survey for Multimodality Analysis in Visual Object Tracking. Zhangyong Tang, Tianyang Xu, Xuefeng Zhu, Hui Li, Shaochuan Zhao, Tao Zhou, Chunyang Cheng,  Xiaojun-Wu, and Josef Kittler. Arxiv 2025.
+* Revisiting RGBT Tracking Benchmarks from the Perspective of Modality Validity: A New Benchmark, Problem, and Solution. Zhangyong Tang, Tianyang Xu, Xiaojun-Wu, Xuefeng Zhu, Chunyang Cheng, Zhenhua Feng, and Josef Kittler. TIP 2025.
 * Serial Over Parallel: Learning Continual Unification for Multi-Modal Visual Object Tracking and Benchmarking. Zhangyong Tang, Tianyang Xu, Xuefeng Zhu, Chunyang Cheng, Tao Zhou, Xiaojun-Wu, and Josef Kittler. ACMMM 2025. 
 * Multi-modal Adapter for RGB-T Tracking. He Wang, Tianyang Xu, Zhangyong Tang, Xiaojun-Wu, and Josef Kittler. Information Fusion 2025. 
 * TENet: Targetness Entanglement Incorporating with Multi-Scale Pooling and Mutually-Guided Fusion for RGB-E Object Tracking. Pengcheng Shao, Tianyang Xu, Zhangyong Tang, Linze Li, Xiao-Jun Wu, Josef Kittler. Neural Network 2025. [[Paper](https://arxiv.org/abs/2405.05004)] [[Code](https://github.com/SSSpc333/TENet)].
