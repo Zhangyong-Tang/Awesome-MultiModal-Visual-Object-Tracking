@@ -36,6 +36,7 @@
 ## :point_right: : Our contributions to the MMVOT community
 * Omni Survey for Multimodality Analysis in Visual Object Tracking. Zhangyong Tang, Tianyang Xu, Xuefeng Zhu, Hui Li, Shaochuan Zhao, Tao Zhou, Chunyang Cheng,  Xiaojun-Wu, and Josef Kittler. Arxiv 2025.
 * Revisiting RGBT Tracking Benchmarks from the Perspective of Modality Validity: A New Benchmark, Problem, and Solution. Zhangyong Tang, Tianyang Xu, Xiaojun-Wu, Xuefeng Zhu, Chunyang Cheng, Zhenhua Feng, and Josef Kittler. TIP 2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/11178209/)] [[Code](https://github.com/Zhangyong-Tang/MoETrack)]. MoETrack
+* Collaborating Vision, Depth, and Thermal Signals for Multi-Modal Tracking: Dataset and Algorithm. Xuefeng Zhu, Tianyang Xu, Yifan Pan, Jinjie Gu, Xi Li, Jiwen Lu, Xiaojun Wu, Josef Kittler. NIPS 2025. [[Paper](https://arxiv.org/pdf/2509.24741)] [[CODE](https://xuefeng-zhu5.github.io/RGBDT500/)]. RGBDT500
 * Learning Progressive Adaptation for Multi-Modal Tracking. He Wang, Tianyang Xu, Zhangyong Tang, Xiaojun Wu, Josef Kittler. TMM 2025. 
 * Serial Over Parallel: Learning Continual Unification for Multi-Modal Visual Object Tracking and Benchmarking. Zhangyong Tang, Tianyang Xu, Xuefeng Zhu, Chunyang Cheng, Tao Zhou, Xiaojun-Wu, and Josef Kittler. ACMMM 2025. 
 * Multi-modal Adapter for RGB-T Tracking. He Wang, Tianyang Xu, Zhangyong Tang, Xiaojun-Wu, and Josef Kittler. Information Fusion 2025. 
