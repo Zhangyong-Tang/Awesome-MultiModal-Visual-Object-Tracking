@@ -198,8 +198,11 @@
 * Prompting for multi-modal tracking. Yang, Jinyu and Li, Zhe and Zheng, Feng and Leonardis, Ales and Song, Jingkuan. ACM MM 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3547851)] [Code]. ProTrack
 
 ### RGB-T Tracking
+2026
+* CADTrack: Learning Contextual Aggregation with Deformable Alignment for Robust RGBT Tracking. Hao Li, Yuhao Wang, Xiantao Hu, Wenning Hao, Pingping Zhang, Dong Wang, Huchuan Lu. AAAI 2026. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/37535)] [[Code](https://github.com/IdolLab/CADTrack)]. CADTrack
+
 2025
-* BTMTrack: Robust RGB-T Tracking via Dual-template Bridging and Temporal-Modal Candidate Elimination. Zhongxuan Zhanga, Bi Zenga, Xinyu Nia, Yimin Du. Arxiv 2025. [[Paper](https://arxiv.org/abs/2501.03616)] [Code]. BTMTrack
+* BTMTrack: Robust RGB-T Tracking via Dual-template Bridging and Temporal-Modal Candidate Elimination. Zhongxuan Zhang, Bi Zeng, Xinyu Ni, Yimin Du. Arxiv 2025. [[Paper](https://arxiv.org/abs/2501.03616)] [Code]. BTMTrack
 * Breaking Shallow Limits: Task-Driven Pixel Fusion for Gap-free RGBT Tracking. Andong Lu, Yuanzhi Guo, Wanyu Wang, Chenglong Li, Jin Tang, Bin Luo. Arxiv 2025. [[Paper](https://arxiv.org/abs/2503.11247)] [Code]. TPF
 * Cross-Modal Stealth: A Coarse-to-Fine Attack Framework for RGB-T Tracker. Xinyu Xiang, Qinglong Yan, Hao Zhang, Jianfeng Ding, Han Xu, Zhongyuan Wang, Jiayi Ma. AAAI 2025. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32931)] [[Code](https://github.com/Xinyu-Xiang/CMS)]. CMS
 * Enhanced RGBT Tracking Network with Semantic Generation and Historical Context. Zhao Gao, Dongming Zhou, Jinde Cao, Yisong Liu, Qingqing Shan. TIM 2025.  [[Paper](https://ieeexplore.ieee.org/abstract/document/10925564/)] [Code]. SHT
